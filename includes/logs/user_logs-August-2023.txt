@@ -1,0 +1,1650 @@
+[158.62.57.215 | 02-Aug-2023 16:09:15] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:09:16] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:09:21] 2-Admin User: update overtime status to13:00 and 14:00 testing 1:00pm - 2:00pm---2:00pm
+[158.62.57.215 | 02-Aug-2023 16:09:21] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:09:22] 2-Admin User: update overtime status to18:00 and 19:00 testing 6:00pm - 7:00pm---7:00pm
+[158.62.57.215 | 02-Aug-2023 16:09:22] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:10:26] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:10:28] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:10:30] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 897645, 1691002800, 4,
+ 'updating the renewal ' )INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 897645, 1691006400, 5, 'updating the renewal ' )
+[158.62.57.215 | 02-Aug-2023 16:10:30] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:10:31] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 4002, 16910
+20800, 4, 'upload files' )INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 4002, 1691024400, 5, 'upload files' )
+[158.62.57.215 | 02-Aug-2023 16:10:31] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:13:56] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:13:57] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:13:58] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 897645, 1691002800, 4, 
+'updating the renewal ' );INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:13:58] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:14:02] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 4002, 169102
+0800, 4, 'upload files' );INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:14:02] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:14:08] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:14:09] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:14:12] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 897645, 1691002800, 4, 
+'updating the renewal ' );INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:14:12] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:14:14] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 4002, 169102
+0800, 4, 'upload files' );INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VALUES ( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:14:14] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:19:08] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:19:09] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:19:11] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comme
+nt` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:19:11] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:19:13] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checkty
+pe`, `comment` ) VALUES ( 4002, 1691020800, 4, 'upload files' ),( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:19:13] 2-Admin User: update overtime status to1
+[120.28.237.186 | 02-Aug-2023 16:37:21] 20-daisy jane: Add leave for Doe John 2023-07-01 - 1
+[120.28.237.186 | 02-Aug-2023 16:37:43] 20-daisy jane: Update leave ID 43 status to 0
+[158.62.57.215 | 02-Aug-2023 16:51:56] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:51:59] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:52:16] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comme
+nt` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:52:16] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:52:17] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checkty
+pe`, `comment` ) VALUES ( 4002, 1691020800, 4, 'upload files' ),( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:52:17] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:52:24] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:52:25] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:52:37] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comme
+nt` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:52:37] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:52:38] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checkty
+pe`, `comment` ) VALUES ( 4002, 1691020800, 4, 'upload files' ),( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:52:38] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:52:57] 2-Admin User: Add timelog for biometric ID 123 for OTin : 2023-08-02 13:00:00
+[158.62.57.215 | 02-Aug-2023 16:53:13] 2-Admin User: Add timelog for biometric ID 123 for OTout : 2023-08-02 14:00:00
+[158.62.57.215 | 02-Aug-2023 16:53:20] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:53:21] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:58:31] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comme
+nt` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:58:31] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:58:32] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checkty
+pe`, `comment` ) VALUES ( 4002, 1691020800, 4, 'upload files' ),( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:58:32] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:58:33] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:58:34] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:58:45] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comme
+nt` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:58:45] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:58:47] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checkty
+pe`, `comment` ) VALUES ( 4002, 1691020800, 4, 'upload files' ),( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:58:47] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:58:48] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:58:49] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 16:59:01] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comme
+nt` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[158.62.57.215 | 02-Aug-2023 16:59:01] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 16:59:02] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checkty
+pe`, `comment` ) VALUES ( 4002, 1691020800, 4, 'upload files' ),( 4002, 1691024400, 5, 'upload files' );
+[158.62.57.215 | 02-Aug-2023 16:59:02] 2-Admin User: update overtime status to1
+[158.62.57.215 | 02-Aug-2023 20:28:20] 2-Admin User: Logged in.
+[158.62.57.215 | 02-Aug-2023 20:28:53] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 20:28:53] 2-Admin User: update overtime status to0
+[158.62.57.215 | 02-Aug-2023 21:38:04] 2-Admin User: Add timelog for biometric ID 4001 for ftimeOut : 2023-08-02 0:30:00
+[158.62.57.215 | 02-Aug-2023 21:39:23] 2-Admin User: Add timelog for biometric ID 4001 for stimeIn : 2023-08-02 13:00:00
+[158.62.57.215 | 02-Aug-2023 22:20:26] 2-Admin User: Add timelog for biometric ID 4001 for ftimeIn : 2023-07-29 1:00:00
+[158.62.57.215 | 02-Aug-2023 22:20:46] 2-Admin User: Add timelog for biometric ID 4001 for ftimeOut : 2023-07-29 7:30:00
+[158.62.57.215 | 02-Aug-2023 22:21:11] 2-Admin User: Add timelog for biometric ID 4001 for stimeIn : 2023-07-29 8:00:00
+[158.62.57.215 | 02-Aug-2023 22:21:31] 2-Admin User: Add timelog for biometric ID 4001 for stimeOut : 2023-07-29 17:00:00
+[158.62.57.215 | 02-Aug-2023 22:28:52] 2-Admin User: Add timelog for biometric ID 151515 First Time in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 22:28:53] 2-Admin User: Add timelog for biometric ID 151515 First Time out : 2023-08-02 1:00
+[158.62.57.215 | 02-Aug-2023 22:28:54] 2-Admin User: Add timelog for biometric ID 151515 Second Time in : 2023-08-02 1:00
+[158.62.57.215 | 02-Aug-2023 22:28:55] 2-Admin User: Add timelog for biometric ID 151515 Second Time out : 2023-08-02 1:30
+[158.62.57.215 | 02-Aug-2023 22:28:56] 2-Admin User: Add timelog for biometric ID 151515 OT in : 2023-08-02 1:30
+[158.62.57.215 | 02-Aug-2023 22:28:57] 2-Admin User: Add timelog for biometric ID 151515 OT out : 2023-08-02 1:00:00
+[158.62.57.215 | 02-Aug-2023 22:31:54] 2-Admin User: Add timelog for biometric ID 123 OT in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 22:31:55] 2-Admin User: Add timelog for biometric ID 123 OT out : 2023-08-02 1:00:00
+[158.62.57.215 | 02-Aug-2023 22:33:01] 2-Admin User: Add timelog for biometric ID 897645 OT in : 2023-08-02 1:00
+[158.62.57.215 | 02-Aug-2023 22:33:02] 2-Admin User: Add timelog for biometric ID 897645 OT out : 2023-08-02 1:30:00
+[158.62.57.215 | 02-Aug-2023 22:34:37] 2-Admin User: Add timelog for biometric ID 999 for OTin : 2023-08-02 0:30:00
+[158.62.57.215 | 02-Aug-2023 22:34:51] 2-Admin User: Add timelog for biometric ID 999 for OTout : 2023-08-02 8:00:00
+[158.62.57.215 | 02-Aug-2023 22:35:17] 2-Admin User: Add timelog for biometric ID 111111 First Time in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 22:35:18] 2-Admin User: Add timelog for biometric ID 111111 Second Time out : 2023-08-02 1:30
+[158.62.57.215 | 02-Aug-2023 23:01:09] 2-Admin User: Add timelog for biometric ID 151515 First Time in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:01:10] 2-Admin User: Add timelog for biometric ID 151515 Second Time out : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:01:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:01:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:02:57] 2-Admin User: Add timelog for biometric ID 123 First Time in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:02:58] 2-Admin User: Add timelog for biometric ID 123 Second Time out : 2023-08-02 1:30
+[158.62.57.215 | 02-Aug-2023 23:06:33] 2-Admin User: Add timelog for biometric ID 786787 First Time in : 2023-08-02 0:00
+[158.62.57.215 | 02-Aug-2023 23:06:34] 2-Admin User: Add timelog for biometric ID 786787 Second Time out : 2023-08-02 1:30
+[158.62.57.215 | 02-Aug-2023 23:07:50] 2-Admin User: Add timelog for biometric ID 567876 First Time in : 2023-08-02 1:00
+[158.62.57.215 | 02-Aug-2023 23:07:51] 2-Admin User: Add timelog for biometric ID 567876 Second Time out : 2023-08-02 2:00
+[158.62.57.215 | 02-Aug-2023 23:11:01] 2-Admin User: Add timelog for biometric ID 999 First Time in : 2023-08-02 0:00
+[158.62.57.215 | 02-Aug-2023 23:11:02] 2-Admin User: Add timelog for biometric ID 999 Second Time out : 2023-08-02 4:30
+[158.62.57.215 | 02-Aug-2023 23:22:41] 2-Admin User: Add timelog for biometric ID 4002 First Time in : 2023-08-02 1:00
+[158.62.57.215 | 02-Aug-2023 23:22:42] 2-Admin User: Add timelog for biometric ID 4002 Second Time out : 2023-08-02 1:30
+[158.62.57.215 | 02-Aug-2023 23:25:27] 2-Admin User: Add timelog for biometric ID 23 First Time in : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:25:28] 2-Admin User: Add timelog for biometric ID 23 Second Time out : 2023-08-02 0:30
+[158.62.57.215 | 02-Aug-2023 23:26:40] 2-Admin User: Add timelog for biometric ID 123098 First Time in : 2023-08-02 0:00
+[158.62.57.215 | 02-Aug-2023 23:26:41] 2-Admin User: Add timelog for biometric ID 123098 Second Time out : 2023-08-02 1:00
+[158.62.57.215 | 02-Aug-2023 23:34:10] 2-Admin User: Add timelog for biometric ID 4001 First Time in : 2023-08-01 0:00
+[158.62.57.215 | 02-Aug-2023 23:34:11] 2-Admin User: Add timelog for biometric ID 4001 Second Time out : 2023-08-01 0:30
+[158.62.57.215 | 02-Aug-2023 23:34:56] 2-Admin User: Add timelog for biometric ID 151515 First Time in : 2023-08-01 0:00
+[158.62.57.215 | 02-Aug-2023 23:34:57] 2-Admin User: Add timelog for biometric ID 151515 Second Time out : 2023-08-01 1:00
+[49.145.43.160 | 03-Aug-2023 08:11:15] 2-Admin User: Logged in.
+[120.28.229.149 | 03-Aug-2023 08:34:56] 20-daisy jane: Logged in.
+[120.28.229.149 | 03-Aug-2023 08:38:13] 20-daisy jane: Add holiday 1 on 2023-08-04
+[120.28.229.149 | 03-Aug-2023 08:38:24] 20-daisy jane: Add holiday 1 on 2023-08-09
+[120.28.229.149 | 03-Aug-2023 08:41:24] 20-daisy jane: Added Payroll 1st Payroll sample Array Success.
+[120.28.229.149 | 03-Aug-2023 08:41:58] 20-daisy jane: Generate Payslip for 1st Payroll sample
+[120.28.229.149 | 03-Aug-2023 08:42:02] 20-daisy jane: Generate Payslip for 1st Payroll sample
+[120.28.229.149 | 03-Aug-2023 08:42:02] 20-daisy jane: Generate Distribution for 1st Payroll sample
+[120.28.229.149 | 03-Aug-2023 08:42:02] 20-daisy jane: Generate Distribution for 1st Payroll sample
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-04 08:10 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 12:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-04 01:00 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 05:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-05 08:00 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 12:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-05 01:01 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 05:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-06 08:01 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 12:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-06 01:05 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 05:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-07 08:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 12:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-07 01:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 05:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-07 07:30 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 10:30 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-10 08:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 12:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-10 01:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 05:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 12:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-11 01:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 05:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 11:30 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-12 08:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 12:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-12 01:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 05:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-13 08:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 12:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-13 01:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 05:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:48:42] 2-Admin User: Start Work: 2023-07-14 07:50 St
+art Night: 2023-07-14 10:00. End Work: 2023-07-14 05:01 End Night: 2023-07-15 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-04 08:10 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 12:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-04 01:00 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 05:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-05 08:00 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 12:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-05 01:01 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 05:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-06 08:01 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 12:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-06 01:05 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 05:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-07 08:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 12:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-07 01:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 05:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-07 07:30 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 10:30 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-10 08:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 12:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-10 01:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 05:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 12:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-11 01:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 05:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 11:30 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-12 08:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 12:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-12 01:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 05:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-13 08:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 12:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-13 01:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 05:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:54:43] 2-Admin User: Start Work: 2023-07-14 07:50 St
+art Night: 2023-07-14 10:00. End Work: 2023-07-14 05:01 End Night: 2023-07-15 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-04 08:10 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 12:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-04 01:00 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 05:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-05 08:00 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 12:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-05 01:01 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 05:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-06 08:01 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 12:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-06 01:05 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 05:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-07 08:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 12:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-07 01:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 05:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-07 07:30 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 10:30 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-10 08:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 12:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-10 01:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 05:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 12:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-11 01:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 05:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 11:30 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-12 08:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 12:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-12 01:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 05:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-13 08:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 12:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-13 01:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 05:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:29] 2-Admin User: Start Work: 2023-07-14 07:50 St
+art Night: 2023-07-14 10:00. End Work: 2023-07-14 05:01 End Night: 2023-07-15 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-04 08:10 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 12:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-04 01:00 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 05:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-05 08:00 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 12:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-05 01:01 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 05:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-06 08:01 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 12:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-06 01:05 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 05:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-07 08:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 12:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-07 01:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 05:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-07 07:30 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 11:30 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-10 08:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 12:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-10 01:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 05:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 12:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-11 01:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 05:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 11:30 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-12 08:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 12:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-12 01:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 05:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-13 08:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 12:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-13 01:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 05:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:55:43] 2-Admin User: Start Work: 2023-07-14 07:50 St
+art Night: 2023-07-14 10:00. End Work: 2023-07-14 05:01 End Night: 2023-07-15 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-04 08:10 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 12:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-04 01:00 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 05:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-05 08:00 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 12:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-05 01:01 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 05:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-06 08:01 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 12:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-06 01:05 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 05:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-07 08:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 12:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-07 01:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 05:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-07 07:30 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 10:30 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-10 08:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 12:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-10 01:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 05:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 12:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-11 01:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 05:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 11:30 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-12 08:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 12:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-12 01:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 05:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-13 08:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 12:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-13 01:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 05:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:56:02] 2-Admin User: Start Work: 2023-07-14 07:50 St
+art Night: 2023-07-14 10:00. End Work: 2023-07-14 05:01 End Night: 2023-07-15 06:00
+[120.28.229.149 | 03-Aug-2023 08:56:20] 20-daisy jane: Add overtime for Bonares Miguelito on 2023-07-01 time 6:00pm - 7:30pm
+[120.28.229.149 | 03-Aug-2023 08:56:27] 20-daisy jane: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comm
+ent` ) VALUES ( 897645, 1691002800, 4, 'updating the renewal ' ),( 897645, 1691006400, 5, 'updating the renewal ' );
+[120.28.229.149 | 03-Aug-2023 08:56:27] 20-daisy jane: update overtime status to1
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-04 08:10 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 12:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-04 01:00 St
+art Night: 2023-07-04 10:00. End Work: 2023-07-04 05:00 End Night: 2023-07-05 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-05 08:00 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 12:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-05 01:01 St
+art Night: 2023-07-05 10:00. End Work: 2023-07-05 05:00 End Night: 2023-07-06 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-06 08:01 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 12:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-06 01:05 St
+art Night: 2023-07-06 10:00. End Work: 2023-07-06 05:00 End Night: 2023-07-07 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-07 08:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 12:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-07 01:00 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 05:00 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-07 07:30 St
+art Night: 2023-07-07 10:00. End Work: 2023-07-07 10:30 End Night: 2023-07-08 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-10 08:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 12:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-10 01:00 St
+art Night: 2023-07-10 10:00. End Work: 2023-07-10 05:00 End Night: 2023-07-11 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 12:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-11 01:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 05:00 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-11 08:00 St
+art Night: 2023-07-11 10:00. End Work: 2023-07-11 11:30 End Night: 2023-07-12 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-12 08:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 12:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-12 01:00 St
+art Night: 2023-07-12 10:00. End Work: 2023-07-12 05:00 End Night: 2023-07-13 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-13 08:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 12:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-13 01:00 St
+art Night: 2023-07-13 10:00. End Work: 2023-07-13 05:00 End Night: 2023-07-14 06:00
+[49.145.43.160 | 03-Aug-2023 08:57:10] 2-Admin User: Start Work: 2023-07-14 07:50 St
+art Night: 2023-07-14 10:00. End Work: 2023-07-14 05:01 End Night: 2023-07-15 06:00
+[158.62.57.215 | 03-Aug-2023 09:16:57] 2-Admin User: Logged in.
+[120.28.229.149 | 03-Aug-2023 09:43:54] 20-daisy jane: Logged in.
+[120.28.229.149 | 03-Aug-2023 09:53:14] 20-daisy jane: Added Employee Aisa Cadiao
+[49.145.43.160 | 03-Aug-2023 11:16:51] 2-Admin User: Set Nightdiff Actual Rate.
+[49.145.43.160 | 03-Aug-2023 11:30:01] 2-Admin User: Update Schedule Customer support
+[120.28.229.149 | 03-Aug-2023 11:32:06] 20-daisy jane: Logged in.
+[120.28.229.149 | 03-Aug-2023 11:35:58] 20-daisy jane: Add overtime for ALABOT nermal on 2023-07-01 time 5:00pm - 7:00pm
+[120.28.229.149 | 03-Aug-2023 11:36:04] 20-daisy jane: INSERT INTO `records` ( `idd`, `checktime`, `ch
+ecktype`, `comment` ) VALUES ( 4001, 1688252400, 4, 'OVERTIME' ),( 4001, 1688259600, 5, 'OVERTIME' );
+[120.28.229.149 | 03-Aug-2023 11:36:04] 20-daisy jane: update overtime status to1
+[49.145.43.160 | 03-Aug-2023 16:19:26] 2-Admin User: Logged in.
+[49.145.43.160 | 03-Aug-2023 16:20:16] 2-Admin User: Generate Payslip for bonares
+[49.145.43.160 | 03-Aug-2023 16:20:18] 2-Admin User: Generate Payslip for bonares
+[49.145.43.160 | 03-Aug-2023 16:20:25] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:20:25] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:21:23] 2-Admin User: Generate Payslip for bonares
+[49.145.43.160 | 03-Aug-2023 16:21:24] 2-Admin User: Generate Payslip for bonares
+[49.145.43.160 | 03-Aug-2023 16:24:58] 2-Admin User: Generate Payslip for bonares
+[49.145.43.160 | 03-Aug-2023 16:24:58] 2-Admin User: Generate Payslip for bonares
+[49.145.43.160 | 03-Aug-2023 16:25:41] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:25:41] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:28:41] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:28:41] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:29:34] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:29:34] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:30:18] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:30:18] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:30:50] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:30:50] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:31:17] 2-Admin User: Generate Distribution for bonares
+[49.145.43.160 | 03-Aug-2023 16:31:17] 2-Admin User: Generate Distribution for bonares
+[120.28.236.162 | 09-Aug-2023 08:04:50] 2-Admin User: Logged in.
+[120.28.236.162 | 09-Aug-2023 08:16:18] 42-Miguelito Bonares: Logged in.
+[120.28.236.162 | 09-Aug-2023 08:47:24] 42-Miguelito Bonares: Logged out.
+[120.28.236.162 | 09-Aug-2023 10:18:50] 2-Admin User: Create Schedule Uncut Sched
+[120.28.236.162 | 09-Aug-2023 10:35:10] 2-Admin User: Update Schedule Uncut Sched
+[120.28.236.162 | 09-Aug-2023 10:35:18] 2-Admin User: Update Schedule Uncut Sched
+[120.28.236.162 | 09-Aug-2023 10:35:31] 2-Admin User: Update Schedule Uncut Sched
+[120.28.236.162 | 09-Aug-2023 10:36:10] 2-Admin User: Update Schedule Uncut Sched
+[120.28.236.162 | 09-Aug-2023 10:36:17] 2-Admin User: Update Schedule Uncut Sched
+[120.28.236.162 | 09-Aug-2023 10:50:32] 2-Admin User: Add timelog for biometric ID 4001 First Time in : 2023-08-09 8:00
+[120.28.236.162 | 09-Aug-2023 10:50:33] 2-Admin User: Add timelog for biometric ID 4001 First Time out : 2023-08-09 12:00
+[120.28.236.162 | 09-Aug-2023 10:50:34] 2-Admin User: Add timelog for biometric ID 4001 Second Time in : 2023-08-09 13:00
+[120.28.236.162 | 09-Aug-2023 10:50:35] 2-Admin User: Add timelog for biometric ID 4001 Second Time out : 2023-08-09 17:00
+[120.28.236.162 | 09-Aug-2023 16:22:37] 2-Admin User: Logged in.
+[49.145.36.255 | 10-Aug-2023 15:52:13] 2-Admin User: Logged in.
+[49.145.36.255 | 10-Aug-2023 16:24:57] 2-Admin User: Deleted Employee celeste montero
+[49.145.36.255 | 10-Aug-2023 16:25:00] 2-Admin User: Deleted Employee ruru madrid
+[49.145.36.255 | 10-Aug-2023 16:25:04] 2-Admin User: Deleted Employee daisy jane
+[49.145.36.255 | 10-Aug-2023 16:25:10] 2-Admin User: Deleted Employee sarah germano
+[49.145.36.255 | 10-Aug-2023 16:25:17] 2-Admin User: Deleted Employee b b
+[49.145.36.255 | 10-Aug-2023 16:25:19] 2-Admin User: Deleted Employee Selena Toledo
+[49.145.36.255 | 10-Aug-2023 16:25:21] 2-Admin User: Deleted Employee Aisa Cadiao
+[49.145.36.255 | 10-Aug-2023 16:25:27] 2-Admin User: Deleted Employee Jasper kelan
+[49.145.36.255 | 10-Aug-2023 16:25:38] 2-Admin User: Deleted Employee nermal ALABOT
+[49.145.36.255 | 10-Aug-2023 16:25:44] 2-Admin User: Deleted Employee Justine Moralez
+[49.145.36.255 | 10-Aug-2023 16:25:57] 2-Admin User: Deleted Employee Helena Montevele
+[49.145.36.255 | 10-Aug-2023 16:29:05] 2-Admin User: Deleted Employee nathan mondragon
+[49.145.40.92 | 11-Aug-2023 10:41:31] 2-Admin User: Logged in.
+[49.145.40.92 | 11-Aug-2023 13:20:05] 2-Admin User: Logged in.
+[49.145.40.92 | 11-Aug-2023 13:20:30] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-11 8:00
+[49.145.40.92 | 11-Aug-2023 13:20:31] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-11 12:00
+[49.145.40.92 | 11-Aug-2023 13:20:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-11 13:00
+[49.145.40.92 | 11-Aug-2023 13:20:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-11 17:00
+[49.148.241.237 | 16-Aug-2023 08:13:26] 2-Admin User: Logged in.
+[49.148.241.237 | 16-Aug-2023 08:23:42] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:23:43] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:24:36] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:24:36] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:25:10] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:25:10] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:25:40] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:25:40] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:26:10] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 08:26:10] 2-Admin User: Generate Distribution for bonares-doe-payroll
+[49.148.241.237 | 16-Aug-2023 09:00:20] 42-Miguelito Bonares: Logged in.
+[49.148.241.237 | 16-Aug-2023 09:06:05] 2-Admin User: Delete overtime ID12
+[49.148.241.237 | 16-Aug-2023 09:06:07] 2-Admin User: Delete overtime ID11
+[49.148.241.237 | 16-Aug-2023 09:19:22] 42-Miguelito Bonares: Logged out.
+[49.148.241.237 | 16-Aug-2023 11:09:27] 2-Admin User: Update Schedule Uncut Sched
+[49.148.241.237 | 16-Aug-2023 13:04:25] 2-Admin User: Logged in.
+[49.148.241.237 | 16-Aug-2023 13:05:17] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-16 8:00
+[49.148.241.237 | 16-Aug-2023 13:05:18] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-16 12:00
+[49.148.241.237 | 16-Aug-2023 13:05:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-16 13:00
+[49.148.241.237 | 16-Aug-2023 13:05:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-16 17:00
+[49.148.241.237 | 16-Aug-2023 14:30:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-02 8:00
+[49.148.241.237 | 16-Aug-2023 14:30:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-02 12:00
+[49.148.241.237 | 16-Aug-2023 14:30:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-02 13:00
+[49.148.241.237 | 16-Aug-2023 14:30:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-02 8:00
+[49.148.241.237 | 16-Aug-2023 14:32:07] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-03 8:00
+[49.148.241.237 | 16-Aug-2023 14:32:08] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-03 12:00
+[49.148.241.237 | 16-Aug-2023 14:32:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-03 13:00
+[49.148.241.237 | 16-Aug-2023 14:32:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-03 17:00
+[49.148.241.237 | 16-Aug-2023 14:32:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-04 8:00
+[49.148.241.237 | 16-Aug-2023 14:32:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-04 12:00
+[49.148.241.237 | 16-Aug-2023 14:32:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-04 13:00
+[49.148.241.237 | 16-Aug-2023 14:32:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-04 17:00
+[49.148.241.237 | 16-Aug-2023 14:33:07] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-05 8:00
+[49.148.241.237 | 16-Aug-2023 14:33:08] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-05 12:00
+[49.148.241.237 | 16-Aug-2023 14:33:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-05 13:00
+[49.148.241.237 | 16-Aug-2023 14:33:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-05 17:00
+[49.148.241.237 | 16-Aug-2023 14:33:55] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-06 8:00
+[49.148.241.237 | 16-Aug-2023 14:33:56] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-06 12:00
+[49.148.241.237 | 16-Aug-2023 14:33:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-06 13:00
+[49.148.241.237 | 16-Aug-2023 14:33:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-06 17:00
+[49.148.241.237 | 16-Aug-2023 14:34:29] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-09 8:00
+[49.148.241.237 | 16-Aug-2023 14:34:30] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-09 12:00
+[49.148.241.237 | 16-Aug-2023 14:34:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-09 13:00
+[49.148.241.237 | 16-Aug-2023 14:34:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-09 17:00
+[49.148.241.237 | 16-Aug-2023 14:34:59] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-10 8:00
+[49.148.241.237 | 16-Aug-2023 14:35:00] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-10 12:00
+[49.148.241.237 | 16-Aug-2023 14:35:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-10 13:00
+[49.148.241.237 | 16-Aug-2023 14:35:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-10 17:00
+[49.148.241.237 | 16-Aug-2023 14:35:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-11 8:00
+[49.148.241.237 | 16-Aug-2023 14:35:43] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-11 12:00
+[49.148.241.237 | 16-Aug-2023 14:35:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-11 13:00
+[49.148.241.237 | 16-Aug-2023 14:35:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-11 17:00
+[49.148.241.237 | 16-Aug-2023 14:36:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-12 8:00
+[49.148.241.237 | 16-Aug-2023 14:36:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-12 12:00
+[49.148.241.237 | 16-Aug-2023 14:36:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-12 13:00
+[49.148.241.237 | 16-Aug-2023 14:36:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-12 17:00
+[49.148.241.237 | 16-Aug-2023 14:36:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-13 8:00
+[49.148.241.237 | 16-Aug-2023 14:36:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-13 12:00
+[49.148.241.237 | 16-Aug-2023 14:36:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-13 13:00
+[49.148.241.237 | 16-Aug-2023 14:36:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-13 17:00
+[49.148.241.237 | 16-Aug-2023 14:37:20] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-16 8:00
+[49.148.241.237 | 16-Aug-2023 14:37:21] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-16 12:00
+[49.148.241.237 | 16-Aug-2023 14:37:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-16 13:00
+[49.148.241.237 | 16-Aug-2023 14:37:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-16 17:00
+[49.148.241.237 | 16-Aug-2023 14:37:46] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-17 8:00
+[49.148.241.237 | 16-Aug-2023 14:37:47] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-17 12:00
+[49.148.241.237 | 16-Aug-2023 14:37:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-17 13:00
+[49.148.241.237 | 16-Aug-2023 14:37:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-17 17:00
+[49.148.241.237 | 16-Aug-2023 14:38:10] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-18 8:00
+[49.148.241.237 | 16-Aug-2023 14:38:11] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-18 12:00
+[49.148.241.237 | 16-Aug-2023 14:38:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-18 13:00
+[49.148.241.237 | 16-Aug-2023 14:38:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-18 17:00
+[49.148.241.237 | 16-Aug-2023 14:38:41] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-19 8:00
+[49.148.241.237 | 16-Aug-2023 14:38:42] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-19 12:00
+[49.148.241.237 | 16-Aug-2023 14:38:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-19 13:00
+[49.148.241.237 | 16-Aug-2023 14:38:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-19 17:00
+[49.148.241.237 | 16-Aug-2023 14:39:04] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-20 8:00
+[49.148.241.237 | 16-Aug-2023 14:39:05] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-20 12:00
+[49.148.241.237 | 16-Aug-2023 14:39:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-20 13:00
+[49.148.241.237 | 16-Aug-2023 14:39:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-20 17:00
+[49.148.241.237 | 16-Aug-2023 14:39:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-23 8:00
+[49.148.241.237 | 16-Aug-2023 14:39:43] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-23 12:00
+[49.148.241.237 | 16-Aug-2023 14:39:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-23 13:00
+[49.148.241.237 | 16-Aug-2023 14:39:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-23 17:00
+[49.148.241.237 | 16-Aug-2023 14:40:05] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-24 8:00
+[49.148.241.237 | 16-Aug-2023 14:40:06] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-24 12:00
+[49.148.241.237 | 16-Aug-2023 14:40:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-24 13:00
+[49.148.241.237 | 16-Aug-2023 14:40:08] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-24 17:00
+[49.148.241.237 | 16-Aug-2023 14:40:45] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-25 8:00
+[49.148.241.237 | 16-Aug-2023 14:40:46] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-25 12:00
+[49.148.241.237 | 16-Aug-2023 14:40:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-25 13:00
+[49.148.241.237 | 16-Aug-2023 14:40:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-25 17:00
+[49.148.241.237 | 16-Aug-2023 14:41:07] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-26 8:00
+[49.148.241.237 | 16-Aug-2023 14:41:08] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-26 12:00
+[49.148.241.237 | 16-Aug-2023 14:41:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-26 13:00
+[49.148.241.237 | 16-Aug-2023 14:41:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-26 17:00
+[49.148.241.237 | 16-Aug-2023 14:41:39] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-27 8:00
+[49.148.241.237 | 16-Aug-2023 14:41:40] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-27 12:00
+[49.148.241.237 | 16-Aug-2023 14:41:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-27 13:00
+[49.148.241.237 | 16-Aug-2023 14:41:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-27 17:00
+[49.148.241.237 | 16-Aug-2023 14:42:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-30 8:00
+[49.148.241.237 | 16-Aug-2023 14:42:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-30 12:00
+[49.148.241.237 | 16-Aug-2023 14:42:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-30 13:00
+[49.148.241.237 | 16-Aug-2023 14:42:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-30 17:00
+[49.148.241.237 | 16-Aug-2023 14:42:35] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-01-31 8:00
+[49.148.241.237 | 16-Aug-2023 14:42:36] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-01-31 12:00
+[49.148.241.237 | 16-Aug-2023 14:42:37] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-01-31 13:00
+[49.148.241.237 | 16-Aug-2023 14:42:38] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-01-31 17:00
+[49.148.241.237 | 16-Aug-2023 14:43:49] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-01 8:00
+[49.148.241.237 | 16-Aug-2023 14:43:50] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-01 12:00
+[49.148.241.237 | 16-Aug-2023 14:43:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-01 13:00
+[49.148.241.237 | 16-Aug-2023 14:43:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-01 17:00
+[49.148.241.237 | 16-Aug-2023 14:44:17] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-02 8:00
+[49.148.241.237 | 16-Aug-2023 14:44:18] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-02 12:00
+[49.148.241.237 | 16-Aug-2023 14:44:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-02 13:00
+[49.148.241.237 | 16-Aug-2023 14:44:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-02 17:00
+[49.148.241.237 | 16-Aug-2023 14:46:18] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-03 8:00
+[49.148.241.237 | 16-Aug-2023 14:46:19] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-03 12:00
+[49.148.241.237 | 16-Aug-2023 14:46:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-03 13:00
+[49.148.241.237 | 16-Aug-2023 14:46:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-03 17:00
+[49.148.241.237 | 16-Aug-2023 14:46:56] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-06 8:00
+[49.148.241.237 | 16-Aug-2023 14:46:57] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-06 13:00
+[49.148.241.237 | 16-Aug-2023 14:46:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-06 12:00
+[49.148.241.237 | 16-Aug-2023 14:46:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-06 17:00
+[49.148.241.237 | 16-Aug-2023 14:50:19] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-07 8:00
+[49.148.241.237 | 16-Aug-2023 14:50:20] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-07 12:00
+[49.148.241.237 | 16-Aug-2023 14:50:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-07 13:00
+[49.148.241.237 | 16-Aug-2023 14:50:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-07 17:00
+[49.148.241.237 | 16-Aug-2023 14:50:31] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-08 8:00
+[49.148.241.237 | 16-Aug-2023 14:50:32] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-08 12:00
+[49.148.241.237 | 16-Aug-2023 14:50:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-08 13:00
+[49.148.241.237 | 16-Aug-2023 14:50:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-08 17:00
+[49.148.241.237 | 16-Aug-2023 14:50:41] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-09 8:00
+[49.148.241.237 | 16-Aug-2023 14:50:42] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-09 12:00
+[49.148.241.237 | 16-Aug-2023 14:50:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-09 13:00
+[49.148.241.237 | 16-Aug-2023 14:50:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-09 17:00
+[49.148.241.237 | 16-Aug-2023 14:50:51] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-10 8:00
+[49.148.241.237 | 16-Aug-2023 14:50:52] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-10 12:00
+[49.148.241.237 | 16-Aug-2023 14:50:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-10 13:00
+[49.148.241.237 | 16-Aug-2023 14:50:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-10 17:00
+[49.148.241.237 | 16-Aug-2023 14:51:01] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-13 8:00
+[49.148.241.237 | 16-Aug-2023 14:51:02] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-13 12:00
+[49.148.241.237 | 16-Aug-2023 14:51:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-13 13:00
+[49.148.241.237 | 16-Aug-2023 14:51:04] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-13 17:00
+[49.148.241.237 | 16-Aug-2023 14:51:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-14 8:00
+[49.148.241.237 | 16-Aug-2023 14:51:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-14 12:00
+[49.148.241.237 | 16-Aug-2023 14:51:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-14 13:00
+[49.148.241.237 | 16-Aug-2023 14:51:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-14 17:00
+[49.148.241.237 | 16-Aug-2023 14:51:22] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-15 8:00
+[49.148.241.237 | 16-Aug-2023 14:51:23] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-15 12:00
+[49.148.241.237 | 16-Aug-2023 14:51:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-15 13:00
+[49.148.241.237 | 16-Aug-2023 14:51:25] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-15 17:00
+[49.148.241.237 | 16-Aug-2023 14:51:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-16 8:00
+[49.148.241.237 | 16-Aug-2023 14:51:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-16 12:00
+[49.148.241.237 | 16-Aug-2023 14:51:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-16 13:00
+[49.148.241.237 | 16-Aug-2023 14:51:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-16 17:00
+[49.148.241.237 | 16-Aug-2023 14:51:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-17 8:00
+[49.148.241.237 | 16-Aug-2023 14:51:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-17 12:00
+[49.148.241.237 | 16-Aug-2023 14:51:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-17 13:00
+[49.148.241.237 | 16-Aug-2023 14:51:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-17 17:00
+[49.148.241.237 | 16-Aug-2023 14:51:56] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-20 8:00
+[49.148.241.237 | 16-Aug-2023 14:51:57] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-20 12:00
+[49.148.241.237 | 16-Aug-2023 14:51:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-20 13:00
+[49.148.241.237 | 16-Aug-2023 14:51:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-20 17:00
+[49.148.241.237 | 16-Aug-2023 14:52:08] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-21 8:00
+[49.148.241.237 | 16-Aug-2023 14:52:09] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-21 12:00
+[49.148.241.237 | 16-Aug-2023 14:52:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-21 13:00
+[49.148.241.237 | 16-Aug-2023 14:52:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-21 17:00
+[49.148.241.237 | 16-Aug-2023 14:52:20] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-22 8:00
+[49.148.241.237 | 16-Aug-2023 14:52:21] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-22 12:00
+[49.148.241.237 | 16-Aug-2023 14:52:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-22 13:00
+[49.148.241.237 | 16-Aug-2023 14:52:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-22 17:00
+[49.148.241.237 | 16-Aug-2023 14:52:32] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-23 8:00
+[49.148.241.237 | 16-Aug-2023 14:52:33] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-23 12:00
+[49.148.241.237 | 16-Aug-2023 14:52:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-23 13:00
+[49.148.241.237 | 16-Aug-2023 14:52:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-23 17:00
+[49.148.241.237 | 16-Aug-2023 14:52:43] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-24 8:00
+[49.148.241.237 | 16-Aug-2023 14:52:44] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-24 12:00
+[49.148.241.237 | 16-Aug-2023 14:52:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-24 13:00
+[49.148.241.237 | 16-Aug-2023 14:52:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-24 17:00
+[49.148.241.237 | 16-Aug-2023 14:53:05] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-27 8:00
+[49.148.241.237 | 16-Aug-2023 14:53:06] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-27 12:00
+[49.148.241.237 | 16-Aug-2023 14:53:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-27 13:00
+[49.148.241.237 | 16-Aug-2023 14:53:08] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-27 17:00
+[49.148.241.237 | 16-Aug-2023 14:53:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-02-28 8:00
+[49.148.241.237 | 16-Aug-2023 14:53:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-02-28 12:00
+[49.148.241.237 | 16-Aug-2023 14:53:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-02-28 13:00
+[49.148.241.237 | 16-Aug-2023 14:53:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-02-28 17:00
+[49.148.241.237 | 16-Aug-2023 14:54:03] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-01 8:00
+[49.148.241.237 | 16-Aug-2023 14:54:04] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-01 12:00
+[49.148.241.237 | 16-Aug-2023 14:54:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-01 13:00
+[49.148.241.237 | 16-Aug-2023 14:54:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-01 17:00
+[49.148.241.237 | 16-Aug-2023 14:54:12] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-02 8:00
+[49.148.241.237 | 16-Aug-2023 14:54:13] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-02 12:00
+[49.148.241.237 | 16-Aug-2023 14:54:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-02 13:00
+[49.148.241.237 | 16-Aug-2023 14:54:15] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-02 17:00
+[49.148.241.237 | 16-Aug-2023 14:54:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-03 8:00
+[49.148.241.237 | 16-Aug-2023 14:54:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-03 12:00
+[49.148.241.237 | 16-Aug-2023 14:54:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-03 13:00
+[49.148.241.237 | 16-Aug-2023 14:54:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-03 17:00
+[49.148.241.237 | 16-Aug-2023 14:54:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-06 8:00
+[49.148.241.237 | 16-Aug-2023 14:54:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-06 12:00
+[49.148.241.237 | 16-Aug-2023 14:54:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-06 13:00
+[49.148.241.237 | 16-Aug-2023 14:54:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-06 17:00
+[49.148.241.237 | 16-Aug-2023 14:54:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-07 8:00
+[49.148.241.237 | 16-Aug-2023 14:54:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-07 12:00
+[49.148.241.237 | 16-Aug-2023 14:54:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-07 13:00
+[49.148.241.237 | 16-Aug-2023 14:54:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-07 17:00
+[49.148.241.237 | 16-Aug-2023 14:54:56] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-08 8:00
+[49.148.241.237 | 16-Aug-2023 14:54:57] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-08 12:00
+[49.148.241.237 | 16-Aug-2023 14:54:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-08 13:00
+[49.148.241.237 | 16-Aug-2023 14:54:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-08 17:00
+[49.148.241.237 | 16-Aug-2023 14:55:07] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-09 8:00
+[49.148.241.237 | 16-Aug-2023 14:55:08] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-09 12:00
+[49.148.241.237 | 16-Aug-2023 14:55:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-09 13:00
+[49.148.241.237 | 16-Aug-2023 14:55:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-09 17:00
+[49.148.241.237 | 16-Aug-2023 14:55:18] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-10 8:00
+[49.148.241.237 | 16-Aug-2023 14:55:19] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-10 12:00
+[49.148.241.237 | 16-Aug-2023 14:55:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-10 13:00
+[49.148.241.237 | 16-Aug-2023 14:55:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-10 17:00
+[49.148.241.237 | 16-Aug-2023 14:55:28] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-13 8:00
+[49.148.241.237 | 16-Aug-2023 14:55:29] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-13 12:00
+[49.148.241.237 | 16-Aug-2023 14:55:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-13 13:00
+[49.148.241.237 | 16-Aug-2023 14:55:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-13 17:00
+[49.148.241.237 | 16-Aug-2023 14:55:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-14 8:00
+[49.148.241.237 | 16-Aug-2023 14:55:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-14 12:00
+[49.148.241.237 | 16-Aug-2023 14:55:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-14 13:00
+[49.148.241.237 | 16-Aug-2023 14:55:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-14 17:00
+[49.148.241.237 | 16-Aug-2023 14:55:48] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-15 8:00
+[49.148.241.237 | 16-Aug-2023 14:55:49] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-15 12:00
+[49.148.241.237 | 16-Aug-2023 14:55:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-15 13:00
+[49.148.241.237 | 16-Aug-2023 14:55:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-15 17:00
+[49.148.241.237 | 16-Aug-2023 14:55:58] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-16 8:00
+[49.148.241.237 | 16-Aug-2023 14:55:59] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-16 12:00
+[49.148.241.237 | 16-Aug-2023 14:56:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-16 13:00
+[49.148.241.237 | 16-Aug-2023 14:56:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-16 17:00
+[49.148.241.237 | 16-Aug-2023 14:56:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-17 8:00
+[49.148.241.237 | 16-Aug-2023 14:56:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-17 12:00
+[49.148.241.237 | 16-Aug-2023 14:56:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-17 13:00
+[49.148.241.237 | 16-Aug-2023 14:56:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-17 17:00
+[49.148.241.237 | 16-Aug-2023 14:56:46] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-20 8:00
+[49.148.241.237 | 16-Aug-2023 14:56:47] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-20 12:00
+[49.148.241.237 | 16-Aug-2023 14:56:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-20 13:00
+[49.148.241.237 | 16-Aug-2023 14:56:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-20 17:00
+[49.148.241.237 | 16-Aug-2023 14:56:59] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-21 8:00
+[49.148.241.237 | 16-Aug-2023 14:57:00] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-21 12:00
+[49.148.241.237 | 16-Aug-2023 14:57:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-21 13:00
+[49.148.241.237 | 16-Aug-2023 14:57:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-21 17:00
+[49.148.241.237 | 16-Aug-2023 14:57:13] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-22 8:00
+[49.148.241.237 | 16-Aug-2023 14:57:14] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-22 12:00
+[49.148.241.237 | 16-Aug-2023 14:57:15] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-22 13:00
+[49.148.241.237 | 16-Aug-2023 14:57:16] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-22 17:00
+[49.148.241.237 | 16-Aug-2023 14:58:03] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-23 8:00
+[49.148.241.237 | 16-Aug-2023 14:58:04] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-23 12:00
+[49.148.241.237 | 16-Aug-2023 14:58:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-23 13:00
+[49.148.241.237 | 16-Aug-2023 14:58:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-23 17:00
+[49.148.241.237 | 16-Aug-2023 14:58:30] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-24 8:00
+[49.148.241.237 | 16-Aug-2023 14:58:31] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-24 12:00
+[49.148.241.237 | 16-Aug-2023 14:58:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-24 13:00
+[49.148.241.237 | 16-Aug-2023 14:58:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-24 17:00
+[49.148.241.237 | 16-Aug-2023 14:58:53] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-27 8:00
+[49.148.241.237 | 16-Aug-2023 14:58:54] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-27 12:00
+[49.148.241.237 | 16-Aug-2023 14:58:55] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-27 13:00
+[49.148.241.237 | 16-Aug-2023 14:58:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-27 17:00
+[49.148.241.237 | 16-Aug-2023 14:59:04] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-28 8:00
+[49.148.241.237 | 16-Aug-2023 14:59:05] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-28 12:00
+[49.148.241.237 | 16-Aug-2023 14:59:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-28 13:00
+[49.148.241.237 | 16-Aug-2023 14:59:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-28 17:00
+[49.148.241.237 | 16-Aug-2023 14:59:16] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-29 8:00
+[49.148.241.237 | 16-Aug-2023 14:59:17] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-29 12:00
+[49.148.241.237 | 16-Aug-2023 14:59:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-29 13:00
+[49.148.241.237 | 16-Aug-2023 14:59:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-29 17:00
+[49.148.241.237 | 16-Aug-2023 14:59:28] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-30 8:00
+[49.148.241.237 | 16-Aug-2023 14:59:29] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-30 12:00
+[49.148.241.237 | 16-Aug-2023 14:59:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-30 13:00
+[49.148.241.237 | 16-Aug-2023 14:59:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-30 17:00
+[49.148.241.237 | 16-Aug-2023 14:59:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-03-31 8:00
+[49.148.241.237 | 16-Aug-2023 14:59:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-03-31 12:00
+[49.148.241.237 | 16-Aug-2023 14:59:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-03-31 13:00
+[49.148.241.237 | 16-Aug-2023 14:59:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-03-31 17:00
+[49.148.241.237 | 16-Aug-2023 14:59:58] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-03 8:00
+[49.148.241.237 | 16-Aug-2023 14:59:59] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-03 12:00
+[49.148.241.237 | 16-Aug-2023 15:00:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-03 13:00
+[49.148.241.237 | 16-Aug-2023 15:00:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-03 17:00
+[49.148.241.237 | 16-Aug-2023 15:00:24] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-04 8:00
+[49.148.241.237 | 16-Aug-2023 15:00:25] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-04 12:00
+[49.148.241.237 | 16-Aug-2023 15:00:26] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-04 13:00
+[49.148.241.237 | 16-Aug-2023 15:00:27] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-04 17:00
+[49.148.241.237 | 16-Aug-2023 15:00:35] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-05 8:00
+[49.148.241.237 | 16-Aug-2023 15:00:36] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-05 12:00
+[49.148.241.237 | 16-Aug-2023 15:00:37] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-05 13:00
+[49.148.241.237 | 16-Aug-2023 15:00:38] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-05 17:00
+[49.148.241.237 | 16-Aug-2023 15:00:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-06 8:00
+[49.148.241.237 | 16-Aug-2023 15:00:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-06 12:00
+[49.148.241.237 | 16-Aug-2023 15:00:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-06 13:00
+[49.148.241.237 | 16-Aug-2023 15:00:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-06 17:00
+[49.148.241.237 | 16-Aug-2023 15:00:52] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-07 8:00
+[49.148.241.237 | 16-Aug-2023 15:00:53] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-07 12:00
+[49.148.241.237 | 16-Aug-2023 15:00:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-07 13:00
+[49.148.241.237 | 16-Aug-2023 15:00:55] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-07 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:01] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-10 8:00
+[49.148.241.237 | 16-Aug-2023 15:01:02] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-10 12:00
+[49.148.241.237 | 16-Aug-2023 15:01:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-10 13:00
+[49.148.241.237 | 16-Aug-2023 15:01:04] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-10 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:12] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-11 8:00
+[49.148.241.237 | 16-Aug-2023 15:01:13] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-11 12:00
+[49.148.241.237 | 16-Aug-2023 15:01:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-11 13:00
+[49.148.241.237 | 16-Aug-2023 15:01:15] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-11 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-12 8:00
+[49.148.241.237 | 16-Aug-2023 15:01:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-12 12:00
+[49.148.241.237 | 16-Aug-2023 15:01:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-12 13:00
+[49.148.241.237 | 16-Aug-2023 15:01:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-12 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:30] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-13 8:00
+[49.148.241.237 | 16-Aug-2023 15:01:31] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-13 12:00
+[49.148.241.237 | 16-Aug-2023 15:01:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-13 13:00
+[49.148.241.237 | 16-Aug-2023 15:01:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-13 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:40] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-14 8:00
+[49.148.241.237 | 16-Aug-2023 15:01:41] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-14 12:00
+[49.148.241.237 | 16-Aug-2023 15:01:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-14 13:00
+[49.148.241.237 | 16-Aug-2023 15:01:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-14 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:50] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-17 8:00
+[49.148.241.237 | 16-Aug-2023 15:01:51] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-17 12:00
+[49.148.241.237 | 16-Aug-2023 15:01:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-17 13:00
+[49.148.241.237 | 16-Aug-2023 15:01:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-17 17:00
+[49.148.241.237 | 16-Aug-2023 15:01:59] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-18 8:00
+[49.148.241.237 | 16-Aug-2023 15:02:00] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-18 12:00
+[49.148.241.237 | 16-Aug-2023 15:02:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-18 13:00
+[49.148.241.237 | 16-Aug-2023 15:02:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-18 17:00
+[49.148.241.237 | 16-Aug-2023 15:02:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-19 8:00
+[49.148.241.237 | 16-Aug-2023 15:02:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-19 12:00
+[49.148.241.237 | 16-Aug-2023 15:02:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-19 13:00
+[49.148.241.237 | 16-Aug-2023 15:02:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-19 17:00
+[49.148.241.237 | 16-Aug-2023 15:02:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-20 8:00
+[49.148.241.237 | 16-Aug-2023 15:02:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-20 12:00
+[49.148.241.237 | 16-Aug-2023 15:02:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-20 13:00
+[49.148.241.237 | 16-Aug-2023 15:02:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-20 17:00
+[49.148.241.237 | 16-Aug-2023 15:02:31] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-21 8:00
+[49.148.241.237 | 16-Aug-2023 15:02:32] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-21 12:00
+[49.148.241.237 | 16-Aug-2023 15:02:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-21 13:00
+[49.148.241.237 | 16-Aug-2023 15:02:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-21 17:00
+[49.148.241.237 | 16-Aug-2023 15:02:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-24 8:00
+[49.148.241.237 | 16-Aug-2023 15:02:43] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-24 12:00
+[49.148.241.237 | 16-Aug-2023 15:02:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-24 13:00
+[49.148.241.237 | 16-Aug-2023 15:02:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-24 17:00
+[49.148.241.237 | 16-Aug-2023 15:02:51] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-25 8:00
+[49.148.241.237 | 16-Aug-2023 15:02:52] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-25 12:00
+[49.148.241.237 | 16-Aug-2023 15:02:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-25 13:00
+[49.148.241.237 | 16-Aug-2023 15:02:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-25 17:00
+[49.148.241.237 | 16-Aug-2023 15:15:51] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-26 8:00
+[49.148.241.237 | 16-Aug-2023 15:15:52] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-26 12:00
+[49.148.241.237 | 16-Aug-2023 15:15:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-26 13:00
+[49.148.241.237 | 16-Aug-2023 15:15:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-26 17:00
+[49.148.241.237 | 16-Aug-2023 15:16:01] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-27 8:00
+[49.148.241.237 | 16-Aug-2023 15:16:02] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-27 12:00
+[49.148.241.237 | 16-Aug-2023 15:16:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-27 13:00
+[49.148.241.237 | 16-Aug-2023 15:16:04] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-27 17:00
+[49.148.241.237 | 16-Aug-2023 15:16:13] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-04-28 8:00
+[49.148.241.237 | 16-Aug-2023 15:16:14] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-04-28 12:00
+[49.148.241.237 | 16-Aug-2023 15:16:15] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-04-28 13:00
+[49.148.241.237 | 16-Aug-2023 15:16:16] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-04-28 17:00
+[49.148.241.237 | 16-Aug-2023 15:17:17] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-01 8:00
+[49.148.241.237 | 16-Aug-2023 15:17:18] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-01 12:00
+[49.148.241.237 | 16-Aug-2023 15:17:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-01 13:00
+[49.148.241.237 | 16-Aug-2023 15:17:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-01 17:00
+[49.148.241.237 | 16-Aug-2023 15:17:28] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-02 8:00
+[49.148.241.237 | 16-Aug-2023 15:17:29] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-02 12:00
+[49.148.241.237 | 16-Aug-2023 15:17:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-02 13:00
+[49.148.241.237 | 16-Aug-2023 15:17:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-02 17:00
+[49.148.241.237 | 16-Aug-2023 15:17:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-03 8:00
+[49.148.241.237 | 16-Aug-2023 15:17:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-03 12:00
+[49.148.241.237 | 16-Aug-2023 15:17:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-03 13:00
+[49.148.241.237 | 16-Aug-2023 15:17:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-03 17:00
+[49.148.241.237 | 16-Aug-2023 15:17:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-04 8:00
+[49.148.241.237 | 16-Aug-2023 15:17:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-04 12:00
+[49.148.241.237 | 16-Aug-2023 15:17:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-04 13:00
+[49.148.241.237 | 16-Aug-2023 15:17:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-04 17:00
+[49.148.241.237 | 16-Aug-2023 15:17:57] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-05 8:00
+[49.148.241.237 | 16-Aug-2023 15:17:58] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-05 12:00
+[49.148.241.237 | 16-Aug-2023 15:17:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-05 13:00
+[49.148.241.237 | 16-Aug-2023 15:18:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-05 17:00
+[49.148.241.237 | 16-Aug-2023 15:18:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-08 8:00
+[49.148.241.237 | 16-Aug-2023 15:18:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-08 12:00
+[49.148.241.237 | 16-Aug-2023 15:18:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-08 13:00
+[49.148.241.237 | 16-Aug-2023 15:18:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-08 17:00
+[49.148.241.237 | 16-Aug-2023 15:18:18] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-09 8:00
+[49.148.241.237 | 16-Aug-2023 15:18:19] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-09 12:00
+[49.148.241.237 | 16-Aug-2023 15:18:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-09 13:00
+[49.148.241.237 | 16-Aug-2023 15:18:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-09 17:00
+[49.148.241.237 | 16-Aug-2023 15:18:28] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-10 8:00
+[49.148.241.237 | 16-Aug-2023 15:18:29] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-10 12:00
+[49.148.241.237 | 16-Aug-2023 15:18:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-10 13:00
+[49.148.241.237 | 16-Aug-2023 15:18:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-10 17:00
+[49.148.241.237 | 16-Aug-2023 15:18:39] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-11 8:00
+[49.148.241.237 | 16-Aug-2023 15:18:40] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-11 12:00
+[49.148.241.237 | 16-Aug-2023 15:18:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-11 13:00
+[49.148.241.237 | 16-Aug-2023 15:18:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-11 17:00
+[49.148.241.237 | 16-Aug-2023 15:18:50] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-12 8:00
+[49.148.241.237 | 16-Aug-2023 15:18:51] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-12 12:00
+[49.148.241.237 | 16-Aug-2023 15:18:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-12 13:00
+[49.148.241.237 | 16-Aug-2023 15:18:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-12 17:00
+[49.148.241.237 | 16-Aug-2023 15:19:02] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-15 8:00
+[49.148.241.237 | 16-Aug-2023 15:19:03] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-15 12:00
+[49.148.241.237 | 16-Aug-2023 15:19:04] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-15 13:00
+[49.148.241.237 | 16-Aug-2023 15:19:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-15 17:00
+[49.148.241.237 | 16-Aug-2023 15:19:14] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-16 8:00
+[49.148.241.237 | 16-Aug-2023 15:19:15] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-16 12:00
+[49.148.241.237 | 16-Aug-2023 15:19:16] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-16 13:00
+[49.148.241.237 | 16-Aug-2023 15:19:17] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-16 17:00
+[49.148.241.237 | 16-Aug-2023 15:19:24] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-17 8:00
+[49.148.241.237 | 16-Aug-2023 15:19:25] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-17 12:00
+[49.148.241.237 | 16-Aug-2023 15:19:26] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-17 13:00
+[49.148.241.237 | 16-Aug-2023 15:19:27] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-17 17:00
+[49.148.241.237 | 16-Aug-2023 15:19:32] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-18 8:00
+[49.148.241.237 | 16-Aug-2023 15:19:33] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-18 12:00
+[49.148.241.237 | 16-Aug-2023 15:19:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-18 13:00
+[49.148.241.237 | 16-Aug-2023 15:19:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-18 17:00
+[49.148.241.237 | 16-Aug-2023 15:19:43] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-19 8:00
+[49.148.241.237 | 16-Aug-2023 15:19:44] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-19 12:00
+[49.148.241.237 | 16-Aug-2023 15:19:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-19 13:00
+[49.148.241.237 | 16-Aug-2023 15:19:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-19 17:00
+[49.148.241.237 | 16-Aug-2023 15:19:53] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-22 8:00
+[49.148.241.237 | 16-Aug-2023 15:19:54] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-22 12:00
+[49.148.241.237 | 16-Aug-2023 15:19:55] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-22 13:00
+[49.148.241.237 | 16-Aug-2023 15:19:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-22 17:00
+[49.148.241.237 | 16-Aug-2023 15:20:05] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-23 8:00
+[49.148.241.237 | 16-Aug-2023 15:20:06] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-23 12:00
+[49.148.241.237 | 16-Aug-2023 15:20:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-23 13:00
+[49.148.241.237 | 16-Aug-2023 15:20:08] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-23 17:00
+[49.148.241.237 | 16-Aug-2023 15:20:17] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-24 8:00
+[49.148.241.237 | 16-Aug-2023 15:20:18] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-24 12:00
+[49.148.241.237 | 16-Aug-2023 15:20:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-24 13:00
+[49.148.241.237 | 16-Aug-2023 15:20:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-24 17:00
+[49.148.241.237 | 16-Aug-2023 15:20:27] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-25 8:00
+[49.148.241.237 | 16-Aug-2023 15:20:28] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-25 12:00
+[49.148.241.237 | 16-Aug-2023 15:20:29] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-25 13:00
+[49.148.241.237 | 16-Aug-2023 15:20:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-25 17:00
+[49.148.241.237 | 16-Aug-2023 15:20:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-26 8:00
+[49.148.241.237 | 16-Aug-2023 15:20:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-26 12:00
+[49.148.241.237 | 16-Aug-2023 15:20:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-26 13:00
+[49.148.241.237 | 16-Aug-2023 15:20:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-26 17:00
+[49.148.241.237 | 16-Aug-2023 15:20:49] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-29 8:00
+[49.148.241.237 | 16-Aug-2023 15:20:50] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-29 12:00
+[49.148.241.237 | 16-Aug-2023 15:20:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-29 13:00
+[49.148.241.237 | 16-Aug-2023 15:20:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-29 17:00
+[49.148.241.237 | 16-Aug-2023 15:21:00] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-30 8:00
+[49.148.241.237 | 16-Aug-2023 15:21:01] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-30 12:00
+[49.148.241.237 | 16-Aug-2023 15:21:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-30 13:00
+[49.148.241.237 | 16-Aug-2023 15:21:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-30 17:00
+[49.148.241.237 | 16-Aug-2023 15:21:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-05-31 8:00
+[49.148.241.237 | 16-Aug-2023 15:21:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-05-31 12:00
+[49.148.241.237 | 16-Aug-2023 15:21:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-05-31 13:00
+[49.148.241.237 | 16-Aug-2023 15:21:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-05-31 17:00
+[49.148.241.237 | 16-Aug-2023 15:21:20] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-01 8:00
+[49.148.241.237 | 16-Aug-2023 15:21:21] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-01 12:00
+[49.148.241.237 | 16-Aug-2023 15:21:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-01 13:00
+[49.148.241.237 | 16-Aug-2023 15:21:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-01 17:00
+[49.148.241.237 | 16-Aug-2023 15:21:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-02 8:00
+[49.148.241.237 | 16-Aug-2023 15:21:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-02 12:00
+[49.148.241.237 | 16-Aug-2023 15:21:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-02 13:00
+[49.148.241.237 | 16-Aug-2023 15:21:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-02 17:00
+[49.148.241.237 | 16-Aug-2023 15:21:45] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-05 8:00
+[49.148.241.237 | 16-Aug-2023 15:21:46] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-05 12:00
+[49.148.241.237 | 16-Aug-2023 15:21:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-05 13:00
+[49.148.241.237 | 16-Aug-2023 15:21:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-05 17:00
+[49.148.241.237 | 16-Aug-2023 15:21:54] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-06 8:00
+[49.148.241.237 | 16-Aug-2023 15:21:55] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-06 12:00
+[49.148.241.237 | 16-Aug-2023 15:21:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-06 13:00
+[49.148.241.237 | 16-Aug-2023 15:21:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-06 17:00
+[49.148.241.237 | 16-Aug-2023 15:22:04] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-07 8:00
+[49.148.241.237 | 16-Aug-2023 15:22:05] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-07 12:00
+[49.148.241.237 | 16-Aug-2023 15:22:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-07 13:00
+[49.148.241.237 | 16-Aug-2023 15:22:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-07 17:00
+[49.148.241.237 | 16-Aug-2023 15:22:14] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-08 8:00
+[49.148.241.237 | 16-Aug-2023 15:22:15] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-08 12:00
+[49.148.241.237 | 16-Aug-2023 15:22:16] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-08 13:00
+[49.148.241.237 | 16-Aug-2023 15:22:17] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-08 17:00
+[49.148.241.237 | 16-Aug-2023 15:22:23] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-09 8:00
+[49.148.241.237 | 16-Aug-2023 15:22:24] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-09 12:00
+[49.148.241.237 | 16-Aug-2023 15:22:25] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-09 13:00
+[49.148.241.237 | 16-Aug-2023 15:22:26] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-09 17:00
+[49.148.241.237 | 16-Aug-2023 15:22:35] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-12 8:00
+[49.148.241.237 | 16-Aug-2023 15:22:36] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-12 12:00
+[49.148.241.237 | 16-Aug-2023 15:22:37] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-12 13:00
+[49.148.241.237 | 16-Aug-2023 15:22:38] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-12 17:00
+[49.148.241.237 | 16-Aug-2023 15:22:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-13 8:00
+[49.148.241.237 | 16-Aug-2023 15:22:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-13 12:00
+[49.148.241.237 | 16-Aug-2023 15:22:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-13 13:00
+[49.148.241.237 | 16-Aug-2023 15:22:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-13 17:00
+[49.148.241.237 | 16-Aug-2023 15:22:54] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-14 8:00
+[49.148.241.237 | 16-Aug-2023 15:22:55] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-14 12:00
+[49.148.241.237 | 16-Aug-2023 15:22:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-14 13:00
+[49.148.241.237 | 16-Aug-2023 15:22:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-14 17:00
+[49.148.241.237 | 16-Aug-2023 15:23:04] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-15 8:00
+[49.148.241.237 | 16-Aug-2023 15:23:05] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-15 12:00
+[49.148.241.237 | 16-Aug-2023 15:23:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-15 13:00
+[49.148.241.237 | 16-Aug-2023 15:23:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-15 17:00
+[49.148.241.237 | 16-Aug-2023 15:23:15] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-16 8:00
+[49.148.241.237 | 16-Aug-2023 15:23:16] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-16 12:00
+[49.148.241.237 | 16-Aug-2023 15:23:17] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-16 13:00
+[49.148.241.237 | 16-Aug-2023 15:23:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-16 17:00
+[49.148.241.237 | 16-Aug-2023 15:23:28] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-19 8:00
+[49.148.241.237 | 16-Aug-2023 15:23:29] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-19 12:00
+[49.148.241.237 | 16-Aug-2023 15:23:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-19 13:00
+[49.148.241.237 | 16-Aug-2023 15:23:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-19 17:00
+[49.148.241.237 | 16-Aug-2023 15:23:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-20 8:00
+[49.148.241.237 | 16-Aug-2023 15:23:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-20 12:00
+[49.148.241.237 | 16-Aug-2023 15:23:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-20 13:00
+[49.148.241.237 | 16-Aug-2023 15:23:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-20 17:00
+[49.148.241.237 | 16-Aug-2023 15:23:49] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-21 8:00
+[49.148.241.237 | 16-Aug-2023 15:23:50] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-21 12:00
+[49.148.241.237 | 16-Aug-2023 15:23:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-21 13:00
+[49.148.241.237 | 16-Aug-2023 15:23:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-21 17:00
+[49.148.241.237 | 16-Aug-2023 15:23:59] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-22 8:00
+[49.148.241.237 | 16-Aug-2023 15:24:00] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-22 12:00
+[49.148.241.237 | 16-Aug-2023 15:24:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-22 13:00
+[49.148.241.237 | 16-Aug-2023 15:24:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-22 17:00
+[49.148.241.237 | 16-Aug-2023 15:24:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-23 8:00
+[49.148.241.237 | 16-Aug-2023 15:24:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-23 12:00
+[49.148.241.237 | 16-Aug-2023 15:24:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-23 13:00
+[49.148.241.237 | 16-Aug-2023 15:24:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-23 17:00
+[49.148.241.237 | 16-Aug-2023 15:24:20] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-26 8:00
+[49.148.241.237 | 16-Aug-2023 15:24:21] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-26 12:00
+[49.148.241.237 | 16-Aug-2023 15:24:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-26 13:00
+[49.148.241.237 | 16-Aug-2023 15:24:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-26 17:00
+[49.148.241.237 | 16-Aug-2023 15:24:31] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-27 8:00
+[49.148.241.237 | 16-Aug-2023 15:24:32] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-27 12:00
+[49.148.241.237 | 16-Aug-2023 15:24:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-27 13:00
+[49.148.241.237 | 16-Aug-2023 15:24:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-27 17:00
+[49.148.241.237 | 16-Aug-2023 15:24:41] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-28 8:00
+[49.148.241.237 | 16-Aug-2023 15:24:42] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-28 12:00
+[49.148.241.237 | 16-Aug-2023 15:24:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-28 13:00
+[49.148.241.237 | 16-Aug-2023 15:24:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-28 17:00
+[49.148.241.237 | 16-Aug-2023 15:24:51] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-29 8:00
+[49.148.241.237 | 16-Aug-2023 15:24:52] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-29 12:00
+[49.148.241.237 | 16-Aug-2023 15:24:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-29 13:00
+[49.148.241.237 | 16-Aug-2023 15:24:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-29 17:00
+[49.148.241.237 | 16-Aug-2023 15:25:02] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-06-30 8:00
+[49.148.241.237 | 16-Aug-2023 15:25:03] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-06-30 12:00
+[49.148.241.237 | 16-Aug-2023 15:25:04] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-06-30 13:00
+[49.148.241.237 | 16-Aug-2023 15:25:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-06-30 17:00
+[49.148.241.237 | 16-Aug-2023 15:27:58] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-03 8:00
+[49.148.241.237 | 16-Aug-2023 15:27:59] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-03 12:00
+[49.148.241.237 | 16-Aug-2023 15:28:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-03 13:00
+[49.148.241.237 | 16-Aug-2023 15:28:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-03 17:00
+[49.148.241.237 | 16-Aug-2023 15:29:17] 2-Admin User: Added/Updated User Schedules
+[49.148.241.237 | 16-Aug-2023 15:30:37] 2-Admin User: Log 2023-07-14 07:50                                   
+                 
+                                               for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:30:56] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:31:23] 2-Admin User: Log 2023-07-14 17:01                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:31:41] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:31:53] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:32:05] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:32:18] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:32:31] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:32:44] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:34:07] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:34:25] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:34:37] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:34:50] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:35:14] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:35:31] 2-Admin User: Log 2023-08-02 13:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:35:45] 2-Admin User: Log  for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:35:58] 2-Admin User: Log 2023-07-26 06:00                                   
+                 
+                                               for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:36:11] 2-Admin User: Log 2023-07-26 20:30                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:36:23] 2-Admin User: Log 2023-08-02 14:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:36:51] 2-Admin User: Log 2023-07-19 07:30                                   
+                 
+                                               for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:37:02] 2-Admin User: Log 2023-07-19 16:30                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.148.241.237 | 16-Aug-2023 15:38:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-14 8:00
+[49.148.241.237 | 16-Aug-2023 15:38:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-14 12:00
+[49.148.241.237 | 16-Aug-2023 15:38:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-14 13:00
+[49.148.241.237 | 16-Aug-2023 15:38:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-14 17:00
+[49.148.241.237 | 16-Aug-2023 15:38:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-17 8:00
+[49.148.241.237 | 16-Aug-2023 15:38:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-17 12:00
+[49.148.241.237 | 16-Aug-2023 15:38:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-17 13:00
+[49.148.241.237 | 16-Aug-2023 15:38:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-17 17:00
+[49.148.241.237 | 16-Aug-2023 15:38:31] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-18 8:00
+[49.148.241.237 | 16-Aug-2023 15:38:32] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-18 12:00
+[49.148.241.237 | 16-Aug-2023 15:38:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-18 13:00
+[49.148.241.237 | 16-Aug-2023 15:38:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-18 17:00
+[49.148.241.237 | 16-Aug-2023 15:38:39] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-19 8:00
+[49.148.241.237 | 16-Aug-2023 15:38:40] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-19 12:00
+[49.148.241.237 | 16-Aug-2023 15:38:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-19 13:00
+[49.148.241.237 | 16-Aug-2023 15:38:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-19 17:00
+[49.148.241.237 | 16-Aug-2023 15:38:50] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-20 8:00
+[49.148.241.237 | 16-Aug-2023 15:38:51] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-20 12:00
+[49.148.241.237 | 16-Aug-2023 15:38:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-20 13:00
+[49.148.241.237 | 16-Aug-2023 15:38:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-20 17:00
+[49.148.241.237 | 16-Aug-2023 15:39:00] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-21 8:00
+[49.148.241.237 | 16-Aug-2023 15:39:01] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-21 12:00
+[49.148.241.237 | 16-Aug-2023 15:39:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-21 13:00
+[49.148.241.237 | 16-Aug-2023 15:39:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-21 17:00
+[49.148.241.237 | 16-Aug-2023 15:39:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-24 8:00
+[49.148.241.237 | 16-Aug-2023 15:39:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-24 12:00
+[49.148.241.237 | 16-Aug-2023 15:39:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-24 13:00
+[49.148.241.237 | 16-Aug-2023 15:39:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-24 17:00
+[49.148.241.237 | 16-Aug-2023 15:39:22] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-25 8:00
+[49.148.241.237 | 16-Aug-2023 15:39:23] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-25 12:00
+[49.148.241.237 | 16-Aug-2023 15:39:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-25 13:00
+[49.148.241.237 | 16-Aug-2023 15:39:25] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-25 17:00
+[49.148.241.237 | 16-Aug-2023 15:39:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-26 8:00
+[49.148.241.237 | 16-Aug-2023 15:39:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-26 12:00
+[49.148.241.237 | 16-Aug-2023 15:39:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-26 13:00
+[49.148.241.237 | 16-Aug-2023 15:39:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-26 17:00
+[49.148.241.237 | 16-Aug-2023 15:39:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-27 8:00
+[49.148.241.237 | 16-Aug-2023 15:39:43] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-27 12:00
+[49.148.241.237 | 16-Aug-2023 15:39:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-27 13:00
+[49.148.241.237 | 16-Aug-2023 15:39:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-27 17:00
+[49.148.241.237 | 16-Aug-2023 15:39:51] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-28 8:00
+[49.148.241.237 | 16-Aug-2023 15:39:52] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-28 12:00
+[49.148.241.237 | 16-Aug-2023 15:39:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-28 13:00
+[49.148.241.237 | 16-Aug-2023 15:39:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-28 17:00
+[49.148.241.237 | 16-Aug-2023 15:40:00] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-07-31 8:00
+[49.148.241.237 | 16-Aug-2023 15:40:01] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-07-31 12:00
+[49.148.241.237 | 16-Aug-2023 15:40:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-07-31 13:00
+[49.148.241.237 | 16-Aug-2023 15:40:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-07-31 17:00
+[49.148.241.237 | 16-Aug-2023 15:40:17] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-01 8:00
+[49.148.241.237 | 16-Aug-2023 15:40:18] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-01 12:00
+[49.148.241.237 | 16-Aug-2023 15:40:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-01 13:00
+[49.148.241.237 | 16-Aug-2023 15:40:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-01 17:00
+[49.148.241.237 | 16-Aug-2023 15:40:26] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-02 8:00
+[49.148.241.237 | 16-Aug-2023 15:40:27] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-02 12:00
+[49.148.241.237 | 16-Aug-2023 15:40:28] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-02 13:00
+[49.148.241.237 | 16-Aug-2023 15:40:29] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-02 17:00
+[49.148.241.237 | 16-Aug-2023 15:40:35] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-03 8:00
+[49.148.241.237 | 16-Aug-2023 15:40:36] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-03 12:00
+[49.148.241.237 | 16-Aug-2023 15:40:37] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-03 13:00
+[49.148.241.237 | 16-Aug-2023 15:40:38] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-03 17:00
+[49.148.241.237 | 16-Aug-2023 15:40:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-04 8:00
+[49.148.241.237 | 16-Aug-2023 15:40:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-04 12:00
+[49.148.241.237 | 16-Aug-2023 15:40:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-04 13:00
+[49.148.241.237 | 16-Aug-2023 15:40:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-04 17:00
+[49.148.241.237 | 16-Aug-2023 15:40:54] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-07 8:00
+[49.148.241.237 | 16-Aug-2023 15:40:55] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-07 12:00
+[49.148.241.237 | 16-Aug-2023 15:40:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-07 13:00
+[49.148.241.237 | 16-Aug-2023 15:40:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-07 17:00
+[49.148.241.237 | 16-Aug-2023 15:41:03] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-08 8:00
+[49.148.241.237 | 16-Aug-2023 15:41:04] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-08 12:00
+[49.148.241.237 | 16-Aug-2023 15:41:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-08 13:00
+[49.148.241.237 | 16-Aug-2023 15:41:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-08 17:00
+[49.148.241.237 | 16-Aug-2023 15:41:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-09 8:00
+[49.148.241.237 | 16-Aug-2023 15:41:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-09 12:00
+[49.148.241.237 | 16-Aug-2023 15:41:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-09 13:00
+[49.148.241.237 | 16-Aug-2023 15:41:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-09 17:00
+[49.148.241.237 | 16-Aug-2023 15:41:20] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-10 8:00
+[49.148.241.237 | 16-Aug-2023 15:41:21] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-10 12:00
+[49.148.241.237 | 16-Aug-2023 15:41:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-10 13:00
+[49.148.241.237 | 16-Aug-2023 15:41:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-10 17:00
+[49.148.241.237 | 16-Aug-2023 15:41:29] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-11 8:00
+[49.148.241.237 | 16-Aug-2023 15:41:30] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-11 12:00
+[49.148.241.237 | 16-Aug-2023 15:41:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-11 13:00
+[49.148.241.237 | 16-Aug-2023 15:41:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-11 17:00
+[49.148.241.237 | 16-Aug-2023 15:41:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-14 8:00
+[49.148.241.237 | 16-Aug-2023 15:41:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-14 12:00
+[49.148.241.237 | 16-Aug-2023 15:41:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-14 13:00
+[49.148.241.237 | 16-Aug-2023 15:41:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-14 17:00
+[49.148.241.237 | 16-Aug-2023 15:42:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-15 8:00
+[49.148.241.237 | 16-Aug-2023 15:42:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-15 12:00
+[49.148.241.237 | 16-Aug-2023 15:42:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-15 13:00
+[49.148.241.237 | 16-Aug-2023 15:42:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-15 17:00
+[49.148.241.237 | 16-Aug-2023 15:42:46] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-16 8:00
+[49.148.241.237 | 16-Aug-2023 15:42:47] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-16 12:00
+[49.148.241.237 | 16-Aug-2023 15:42:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-16 13:00
+[49.148.241.237 | 16-Aug-2023 15:42:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-16 17:00
+[49.148.241.237 | 16-Aug-2023 15:42:58] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-17 8:00
+[49.148.241.237 | 16-Aug-2023 15:42:59] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-17 12:00
+[49.148.241.237 | 16-Aug-2023 15:43:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-17 13:00
+[49.148.241.237 | 16-Aug-2023 15:43:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-17 17:00
+[49.148.241.237 | 16-Aug-2023 15:43:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-18 8:00
+[49.148.241.237 | 16-Aug-2023 15:43:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-18 12:00
+[49.148.241.237 | 16-Aug-2023 15:43:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-18 13:00
+[49.148.241.237 | 16-Aug-2023 15:43:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-18 17:00
+[49.148.241.237 | 16-Aug-2023 15:43:22] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-21 8:00
+[49.148.241.237 | 16-Aug-2023 15:43:23] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-21 12:00
+[49.148.241.237 | 16-Aug-2023 15:43:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-21 13:00
+[49.148.241.237 | 16-Aug-2023 15:43:25] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-21 17:00
+[49.148.241.237 | 16-Aug-2023 15:43:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-22 8:00
+[49.148.241.237 | 16-Aug-2023 15:43:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-22 12:00
+[49.148.241.237 | 16-Aug-2023 15:43:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-22 13:00
+[49.148.241.237 | 16-Aug-2023 15:43:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-22 17:00
+[49.148.241.237 | 16-Aug-2023 15:43:55] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-23 8:00
+[49.148.241.237 | 16-Aug-2023 15:43:56] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-23 12:00
+[49.148.241.237 | 16-Aug-2023 15:43:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-23 13:00
+[49.148.241.237 | 16-Aug-2023 15:43:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-23 17:00
+[49.148.241.237 | 16-Aug-2023 15:44:06] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-24 8:00
+[49.148.241.237 | 16-Aug-2023 15:44:07] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-24 12:00
+[49.148.241.237 | 16-Aug-2023 15:44:08] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-24 13:00
+[49.148.241.237 | 16-Aug-2023 15:44:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-24 17:00
+[49.148.241.237 | 16-Aug-2023 15:44:15] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-25 8:00
+[49.148.241.237 | 16-Aug-2023 15:44:16] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-25 12:00
+[49.148.241.237 | 16-Aug-2023 15:44:17] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-25 13:00
+[49.148.241.237 | 16-Aug-2023 15:44:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-25 17:00
+[49.148.241.237 | 16-Aug-2023 15:44:25] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-28 8:00
+[49.148.241.237 | 16-Aug-2023 15:44:26] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-28 12:00
+[49.148.241.237 | 16-Aug-2023 15:44:27] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-28 13:00
+[49.148.241.237 | 16-Aug-2023 15:44:28] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-28 17:00
+[49.148.241.237 | 16-Aug-2023 15:44:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-29 8:00
+[49.148.241.237 | 16-Aug-2023 15:44:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-29 12:00
+[49.148.241.237 | 16-Aug-2023 15:44:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-29 13:00
+[49.148.241.237 | 16-Aug-2023 15:44:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-29 17:00
+[49.148.241.237 | 16-Aug-2023 15:44:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-30 8:00
+[49.148.241.237 | 16-Aug-2023 15:44:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-30 12:00
+[49.148.241.237 | 16-Aug-2023 15:44:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-30 13:00
+[49.148.241.237 | 16-Aug-2023 15:44:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-30 17:00
+[49.148.241.237 | 16-Aug-2023 15:44:54] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-08-31 8:00
+[49.148.241.237 | 16-Aug-2023 15:44:55] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-08-31 12:00
+[49.148.241.237 | 16-Aug-2023 15:44:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-08-31 13:00
+[49.148.241.237 | 16-Aug-2023 15:44:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-08-31 17:00
+[49.148.241.237 | 16-Aug-2023 15:48:21] 42-Miguelito Bonares: Logged in.
+[49.148.241.237 | 16-Aug-2023 16:53:39] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-01 8:00
+[49.148.241.237 | 16-Aug-2023 16:53:40] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-01 12:00
+[49.148.241.237 | 16-Aug-2023 16:53:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-01 13:00
+[49.148.241.237 | 16-Aug-2023 16:53:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-01 17:00
+[49.148.241.237 | 16-Aug-2023 16:53:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-04 8:00
+[49.148.241.237 | 16-Aug-2023 16:53:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-04 12:00
+[49.148.241.237 | 16-Aug-2023 16:53:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-04 13:00
+[49.148.241.237 | 16-Aug-2023 16:53:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-04 17:00
+[49.148.241.237 | 16-Aug-2023 16:53:56] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-05 8:00
+[49.148.241.237 | 16-Aug-2023 16:53:57] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-05 12:00
+[49.148.241.237 | 16-Aug-2023 16:53:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-05 13:00
+[49.148.241.237 | 16-Aug-2023 16:53:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-05 17:00
+[49.148.241.237 | 16-Aug-2023 16:54:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-06 8:00
+[49.148.241.237 | 16-Aug-2023 16:54:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-06 12:00
+[49.148.241.237 | 16-Aug-2023 16:54:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-06 13:00
+[49.148.241.237 | 16-Aug-2023 16:54:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-06 17:00
+[49.148.241.237 | 16-Aug-2023 16:54:30] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-07 8:00
+[49.148.241.237 | 16-Aug-2023 16:54:31] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-07 12:00
+[49.148.241.237 | 16-Aug-2023 16:54:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-07 13:00
+[49.148.241.237 | 16-Aug-2023 16:54:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-07 17:00
+[49.148.241.237 | 16-Aug-2023 16:54:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-08 8:00
+[49.148.241.237 | 16-Aug-2023 16:54:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-08 12:00
+[49.148.241.237 | 16-Aug-2023 16:54:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-08 13:00
+[49.148.241.237 | 16-Aug-2023 16:54:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-08 17:00
+[49.148.241.237 | 16-Aug-2023 16:54:48] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-11 8:00
+[49.148.241.237 | 16-Aug-2023 16:54:49] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-11 12:00
+[49.148.241.237 | 16-Aug-2023 16:54:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-11 13:00
+[49.148.241.237 | 16-Aug-2023 16:54:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-11 17:00
+[49.148.241.237 | 16-Aug-2023 16:54:58] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-12 8:00
+[49.148.241.237 | 16-Aug-2023 16:54:59] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-12 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-12 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-12 17:00
+[49.148.241.237 | 16-Aug-2023 16:55:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-13 8:00
+[49.148.241.237 | 16-Aug-2023 16:55:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-13 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-13 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-13 17:00
+[49.148.241.237 | 16-Aug-2023 16:55:19] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-14 8:00
+[49.148.241.237 | 16-Aug-2023 16:55:20] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-14 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-14 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-14 17:00
+[49.148.241.237 | 16-Aug-2023 16:55:27] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-15 8:00
+[49.148.241.237 | 16-Aug-2023 16:55:28] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-15 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:29] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-15 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-15 17:00
+[49.148.241.237 | 16-Aug-2023 16:55:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-18 8:00
+[49.148.241.237 | 16-Aug-2023 16:55:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-18 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-18 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-18 17:00
+[49.148.241.237 | 16-Aug-2023 16:55:46] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-19 8:00
+[49.148.241.237 | 16-Aug-2023 16:55:47] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-19 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-19 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-19 17:00
+[49.148.241.237 | 16-Aug-2023 16:55:54] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-20 8:00
+[49.148.241.237 | 16-Aug-2023 16:55:55] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-20 12:00
+[49.148.241.237 | 16-Aug-2023 16:55:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-20 13:00
+[49.148.241.237 | 16-Aug-2023 16:55:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-20 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:02] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-21 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:03] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-21 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:04] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-21 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-21 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-22 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-22 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-22 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-22 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:20] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-25 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:21] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-25 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-25 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-25 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:28] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-26 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:29] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-26 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-26 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-26 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:36] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-27 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:37] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-27 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:38] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-27 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:39] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-27 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:45] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-28 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:46] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-28 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-28 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:48] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-28 17:00
+[49.148.241.237 | 16-Aug-2023 16:56:53] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-09-29 8:00
+[49.148.241.237 | 16-Aug-2023 16:56:54] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-09-29 12:00
+[49.148.241.237 | 16-Aug-2023 16:56:55] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-09-29 13:00
+[49.148.241.237 | 16-Aug-2023 16:56:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-09-29 17:00
+[49.148.241.237 | 16-Aug-2023 16:59:49] 2-Admin User: Set late allowance.
+[49.148.241.237 | 16-Aug-2023 17:00:15] 2-Admin User: Set late allowance.
+[49.148.241.237 | 16-Aug-2023 17:00:16] 2-Admin User: Set late amount.
+[49.145.44.187 | 17-Aug-2023 08:24:14] 2-Admin User: Logged in.
+[49.145.44.187 | 17-Aug-2023 08:25:30] 2-Admin User: Delete holiday ID 75
+[49.145.44.187 | 17-Aug-2023 08:25:34] 2-Admin User: Delete holiday ID 74
+[49.145.44.187 | 17-Aug-2023 08:25:40] 2-Admin User: Delete holiday ID 67
+[49.145.44.187 | 17-Aug-2023 08:25:46] 2-Admin User: Delete holiday ID 69
+[49.145.44.187 | 17-Aug-2023 08:25:52] 2-Admin User: Delete holiday ID 73
+[49.145.44.187 | 17-Aug-2023 08:25:57] 2-Admin User: Delete holiday ID 71
+[49.145.44.187 | 17-Aug-2023 08:26:04] 2-Admin User: Delete holiday ID 72
+[49.145.44.187 | 17-Aug-2023 08:26:12] 2-Admin User: Delete holiday ID 68
+[49.145.44.187 | 17-Aug-2023 08:26:20] 2-Admin User: Delete holiday ID 55
+[49.145.44.187 | 17-Aug-2023 08:26:29] 2-Admin User: Delete holiday ID 43
+[49.145.44.187 | 17-Aug-2023 08:26:35] 2-Admin User: Delete holiday ID 44
+[49.145.44.187 | 17-Aug-2023 08:26:45] 2-Admin User: Delete holiday ID 29
+[49.145.44.187 | 17-Aug-2023 08:26:52] 2-Admin User: Delete holiday ID 28
+[49.145.44.187 | 17-Aug-2023 08:27:02] 2-Admin User: Delete holiday ID 24
+[49.145.44.187 | 17-Aug-2023 08:27:09] 2-Admin User: Delete holiday ID 23
+[49.145.44.187 | 17-Aug-2023 08:27:17] 2-Admin User: Delete holiday ID 25
+[49.145.44.187 | 17-Aug-2023 08:29:24] 2-Admin User: Delete leave ID 38
+[49.145.44.187 | 17-Aug-2023 08:29:26] 2-Admin User: Delete leave ID 39
+[49.145.44.187 | 17-Aug-2023 08:30:09] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-02 8:00
+[49.145.44.187 | 17-Aug-2023 08:30:10] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-02 12:00
+[49.145.44.187 | 17-Aug-2023 08:30:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-02 13:00
+[49.145.44.187 | 17-Aug-2023 08:30:12] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-02 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:00] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-03 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:01] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-03 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-03 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-03 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:08] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-04 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:09] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-04 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-04 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:11] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-04 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:17] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-05 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:18] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-05 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-05 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-05 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:26] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-06 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:27] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-06 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:28] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-06 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:29] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-06 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-09 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-09 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-09 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-09 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-10 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:43] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-10 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-10 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-10 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:49] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-11 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:50] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-11 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-11 13:00
+[49.145.44.187 | 17-Aug-2023 08:31:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-11 17:00
+[49.145.44.187 | 17-Aug-2023 08:31:57] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-12 8:00
+[49.145.44.187 | 17-Aug-2023 08:31:58] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-12 12:00
+[49.145.44.187 | 17-Aug-2023 08:31:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-12 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-12 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:04] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-13 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:05] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-13 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-13 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-13 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-16 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-16 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-16 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-16 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:19] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-17 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:20] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-17 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-17 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:22] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-17 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:27] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-18 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:28] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-18 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:29] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-18 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:30] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-18 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:34] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-19 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:35] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-19 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-19 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:37] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-19 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:42] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-20 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:43] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-20 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-20 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-20 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:51] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-23 8:00
+[49.145.44.187 | 17-Aug-2023 08:32:52] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-23 12:00
+[49.145.44.187 | 17-Aug-2023 08:32:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-23 13:00
+[49.145.44.187 | 17-Aug-2023 08:32:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-23 17:00
+[49.145.44.187 | 17-Aug-2023 08:32:59] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-24 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:00] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-24 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-24 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-24 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:07] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-25 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:08] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-25 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-25 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-25 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:15] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-26 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:16] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-26 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:17] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-26 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-26 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:23] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-27 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:24] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-27 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:25] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-27 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:26] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-27 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:30] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-30 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:31] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-30 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-30 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:33] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-30 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:37] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-10-31 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:38] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-10-31 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:39] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-10-31 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-10-31 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-01 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-01 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-01 13:00
+[49.145.44.187 | 17-Aug-2023 08:33:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-01 17:00
+[49.145.44.187 | 17-Aug-2023 08:33:57] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-02 8:00
+[49.145.44.187 | 17-Aug-2023 08:33:58] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-02 12:00
+[49.145.44.187 | 17-Aug-2023 08:33:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-02 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-02 17:00
+[49.145.44.187 | 17-Aug-2023 08:34:05] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-03 8:00
+[49.145.44.187 | 17-Aug-2023 08:34:06] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-03 12:00
+[49.145.44.187 | 17-Aug-2023 08:34:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-03 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:08] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-03 17:00
+[49.145.44.187 | 17-Aug-2023 08:34:13] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-06 8:00
+[49.145.44.187 | 17-Aug-2023 08:34:14] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-06 12:00
+[49.145.44.187 | 17-Aug-2023 08:34:15] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-06 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:16] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-06 17:00
+[49.145.44.187 | 17-Aug-2023 08:34:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-07 8:00
+[49.145.44.187 | 17-Aug-2023 08:34:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-07 12:00
+[49.145.44.187 | 17-Aug-2023 08:34:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-07 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-07 17:00
+[49.145.44.187 | 17-Aug-2023 08:34:29] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-08 8:00
+[49.145.44.187 | 17-Aug-2023 08:34:30] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-08 12:00
+[49.145.44.187 | 17-Aug-2023 08:34:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-08 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-08 17:00
+[49.145.44.187 | 17-Aug-2023 08:34:38] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-09 8:00
+[49.145.44.187 | 17-Aug-2023 08:34:39] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-09 12:00
+[49.145.44.187 | 17-Aug-2023 08:34:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-09 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:41] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-09 17:00
+[49.145.44.187 | 17-Aug-2023 08:34:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-10 8:00
+[49.145.44.187 | 17-Aug-2023 08:34:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-10 12:00
+[49.145.44.187 | 17-Aug-2023 08:34:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-10 13:00
+[49.145.44.187 | 17-Aug-2023 08:34:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-10 17:00
+[49.145.44.187 | 17-Aug-2023 08:35:16] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-13 8:00
+[49.145.44.187 | 17-Aug-2023 08:35:17] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-13 12:00
+[49.145.44.187 | 17-Aug-2023 08:35:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-13 13:00
+[49.145.44.187 | 17-Aug-2023 08:35:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-13 17:00
+[49.145.44.187 | 17-Aug-2023 08:37:23] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-14 8:00
+[49.145.44.187 | 17-Aug-2023 08:37:24] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-14 12:00
+[49.145.44.187 | 17-Aug-2023 08:37:25] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-14 13:00
+[49.145.44.187 | 17-Aug-2023 08:37:26] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-14 17:00
+[49.145.44.187 | 17-Aug-2023 08:37:32] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-15 8:00
+[49.145.44.187 | 17-Aug-2023 08:37:33] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-15 12:00
+[49.145.44.187 | 17-Aug-2023 08:37:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-15 13:00
+[49.145.44.187 | 17-Aug-2023 08:37:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-15 17:00
+[49.145.44.187 | 17-Aug-2023 08:37:41] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-16 8:00
+[49.145.44.187 | 17-Aug-2023 08:37:42] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-16 12:00
+[49.145.44.187 | 17-Aug-2023 08:37:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-16 13:00
+[49.145.44.187 | 17-Aug-2023 08:37:44] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-16 17:00
+[49.145.44.187 | 17-Aug-2023 08:37:54] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-17 8:00
+[49.145.44.187 | 17-Aug-2023 08:37:55] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-17 12:00
+[49.145.44.187 | 17-Aug-2023 08:37:56] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-17 13:00
+[49.145.44.187 | 17-Aug-2023 08:37:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-17 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:07] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-20 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:08] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-20 12:00
+[49.145.44.187 | 17-Aug-2023 08:38:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-20 13:00
+[49.145.44.187 | 17-Aug-2023 08:38:10] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-20 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:16] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-21 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:17] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-21 12:00
+[49.145.44.187 | 17-Aug-2023 08:38:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-21 13:00
+[49.145.44.187 | 17-Aug-2023 08:38:19] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-21 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:26] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-22 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:27] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-22 12:00
+[49.145.44.187 | 17-Aug-2023 08:38:28] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-22 13:00
+[49.145.44.187 | 17-Aug-2023 08:38:29] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-22 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:34] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-23 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:35] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-23 12:00
+[49.145.44.187 | 17-Aug-2023 08:38:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-23 13:00
+[49.145.44.187 | 17-Aug-2023 08:38:37] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-23 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:43] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-24 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:44] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-24 12:00
+[49.145.44.187 | 17-Aug-2023 08:38:45] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-24 13:00
+[49.145.44.187 | 17-Aug-2023 08:38:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-24 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:50] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-27 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:51] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-27 12:00
+[49.145.44.187 | 17-Aug-2023 08:38:52] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-27 13:00
+[49.145.44.187 | 17-Aug-2023 08:38:53] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-27 17:00
+[49.145.44.187 | 17-Aug-2023 08:38:58] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-28 8:00
+[49.145.44.187 | 17-Aug-2023 08:38:59] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-28 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:00] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-28 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:01] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-28 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:06] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-29 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:07] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-29 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:08] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-29 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:09] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-29 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:15] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-11-30 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:16] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-11-30 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:17] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-11-30 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:18] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-11-30 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:25] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-01 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:26] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-01 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:27] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-01 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:28] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-01 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:32] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-04 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:33] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-04 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:34] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-04 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-04 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:40] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-05 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:41] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-05 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-05 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-05 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:47] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-06 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:48] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-06 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:49] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-06 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-06 17:00
+[49.145.44.187 | 17-Aug-2023 08:39:55] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-07 8:00
+[49.145.44.187 | 17-Aug-2023 08:39:56] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-07 12:00
+[49.145.44.187 | 17-Aug-2023 08:39:57] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-07 13:00
+[49.145.44.187 | 17-Aug-2023 08:39:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-07 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:03] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-08 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:04] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-08 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:05] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-08 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-08 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:11] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-11 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:12] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-11 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:13] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-11 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-11 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:18] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-12 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:19] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-12 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:20] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-12 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:21] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-12 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:25] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-13 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:26] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-13 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:27] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-13 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:28] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-13 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:33] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-14 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:34] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-14 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:35] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-14 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:36] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-14 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:40] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-15 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:41] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-15 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:42] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-15 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:43] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-15 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:48] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-18 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:49] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-18 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:50] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-18 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:51] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-18 17:00
+[49.145.44.187 | 17-Aug-2023 08:40:56] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-19 8:00
+[49.145.44.187 | 17-Aug-2023 08:40:57] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-19 12:00
+[49.145.44.187 | 17-Aug-2023 08:40:58] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-19 13:00
+[49.145.44.187 | 17-Aug-2023 08:40:59] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-19 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:04] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-20 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:05] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-20 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:06] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-20 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:07] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-20 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:12] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-21 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:13] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-21 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:14] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-21 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:15] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-21 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:21] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-22 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:22] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-22 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:23] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-22 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:24] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-22 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:29] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-25 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:30] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-25 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:31] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-25 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:32] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-25 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:37] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-26 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:38] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-26 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:39] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-26 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:40] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-26 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:44] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-27 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:45] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-27 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:46] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-27 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:47] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-27 17:00
+[49.145.44.187 | 17-Aug-2023 08:41:52] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-28 8:00
+[49.145.44.187 | 17-Aug-2023 08:41:53] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-28 12:00
+[49.145.44.187 | 17-Aug-2023 08:41:54] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-28 13:00
+[49.145.44.187 | 17-Aug-2023 08:41:55] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-28 17:00
+[49.145.44.187 | 17-Aug-2023 08:42:00] 2-Admin User: Add timelog for biometric ID 897645 First Time in : 2023-12-29 8:00
+[49.145.44.187 | 17-Aug-2023 08:42:01] 2-Admin User: Add timelog for biometric ID 897645 First Time out : 2023-12-29 12:00
+[49.145.44.187 | 17-Aug-2023 08:42:02] 2-Admin User: Add timelog for biometric ID 897645 Second Time in : 2023-12-29 13:00
+[49.145.44.187 | 17-Aug-2023 08:42:03] 2-Admin User: Add timelog for biometric ID 897645 Second Time out : 2023-12-29 17:00
+[49.145.44.187 | 17-Aug-2023 10:32:22] 2-Admin User: Added 13th Month 2023-01-01-to-2023-12-31 Array Success.
+[49.145.44.187 | 17-Aug-2023 10:32:44] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 10:32:46] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 10:33:15] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 10:33:15] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 12:58:53] 2-Admin User: Logged in.
+[49.145.44.187 | 17-Aug-2023 13:15:37] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:15:38] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:24:02] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:24:04] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:28:16] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:28:17] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:28:58] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:28:59] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:29:35] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 13:29:36] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:32:13] 2-Admin User: Logged in.
+[49.145.44.187 | 17-Aug-2023 14:32:36] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:32:37] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:33:01] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:33:03] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:33:55] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:33:56] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:35:51] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:35:52] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:38:25] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:38:26] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:39:05] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:39:06] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:41:13] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:41:14] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:42:38] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:42:39] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:43:19] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:43:20] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:46:49] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 14:46:50] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 15:16:32] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.145.44.187 | 17-Aug-2023 15:16:34] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 13:48:06] 2-Admin User: Logged in.
+[49.148.243.233 | 22-Aug-2023 14:17:31] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:17:32] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:28:55] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:28:55] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:30:10] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:30:10] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:30:49] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:30:49] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:31:30] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:31:30] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:32:14] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:32:14] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:33:48] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:33:48] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:34:09] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:34:09] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:34:53] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:34:53] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:37:10] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:37:10] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:38:06] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:38:06] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:41:39] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:41:39] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:52:30] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 14:52:30] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 15:19:50] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 15:19:50] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 15:21:19] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.243.233 | 22-Aug-2023 15:21:19] 2-Admin User: Generate Nth-distribution for 2023-01-01-to-2023-12-31
+[49.148.249.216 | 23-Aug-2023 08:18:59] 2-Admin User: Logged in.
+[49.148.249.216 | 23-Aug-2023 09:22:33] 2-Admin User: Added Employee  
+[49.148.249.216 | 23-Aug-2023 10:33:35] 2-Admin User: Logged in.
+[49.148.249.216 | 23-Aug-2023 10:44:49] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 10:44:49] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 10:47:48] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 11:08:40] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 11:08:40] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 11:25:01] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 11:25:01] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 11:27:28] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 11:27:28] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 11:31:31] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 11:31:31] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 11:36:41] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 11:36:41] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 12:57:39] 2-Admin User: Logged in.
+[49.148.249.216 | 23-Aug-2023 13:50:29] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 13:50:29] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 14:59:24] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 14:59:24] 2-Admin User: Added Employee jaypee mandawe
+[49.148.249.216 | 23-Aug-2023 15:16:38] 2-Admin User: Added Employee john cordell
+[49.148.249.216 | 23-Aug-2023 16:22:17] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.148.249.216 | 23-Aug-2023 16:22:19] 2-Admin User: Generate Nth-payslip for 2023-01-01-to-2023-12-31
+[49.148.249.216 | 23-Aug-2023 16:27:08] 2-Admin User: Logged out.
+[49.148.249.216 | 23-Aug-2023 16:27:17] 2-Admin User: Logged in.
+[49.148.249.216 | 23-Aug-2023 16:28:17] 42-Miguelito Bonares: Logged in.
+[49.148.249.216 | 23-Aug-2023 16:46:16] 2-Admin User: Deleted Employee Jaypee Mandawe
+[49.148.249.216 | 23-Aug-2023 16:46:19] 2-Admin User: Deleted Employee john cordell
+[49.148.249.216 | 23-Aug-2023 16:58:43] 2-Admin User: Added Employee test1 tes1
+[49.148.249.216 | 23-Aug-2023 16:58:43] 2-Admin User: Added Employee test2 test2
+[49.148.249.216 | 23-Aug-2023 16:58:43] 2-Admin User: Added Employee test3 test3
+[49.148.249.216 | 23-Aug-2023 16:58:43] 2-Admin User: Added Employee test4 test4
+[49.148.249.216 | 23-Aug-2023 16:58:43] 2-Admin User: Added Employee test5 test5
+[120.28.185.52 | 24-Aug-2023 15:56:15] 2-Admin User: Logged in.
+[120.28.185.52 | 24-Aug-2023 16:06:26] 2-Admin User: Set Leave Actual Rate.
+[120.28.185.52 | 24-Aug-2023 16:06:33] 2-Admin User: Set Holiday Actual Rate.
+[120.28.185.75 | 28-Aug-2023 10:43:42] 2-Admin User: Logged in.
+[120.28.185.75 | 28-Aug-2023 11:05:10] 2-Admin User: Add leave for   2023-08-02 - 1
+[120.28.185.75 | 28-Aug-2023 14:16:16] 2-Admin User: Logged in.
+[120.28.185.75 | 28-Aug-2023 15:24:43] 2-Admin User: Logged in.
+[49.145.47.251 | 29-Aug-2023 10:40:57] 2-Admin User: Logged in.
+[49.145.47.251 | 29-Aug-2023 10:50:28] 2-Admin User: Add holiday 0 on 2023-07-12
+[49.145.47.251 | 29-Aug-2023 10:50:37] 2-Admin User: Add holiday 1 on 2023-07-14
+[49.145.47.251 | 29-Aug-2023 10:51:32] 2-Admin User: Logged out.
+[49.145.47.251 | 29-Aug-2023 11:01:24] 2-Admin User: Logged in.
+[49.145.47.251 | 29-Aug-2023 11:10:55] 2-Admin User: Delete holiday ID 76
+[49.145.47.251 | 29-Aug-2023 11:11:02] 2-Admin User: Add holiday 0 on 2023-07-10
+[49.145.47.251 | 29-Aug-2023 11:11:16] 2-Admin User: Delete holiday ID 77
+[49.145.47.251 | 29-Aug-2023 11:11:24] 2-Admin User: Add holiday 1 on 2023-07-03
+[120.28.233.24 | 29-Aug-2023 13:50:46] 2-Admin User: Logged in.
+[120.28.233.24 | 29-Aug-2023 15:38:28] 2-Admin User: Logged in.
+[49.148.244.66 | 30-Aug-2023 10:42:12] 2-Admin User: Logged in.
+[49.148.244.66 | 30-Aug-2023 10:58:11] 2-Admin User: Logged out.
+[49.145.38.233 | 31-Aug-2023 13:07:14] 2-Admin User: Logged in.
+[49.145.38.233 | 31-Aug-2023 13:08:03] 2-Admin User: Add leave for Bonares Miguelito 2023-08-23 - 1
+[49.145.38.233 | 31-Aug-2023 13:08:10] 2-Admin User: Delete leave ID 44
+[184.72.115.35 | 31-Aug-2023 21:24:45] - : Logged out.

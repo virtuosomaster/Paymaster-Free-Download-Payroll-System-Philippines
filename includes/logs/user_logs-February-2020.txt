@@ -1,0 +1,14 @@
+[120.28.238.28 | 12-Feb-2020 11:31:52] 1-Arni Cinco: Logged out.
+[120.28.246.177 | 18-Feb-2020 15:32:38] 1-Arni Cinco: Logged in.
+[120.28.246.177 | 18-Feb-2020 15:33:46] 1-Arni Cinco: Update Jocelyn Capilastique Loan amortization for ELA/SOS/EL/CA.
+[120.28.235.217 | 26-Feb-2020 08:41:00] 1-Arni Cinco: Logged in.
+[120.28.235.217 | 26-Feb-2020 08:41:47] 1-Arni Cinco: Download Resume.
+[120.28.235.217 | 26-Feb-2020 09:47:02] 1-Arni Cinco: Logged in.
+[120.28.235.217 | 26-Feb-2020 13:02:48] 1-Arni Cinco: Logged in.
+[49.145.105.90 | 26-Feb-2020 14:00:51] 1-Arni Cinco: Logged in.
+[49.145.105.90 | 26-Feb-2020 14:02:20] 1-Arni Cinco: Logged in.
+[49.145.105.90 | 26-Feb-2020 17:06:05] 1-Arni Cinco: Logged in.
+[120.28.235.217 | 26-Feb-2020 17:12:52] 1-Arni Cinco: Logged out.
+[120.28.235.246 | 28-Feb-2020 13:11:38] 1-Arni Cinco: Logged in.
+[120.28.235.246 | 28-Feb-2020 16:41:31] 1-Arni Cinco: Set late allowance.
+[120.28.235.246 | 28-Feb-2020 16:41:36] 1-Arni Cinco: Set late allowance.

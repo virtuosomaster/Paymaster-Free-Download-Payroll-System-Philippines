@@ -1,0 +1,179 @@
+[120.28.228.43 | 03-May-2023 15:35:51] 2-Super Admin: Logged in.
+[120.28.228.43 | 03-May-2023 15:36:31] 2-Super Admin: Logged out.
+[120.28.228.43 | 03-May-2023 15:40:40] 2-Super Admin: Logged in.
+[120.28.228.43 | 03-May-2023 15:41:26] 2-Super Admin: Domain License.
+[120.28.228.43 | 03-May-2023 15:41:38] 2-Super Admin: Deactivate License.
+[120.28.228.43 | 03-May-2023 15:41:44] 2-Super Admin: Domain License.
+[120.28.228.43 | 03-May-2023 15:41:48] 2-Super Admin: Domain License.
+[120.28.228.43 | 03-May-2023 15:42:09] 2-Super Admin: Domain License.
+[120.28.228.43 | 03-May-2023 15:42:19] 2-Super Admin: Domain License.
+[120.28.228.43 | 03-May-2023 15:42:21] 2-Super Admin: Activate License.
+[120.28.232.103 | 11-May-2023 16:16:55] 2-Super Admin: Logged in.
+[120.28.232.103 | 11-May-2023 16:17:33] 2-Super Admin: Add overtime for Adams Alfie on 2023-05-10 time 5:00pm - 7:00pm
+[120.28.232.103 | 11-May-2023 16:22:27] 2-Super Admin: Logged out.
+[120.28.185.174 | 22-May-2023 13:52:16] 2-Super Admin: Logged in.
+[120.28.185.174 | 22-May-2023 13:55:22] 2-Super Admin: Logged in.
+[120.28.185.174 | 22-May-2023 13:56:46] 2-Super Admin: update overtime status to1
+[120.28.185.174 | 22-May-2023 14:04:47] 2-Super Admin: Generate Payslip for samplepayroll
+[120.28.185.174 | 22-May-2023 14:04:51] 2-Super Admin: Generate Payslip for samplepayroll
+[120.28.185.174 | 22-May-2023 14:05:29] 2-Super Admin: Generate Nth-payslip for Joe
+[120.28.185.174 | 22-May-2023 14:05:32] 2-Super Admin: Generate Nth-payslip for Joe
+[120.28.185.174 | 22-May-2023 14:30:05] 2-Super Admin: Logged out.
+[120.28.185.174 | 22-May-2023 15:28:18] 2-Super Admin: Logged in.
+[120.28.185.174 | 22-May-2023 16:41:12] 2-Super Admin: Logged in.
+[120.28.249.42 | 23-May-2023 08:09:25] 2-Super Admin: Logged in.
+[120.28.249.42 | 23-May-2023 09:12:16] 2-Super Admin: Logged in.
+[120.28.249.42 | 23-May-2023 09:33:46] 2-Super Admin: update overtime status to0
+[120.28.249.42 | 23-May-2023 09:33:48] 2-Super Admin: update overtime status to1
+[120.28.249.42 | 23-May-2023 09:33:52] 2-Super Admin: update overtime status to0
+[120.28.249.42 | 23-May-2023 09:33:55] 2-Super Admin: update overtime status to1
+[120.28.249.42 | 23-May-2023 11:13:08] 2-Super Admin: Generate Payslip for samplepayroll
+[120.28.249.42 | 23-May-2023 11:13:09] 2-Super Admin: Generate Payslip for samplepayroll
+[120.28.249.42 | 23-May-2023 11:18:44] 2-Super Admin: Generate Distribution for samplepayroll
+[120.28.249.42 | 23-May-2023 11:18:44] 2-Super Admin: Generate Distribution for samplepayroll
+[120.28.249.42 | 23-May-2023 11:24:31] 2-Super Admin: Added Payroll test_neg_sal_adj Array Success.
+[120.28.249.42 | 23-May-2023 11:51:15] 2-Super Admin: Add leave for Adams Alfie 2023-05-02 - 2
+[120.28.249.42 | 23-May-2023 11:51:25] 2-Super Admin: Add leave for BALBASTRO ACE CRISTOPHER 2023-05-12 - 1
+[120.28.249.42 | 23-May-2023 11:51:31] 2-Super Admin: Update leave ID 20 status to 0
+[120.28.249.42 | 23-May-2023 11:51:33] 2-Super Admin: Update leave ID 20 status to 1
+[120.28.249.42 | 23-May-2023 11:51:35] 2-Super Admin: Update leave ID 20 status to 0
+[120.28.249.42 | 23-May-2023 11:51:36] 2-Super Admin: Update leave ID 20 status to 1
+[120.28.249.42 | 23-May-2023 13:13:32] 2-Super Admin: Logged in.
+[120.28.232.149 | 24-May-2023 08:10:34] 2-Super Admin: Logged in.
+[120.28.232.149 | 24-May-2023 09:17:17] 2-Super Admin: Logged in.
+[120.28.232.149 | 24-May-2023 10:34:45] 2-Super Admin: Logged in.
+[120.28.232.149 | 24-May-2023 10:56:51] 2-Super Admin: Update xx xx Loan amortization for SSS.
+[120.28.232.149 | 24-May-2023 10:57:03] 2-Super Admin: Update xx xx Loan amortization for SSS.
+[120.28.232.149 | 24-May-2023 10:57:12] 2-Super Admin: Update xx xx Loan amortization for SSS.
+[120.28.232.149 | 24-May-2023 11:21:33] 2-Super Admin: Add leave for xx xx 2023-05-24 - 2
+[120.28.232.149 | 24-May-2023 11:23:05] 2-Super Admin: Request Schedule for xx xx on 2023-05-24 status 1
+[120.28.232.149 | 24-May-2023 11:23:11] 2-Super Admin: Request Schedule for xx xx on 2023-05-24 status 0
+[120.28.232.149 | 24-May-2023 11:23:21] 2-Super Admin: Update leave ID 22
+[120.28.232.149 | 24-May-2023 14:40:17] 2-Super Admin: Logged in.
+[49.145.36.207 | 24-May-2023 15:19:26] 2-Super Admin: Logged in.
+[120.28.184.169 | 25-May-2023 13:21:23] 2-Super Admin: Logged in.
+[49.145.40.16 | 25-May-2023 16:06:48] 2-Super Admin: Logged in.
+[49.145.40.16 | 25-May-2023 16:16:46] 2-Super Admin: Add timelog for biometric ID 4002 Second Time in : 2023-05-01 20:00
+[49.145.40.16 | 25-May-2023 16:16:47] 2-Super Admin: Add timelog for biometric ID 4002 Second Time out : 2023-05-01 12:00
+[49.145.40.16 | 25-May-2023 16:24:46] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeIn : 2023-05-01 9:00:00
+[49.145.40.16 | 25-May-2023 16:25:09] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeOut : 2023-05-01 12:00:00
+[49.145.40.16 | 25-May-2023 16:27:47] 2-Super Admin: Log 2023-05-01 12:00                                          
+              
+                                                 for BALBASTRO, ACE CRISTOPHER successfully Deleted
+[49.145.40.16 | 25-May-2023 16:27:57] 2-Super Admin: Log 2023-05-01 13:00                                          
+              
+                                                 for BALBASTRO, ACE CRISTOPHER successfully Deleted
+[49.148.249.87 | 26-May-2023 08:08:28] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 08:21:28] 2-Super Admin: Create Schedule Open Schedule
+[49.148.249.87 | 26-May-2023 08:22:28] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeOut : 2023-05-01 12:00:00
+[49.148.249.87 | 26-May-2023 08:22:42] 2-Super Admin: Add timelog for biometric ID 4002 for stimeIn : 2023-05-01 13:00:00
+[49.148.249.87 | 26-May-2023 08:38:55] 2-Super Admin: Log 2023-05-01 17:52                                         
+               
+                                                 for BALBASTRO, ACE CRISTOPHER successfully Deleted
+[49.148.249.87 | 26-May-2023 08:51:47] 2-Super Admin: Log 2023-05-02 09:56                                      
+              
+                                               for BALBASTRO, ACE CRISTOPHER successfully Deleted
+[49.148.249.87 | 26-May-2023 08:53:26] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 09:18:39] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeIn : 2023-05-01 21:56:00
+[49.148.249.87 | 26-May-2023 09:20:04] 2-Super Admin: Delete Schedule 
+[49.148.249.87 | 26-May-2023 10:15:42] 2-Super Admin: Logged in.
+[120.28.232.236 | 26-May-2023 11:53:29] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 14:00:52] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 14:06:57] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 14:22:36] 2-Super Admin: Added Payroll testing Array Success.
+[120.28.232.236 | 26-May-2023 14:49:00] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 15:34:04] 2-Super Admin: Logged in.
+[120.28.232.236 | 26-May-2023 15:53:53] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 16:26:29] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 16:26:30] 2-Super Admin: Logged in.
+[49.148.249.87 | 26-May-2023 16:27:36] 2-Super Admin: Create Schedule MidShift
+[120.28.234.50 | 29-May-2023 08:39:09] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 08:59:14] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 09:07:28] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 09:27:59] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 09:46:16] 2-Super Admin: Added Payroll ace-test-payroll Array Success.
+[120.28.234.50 | 29-May-2023 09:46:35] 2-Super Admin: Generate Payslip for ace-test-payroll
+[120.28.234.50 | 29-May-2023 09:46:36] 2-Super Admin: Generate Payslip for ace-test-payroll
+[120.28.234.50 | 29-May-2023 09:46:43] 2-Super Admin: Generate Distribution for ace-test-payroll
+[120.28.234.50 | 29-May-2023 09:46:43] 2-Super Admin: Generate Distribution for ace-test-payroll
+[120.28.234.50 | 29-May-2023 09:47:21] 2-Super Admin: Added Payroll ace-test-payroll-2 Array Success.
+[120.28.234.50 | 29-May-2023 09:47:33] 2-Super Admin: Generate Payslip for ace-test-payroll-2
+[120.28.234.50 | 29-May-2023 09:47:34] 2-Super Admin: Generate Payslip for ace-test-payroll-2
+[120.28.234.50 | 29-May-2023 10:05:03] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 10:14:08] 2-Super Admin: Set Holiday amount.
+[120.28.234.50 | 29-May-2023 10:18:58] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 10:19:40] 2-Super Admin: Request Schedule for BALBASTRO ACE CRISTOPHER on 2023-05-24 status 1
+[120.28.234.50 | 29-May-2023 10:19:59] 2-Super Admin: Request Schedule for xx xx on 2023-05-25 status 32
+[120.28.234.50 | 29-May-2023 10:20:05] 2-Super Admin: Request Schedule for BALBASTRO ACE CRISTOPHER on 2023-05-11 status 1
+[120.28.234.50 | 29-May-2023 10:20:13] 2-Super Admin: Request Schedule for BALBASTRO ACE CRISTOPHER on 2023-05-12 status 1
+[120.28.234.50 | 29-May-2023 10:33:14] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 10:33:20] 2-Super Admin: Logged out.
+[120.28.234.50 | 29-May-2023 10:40:57] 2-Super Admin: Set Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:41:01] 2-Super Admin: Unset Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:41:58] 2-Super Admin: Set Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:42:01] 2-Super Admin: Unset Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:42:15] 2-Super Admin: Set Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:49:31] 2-Super Admin: Unset Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:53:12] 2-Super Admin: Set Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 10:53:16] 2-Super Admin: Unset Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 10:53:28] 2-Super Admin: Set Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 10:53:36] 2-Super Admin: Set Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 10:54:49] 2-Super Admin: Unset Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 10:54:54] 2-Super Admin: Set Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 10:59:12] 2-Super Admin: Set Holiday amount.
+[120.28.234.50 | 29-May-2023 11:08:55] 2-Super Admin: Unset Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 11:11:16] - : Logged out.
+[120.28.234.50 | 29-May-2023 11:11:38] 2-Super Admin: Add holiday 0 on 2023-05-15
+[120.28.234.50 | 29-May-2023 11:12:17] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeIn : 2023-05-15 8:00:00
+[120.28.234.50 | 29-May-2023 11:12:26] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeOut : 2023-05-15 12:00:00
+[120.28.234.50 | 29-May-2023 11:12:35] 2-Super Admin: Add timelog for biometric ID 4002 for stimeIn : 2023-05-15 13:00:00
+[120.28.234.50 | 29-May-2023 11:12:45] 2-Super Admin: Add timelog for biometric ID 4002 for stimeOut : 2023-05-15 17:00:00
+[120.28.234.50 | 29-May-2023 11:15:05] 2-Super Admin: Unset Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 11:15:07] 2-Super Admin: Set Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 11:15:09] 2-Super Admin: Unset Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 11:15:10] 2-Super Admin: Set Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 11:17:04] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 11:20:42] 2-Super Admin: Add timelog for biometric ID 4002 for stimeIn : 2023-05-01 13:00:00
+[120.28.234.50 | 29-May-2023 11:23:18] 2-Super Admin: update holiday ID 45 to 1
+[120.28.234.50 | 29-May-2023 11:25:22] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeIn : 2023-05-14 8:00:00
+[120.28.234.50 | 29-May-2023 11:25:39] 2-Super Admin: Log 2023-05-15 17:00                                         
+               
+                                                 for BALBASTRO, ACE CRISTOPHER successfully Deleted
+[120.28.234.50 | 29-May-2023 11:25:54] 2-Super Admin: Add timelog for biometric ID 4002 for ftimeOut : 2023-05-14 12:00:00
+[120.28.234.50 | 29-May-2023 11:26:04] 2-Super Admin: Add timelog for biometric ID 4002 for stimeIn : 2023-05-14 13:00:00
+[120.28.234.50 | 29-May-2023 11:26:16] 2-Super Admin: Add timelog for biometric ID 4002 for stimeOut : 2023-05-14 17:00:00
+[120.28.234.50 | 29-May-2023 11:26:33] 2-Super Admin: Add timelog for biometric ID 4002 for stimeOut : 2023-05-15 17:00:00
+[120.28.234.50 | 29-May-2023 11:49:50] 2-Super Admin: Unset Holiday Actual Rate.
+[120.28.234.50 | 29-May-2023 11:49:51] 2-Super Admin: Set Leave Actual Rate.
+[120.28.234.50 | 29-May-2023 11:53:39] 2-Super Admin: Set Leave amount.
+[120.28.234.50 | 29-May-2023 11:58:21] 2-Super Admin: Logged out.
+[120.28.234.50 | 29-May-2023 12:00:17] 2-Super Admin: Added Payroll test generate payroll Array Success.
+[120.28.234.50 | 29-May-2023 13:08:24] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 13:08:34] 2-Super Admin: Logged in.
+[120.28.234.50 | 29-May-2023 13:08:57] 2-Super Admin: Request Schedule for xx xx on 2023-05-26 status 1
+[120.28.234.50 | 29-May-2023 13:11:21] - : Logged out.
+[120.28.234.50 | 29-May-2023 13:11:23] - : Logged out.
+[120.28.234.50 | 29-May-2023 13:16:08] 2-Super Admin: Delete leave ID 21
+[120.28.234.50 | 29-May-2023 13:16:51] 2-Super Admin: Add leave for BALBASTRO ACE CRISTOPHER 2023-05-12 - 1
+[120.28.234.50 | 29-May-2023 13:17:32] 2-Super Admin: Request Schedule for BALBASTRO ACE CRISTOPHER on 2023-05-15 status 0
+[120.28.234.50 | 29-May-2023 13:45:23] 2-Super Admin: Update Schedule ID 7 to 32
+[120.28.236.3 | 30-May-2023 08:06:35] 2-Super Admin: Logged in.
+[120.28.236.3 | 30-May-2023 13:48:09] 2-Super Admin: Logged in.
+[120.28.236.3 | 30-May-2023 14:23:00] 2-Super Admin: Logged in.
+[120.28.236.3 | 30-May-2023 15:26:52] 2-Super Admin: Delete Schedule ID 7
+[120.28.236.3 | 30-May-2023 15:26:57] 2-Super Admin: Delete Schedule ID 5
+[120.28.236.3 | 30-May-2023 15:27:02] 2-Super Admin: Delete Schedule ID 4
+[120.28.236.3 | 30-May-2023 15:27:07] 2-Super Admin: Delete Schedule ID 2
+[120.28.236.3 | 30-May-2023 15:51:56] 2-Super Admin: Delete Schedule ID 13
+[120.28.236.3 | 30-May-2023 15:52:01] 2-Super Admin: Delete Schedule ID 12
+[120.28.236.3 | 30-May-2023 15:52:05] 2-Super Admin: Delete Schedule ID 11
+[120.28.236.3 | 30-May-2023 15:52:09] 2-Super Admin: Delete Schedule ID 10
+[120.28.236.3 | 30-May-2023 15:52:13] 2-Super Admin: Delete Schedule ID 9
+[120.28.236.3 | 30-May-2023 15:52:18] 2-Super Admin: Delete Schedule ID 8
+[49.148.248.43 | 30-May-2023 16:02:12] 2-Super Admin: Delete Schedule ID 19
+[49.148.248.43 | 30-May-2023 16:02:17] 2-Super Admin: Delete Schedule ID 18
+[49.148.248.43 | 30-May-2023 16:02:21] 2-Super Admin: Delete Schedule ID 17
+[49.148.248.43 | 30-May-2023 16:02:25] 2-Super Admin: Delete Schedule ID 16
+[49.148.248.43 | 30-May-2023 16:02:30] 2-Super Admin: Delete Schedule ID 15
+[49.148.248.43 | 30-May-2023 16:02:35] 2-Super Admin: Delete Schedule ID 14
+[52.71.155.178 | 31-May-2023 15:58:30] - : Logged out.

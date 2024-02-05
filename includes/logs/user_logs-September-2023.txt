@@ -1,0 +1,395 @@
+[120.28.244.12 | 04-Sep-2023 16:35:01] 2-Admin User: Logged in.
+[120.28.244.12 | 04-Sep-2023 16:36:42] 2-Admin User: Added 13th Month Thirteen Month Pay - Bonares, Miguelito Array Success.
+[120.28.244.12 | 04-Sep-2023 16:37:00] 2-Admin User: Generate Nth-payslip for Thirteen Month Pay - Bonares, Miguelito
+[120.28.244.12 | 04-Sep-2023 16:37:01] 2-Admin User: Generate Nth-payslip for Thirteen Month Pay - Bonares, Miguelito
+[120.28.244.12 | 04-Sep-2023 16:38:34] 2-Admin User: Added 13th Month 13th Month - Sample Array Success.
+[120.28.244.12 | 04-Sep-2023 16:40:36] 2-Admin User: Added 13th Month ssss Array Success.
+[120.28.244.12 | 04-Sep-2023 16:44:42] 2-Admin User: Generate Nth-payslip for Thirteen Month Pay - Bonares, Miguelito
+[120.28.244.12 | 04-Sep-2023 16:44:42] 2-Admin User: Generate Nth-payslip for Thirteen Month Pay - Bonares, Miguelito
+[120.28.244.12 | 04-Sep-2023 16:45:31] 2-Admin User: Generate Payslip for 1st Payroll sample
+[120.28.244.12 | 04-Sep-2023 16:45:32] 2-Admin User: Generate Payslip for 1st Payroll sample
+[49.145.43.38 | 05-Sep-2023 08:21:35] 2-Admin User: Logged in.
+[49.145.43.38 | 05-Sep-2023 09:18:33] 2-Admin User: Added Payroll 2023-09-05-test-payroll Array Success.
+[49.145.43.38 | 05-Sep-2023 09:33:07] 2-Admin User: Generate Payslip for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:33:08] 2-Admin User: Generate Payslip for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:35:13] 2-Admin User: Generate Payslip for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:35:14] 2-Admin User: Generate Payslip for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:35:36] 2-Admin User: Generate Distribution for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:35:37] 2-Admin User: Generate Distribution for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:38:16] 2-Admin User: Generate Distribution for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 09:38:17] 2-Admin User: Generate Distribution for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 13:42:55] 2-Admin User: Logged in.
+[49.145.43.38 | 05-Sep-2023 14:07:24] 2-Admin User: Generate Distribution for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 14:07:24] 2-Admin User: Generate Distribution for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 14:08:43] 2-Admin User: Generate Payslip for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 14:08:44] 2-Admin User: Generate Payslip for 2023-09-05-test-payroll
+[49.145.43.38 | 05-Sep-2023 14:10:11] 2-Admin User: Added Payroll test-22 Array Success.
+[49.145.43.38 | 05-Sep-2023 14:10:52] 2-Admin User: Generate Payslip for test-22
+[49.145.43.38 | 05-Sep-2023 14:10:53] 2-Admin User: Generate Payslip for test-22
+[49.145.43.38 | 05-Sep-2023 14:11:10] 2-Admin User: Generate Distribution for test-22
+[49.145.43.38 | 05-Sep-2023 14:11:10] 2-Admin User: Generate Distribution for test-22
+[120.28.225.155 | 11-Sep-2023 14:55:14] 2-Admin User: Logged in.
+[120.28.225.155 | 11-Sep-2023 15:30:40] 2-Admin User: Downloaded Employee
+[120.28.225.155 | 11-Sep-2023 15:30:44] 2-Admin User: Downloaded Employee
+[120.28.225.155 | 11-Sep-2023 15:38:12] 2-Admin User: Downloaded file yy
+[120.28.224.41 | 12-Sep-2023 08:04:34] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:04:55] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:05:09] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:05:25] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:05:37] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:09:50] 2-Admin User: Added Employee z z
+[120.28.224.41 | 12-Sep-2023 08:09:53] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:09:57] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:10:21] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:10:27] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:10:48] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:10:52] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:11:14] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:11:31] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:12:08] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:12:12] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:13:27] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:13:34] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:13:52] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:13:57] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:16:48] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:16:57] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:17:23] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:17:29] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:18:09] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:18:19] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:19:24] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:19:30] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:21:21] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:21:32] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:22:06] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:22:11] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:25:01] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:25:14] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:25:38] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:25:45] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:26:59] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:27:08] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:27:20] 69-z z: z z update password.
+[120.28.224.41 | 12-Sep-2023 08:27:22] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:27:32] 69-z z: Logged in.
+[120.28.224.41 | 12-Sep-2023 08:27:41] 69-z z: z z update password.
+[120.28.224.41 | 12-Sep-2023 08:27:43] 69-z z: Logged out.
+[120.28.224.41 | 12-Sep-2023 08:27:54] 2-Admin User: Logged in.
+[120.28.224.41 | 12-Sep-2023 09:43:33] 2-Admin User: Added Employee Test Admin
+[120.28.224.41 | 12-Sep-2023 09:43:35] 2-Admin User: Logged out.
+[120.28.224.41 | 12-Sep-2023 09:43:49] 70-Test Admin: Logged in.
+[120.28.224.41 | 12-Sep-2023 13:11:06] 70-Test Admin: Logged in.
+[120.28.224.41 | 12-Sep-2023 14:12:22] 70-Test Admin: Change Company Logo
+[120.28.224.41 | 12-Sep-2023 14:12:29] 70-Test Admin: Change Company Logo
+[49.148.245.49 | 13-Sep-2023 08:03:07] 2-Admin User: Logged in.
+[120.28.236.166 | 13-Sep-2023 08:05:12] 70-Test Admin: Logged in.
+[49.148.245.49 | 13-Sep-2023 10:51:28] 70-Test Admin: Logged in.
+[49.148.245.49 | 13-Sep-2023 11:12:25] 70-Test Admin: Downloaded Employee
+[49.148.245.49 | 13-Sep-2023 13:05:37] 70-Test Admin: Logged in.
+[49.148.245.49 | 13-Sep-2023 14:54:08] 70-Test Admin: Upload file uploads/70/test_document.pdf
+[49.148.245.49 | 13-Sep-2023 14:55:52] 70-Test Admin: Update file Training Worksheet information.
+[49.148.245.49 | 13-Sep-2023 14:55:58] 70-Test Admin: Downloaded file Training Worksheet
+[49.148.245.49 | 13-Sep-2023 15:46:42] 70-Test Admin: Deleted file Training Worksheet
+[49.148.241.156 | 14-Sep-2023 08:10:08] 70-Test Admin: Logged in.
+[49.148.241.156 | 14-Sep-2023 08:51:43] 70-Test Admin: Add overtime for Admin Test on 2023-09-14 time 5:00pm - 6:00pm
+[49.148.241.156 | 14-Sep-2023 08:51:57] 70-Test Admin: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment` ) VA
+LUES ( 111111, 1694732400, 4, 'Compiling distribution reports' ),( 111111, 1694736000, 5, 'Compiling distribution reports' );
+[49.148.241.156 | 14-Sep-2023 08:51:57] 70-Test Admin: update overtime status to1
+[49.148.241.156 | 14-Sep-2023 08:51:59] 70-Test Admin: update overtime status to0
+[49.148.241.156 | 14-Sep-2023 09:22:23] 70-Test Admin: Delete overtime ID15
+[49.148.241.156 | 14-Sep-2023 11:19:00] 70-Test Admin: Create Schedule Regular
+[49.148.241.156 | 14-Sep-2023 13:23:00] 70-Test Admin: Logged in.
+[49.148.241.156 | 14-Sep-2023 13:25:09] 70-Test Admin: Delete Schedule 
+[49.148.241.156 | 14-Sep-2023 13:35:56] 70-Test Admin: Add leave for   2023-09-15 - 2
+[49.148.241.156 | 14-Sep-2023 13:36:10] 70-Test Admin: Add leave for   2023-09-15 - 1
+[49.148.241.156 | 14-Sep-2023 13:36:16] 70-Test Admin: Add leave for   2023-09-29 - 2
+[49.148.241.156 | 14-Sep-2023 14:00:54] 70-Test Admin: Added Payroll My Generated Payroll Array Success.
+[49.148.241.156 | 14-Sep-2023 14:52:36] 70-Test Admin: Added 13th Month My Generated 13th Month Report Array Success.
+[49.148.241.20 | 15-Sep-2023 08:07:46] 70-Test Admin: Logged in.
+[49.148.241.20 | 15-Sep-2023 11:18:18] 70-Test Admin: Logged in.
+[49.148.241.20 | 15-Sep-2023 13:05:40] 70-Test Admin: Logged in.
+[49.148.241.20 | 15-Sep-2023 15:25:48] 70-Test Admin: Logged in.
+[49.148.241.20 | 15-Sep-2023 16:22:52] 70-Test Admin: Logged in.
+[120.28.185.80 | 18-Sep-2023 08:08:37] 70-Test Admin: Logged in.
+[49.148.242.109 | 19-Sep-2023 08:18:38] 2-Admin User: Logged in.
+[49.148.242.109 | 19-Sep-2023 08:20:30] 2-Admin User: Logged in.
+[49.148.242.109 | 19-Sep-2023 08:30:11] 2-Admin User: Set Overtime amount.
+[49.148.242.109 | 19-Sep-2023 08:30:15] 2-Admin User: Set Leave amount.
+[49.148.242.109 | 19-Sep-2023 08:30:17] 2-Admin User: Set late amount.
+[49.148.242.109 | 19-Sep-2023 08:30:59] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:32:06] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:32:19] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:32:29] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:34:43] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:34:52] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:35:44] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:36:50] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:36:58] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:37:31] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:39:35] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:43:21] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 08:45:13] 2-Admin User: Unset Leave Actual Rate.
+[49.148.242.109 | 19-Sep-2023 08:45:14] 2-Admin User: Unset Overtime Actual Rate.
+[49.148.242.109 | 19-Sep-2023 08:45:17] 2-Admin User: Unset Holiday Actual Rate.
+[49.148.242.109 | 19-Sep-2023 08:45:19] 2-Admin User: Unset Nightdiff Actual Rate.
+[49.148.242.109 | 19-Sep-2023 09:00:54] 2-Admin User: Added Employee Tommy Shelby
+[49.148.242.109 | 19-Sep-2023 09:03:54] 2-Admin User: Create Schedule Afternoon shift
+[49.148.242.109 | 19-Sep-2023 09:06:18] 2-Admin User: Request Schedule for   on 2023-09-03 status 131
+[49.148.242.109 | 19-Sep-2023 09:06:31] 2-Admin User: Add leave for   2023-09-03 - 
+[49.148.242.109 | 19-Sep-2023 09:06:47] 2-Admin User: Request Schedule for   on 2023-09-03 status 131
+[49.148.242.109 | 19-Sep-2023 09:06:57] 2-Admin User: Add leave for   2023-09-03 - 2
+[49.148.242.109 | 19-Sep-2023 09:07:33] 2-Admin User: Request Schedule for   on 2023-09-03 status 131
+[49.148.242.109 | 19-Sep-2023 09:08:06] 2-Admin User: Request Schedule for   on 2023-10-01 status 131
+[49.148.242.109 | 19-Sep-2023 09:11:12] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 09:11:22] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 09:12:16] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 09:13:18] 2-Admin User: Update Schedule Afternoon shift
+[49.148.242.109 | 19-Sep-2023 09:14:11] 2-Admin User: Add leave for   2023-09-20 - 
+[49.148.242.109 | 19-Sep-2023 09:14:20] 2-Admin User: Update Schedule ID 747 to 90
+[49.148.242.109 | 19-Sep-2023 09:14:39] 2-Admin User: Add leave for   2023-09-19 - 2
+[49.148.242.109 | 19-Sep-2023 09:14:49] 2-Admin User: Request Schedule for   on 2023-09-19 status 88
+[49.148.242.109 | 19-Sep-2023 09:18:08] 2-Admin User: Add timelog for biometric ID 123123 for ftimeIn : 2023-09-19 8:00:00
+[49.148.242.109 | 19-Sep-2023 09:18:37] 2-Admin User: Add timelog for biometric ID 123123 for ftimeOut : 2023-09-19 12:00:00
+[49.148.242.109 | 19-Sep-2023 09:20:12] 2-Admin User: Add leave for Shelby Tommy 2023-09-25 - 2
+[49.148.242.109 | 19-Sep-2023 09:20:26] 2-Admin User: Update leave ID 45 status to 0
+[49.148.242.109 | 19-Sep-2023 09:20:29] 2-Admin User: Update leave ID 45 status to 1
+[49.148.242.109 | 19-Sep-2023 09:20:31] 2-Admin User: Update leave ID 45 status to 0
+[49.148.242.109 | 19-Sep-2023 09:20:35] 2-Admin User: Update leave ID 45 status to 1
+[49.148.242.109 | 19-Sep-2023 09:21:48] 2-Admin User: Add holiday 1 on 2023-09-22
+[49.148.242.109 | 19-Sep-2023 09:29:34] 2-Admin User: Added Payroll Company to Pay Array Success.
+[49.148.242.109 | 19-Sep-2023 09:30:18] 2-Admin User: Added Payroll Company to Pay Array Error.
+[49.148.242.109 | 19-Sep-2023 09:32:09] 2-Admin User: Added 13th Month Progress report Array Success.
+[49.148.242.109 | 19-Sep-2023 09:39:49] 2-Admin User: Set Nightdiff amount.
+[49.148.242.109 | 19-Sep-2023 09:40:07] 2-Admin User: Set Holiday Actual Rate.
+[49.148.242.109 | 19-Sep-2023 09:40:10] 2-Admin User: Set Nightdiff Actual Rate.
+[49.148.242.109 | 19-Sep-2023 09:40:31] 2-Admin User: Set Leave Actual Rate.
+[49.148.242.109 | 19-Sep-2023 09:40:43] 2-Admin User: Set Overtime Actual Rate.
+[49.148.242.109 | 19-Sep-2023 09:50:23] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 10:18:56] 2-Admin User: Added Employee Terrence Crawford
+[49.148.242.109 | 19-Sep-2023 10:25:54] 2-Admin User: Create Schedule Plan a design
+[49.148.242.109 | 19-Sep-2023 10:27:36] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 10:29:40] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 10:34:41] 2-Admin User: Add leave for Crawford Terrence 2023-10-06 - 1
+[49.148.242.109 | 19-Sep-2023 10:35:07] 2-Admin User: Update leave ID 45 status to 0
+[49.148.242.109 | 19-Sep-2023 10:37:54] 2-Admin User: Add holiday 0 on 2023-09-29
+[49.148.242.109 | 19-Sep-2023 10:39:46] 2-Admin User: Added Payroll Original Payroll Array Success.
+[49.148.242.109 | 19-Sep-2023 10:41:10] 2-Admin User: Generate Payslip for Original Payroll
+[49.148.242.109 | 19-Sep-2023 10:41:11] 2-Admin User: Generate Payslip for Original Payroll
+[49.148.242.109 | 19-Sep-2023 11:00:56] 2-Admin User: Added Payroll Original Payroll Array Error.
+[49.148.242.109 | 19-Sep-2023 11:01:36] 2-Admin User: Added Payroll Direct Payroll Array Success.
+[49.148.242.109 | 19-Sep-2023 11:02:32] 2-Admin User: Generate Payslip for Direct Payroll
+[49.148.242.109 | 19-Sep-2023 11:02:33] 2-Admin User: Generate Payslip for Direct Payroll
+[49.148.242.109 | 19-Sep-2023 11:13:22] 2-Admin User: Added Employee Jhonny Shelby
+[49.148.242.109 | 19-Sep-2023 11:17:46] 2-Admin User: Create Schedule Execute the design
+[49.148.242.109 | 19-Sep-2023 11:23:16] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 11:26:35] 2-Admin User: Add timelog for biometric ID 123345 First Time in : 2023-09-25 8:00
+[49.148.242.109 | 19-Sep-2023 11:26:36] 2-Admin User: Add timelog for biometric ID 123345 First Time out : 2023-09-25 0:00
+[49.148.242.109 | 19-Sep-2023 11:26:37] 2-Admin User: Add timelog for biometric ID 123345 Second Time in : 2023-09-25 13:00
+[49.148.242.109 | 19-Sep-2023 11:26:38] 2-Admin User: Add timelog for biometric ID 123345 Second Time out : 2023-09-25 17:00
+[49.148.242.109 | 19-Sep-2023 11:26:39] 2-Admin User: Add timelog for biometric ID 123345 OT in : 2023-09-25 17:00
+[49.148.242.109 | 19-Sep-2023 11:26:40] 2-Admin User: Add timelog for biometric ID 123345 OT out : 2023-09-25 18:00:00
+[49.148.242.109 | 19-Sep-2023 11:27:56] 2-Admin User: Add leave for Shelby Jhonny 2023-09-25 - 2
+[49.148.242.109 | 19-Sep-2023 13:07:52] - : Logged out.
+[49.148.242.109 | 19-Sep-2023 13:08:55] 2-Admin User: Logged in.
+[49.148.242.109 | 19-Sep-2023 13:23:06] 2-Admin User: Change Company Logo
+[49.148.242.109 | 19-Sep-2023 13:37:46] 2-Admin User: Added Employee Eddy Reynoso
+[49.148.242.109 | 19-Sep-2023 13:54:25] 2-Admin User: Create Schedule Design the log-in page
+[49.148.242.109 | 19-Sep-2023 13:56:24] 2-Admin User: Added/Updated User Schedules
+[49.148.242.109 | 19-Sep-2023 14:10:32] 2-Admin User: Add leave for Reynoso Eddy 2023-09-29 - 2
+[49.148.242.109 | 19-Sep-2023 14:11:00] 2-Admin User: Add holiday 1 on 2023-09-26
+[49.148.242.109 | 19-Sep-2023 14:11:16] 2-Admin User: Update leave ID 48 status to 0
+[49.148.242.109 | 19-Sep-2023 14:11:18] 2-Admin User: Update leave ID 48 status to 1
+[49.148.242.109 | 19-Sep-2023 14:16:17] 2-Admin User: Added Payroll Check Payroll Array Success.
+[49.145.32.233 | 20-Sep-2023 08:00:33] 2-Admin User: Logged in.
+[49.145.32.233 | 20-Sep-2023 08:01:12] 2-Admin User: Added/Updated User Schedules
+[49.145.32.233 | 20-Sep-2023 08:04:09] 2-Admin User: Add timelog for biometric ID 897645 for OTin : 2023-09-01 22:00:00
+[49.145.32.233 | 20-Sep-2023 08:04:22] 2-Admin User: Add timelog for biometric ID 897645 for OTout : 2023-09-01 0:00:00
+[49.145.32.233 | 20-Sep-2023 08:05:43] 2-Admin User: Log 2023-09-03 00:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.32.233 | 20-Sep-2023 08:05:52] 2-Admin User: Add timelog for biometric ID 897645 for OTout : 2023-09-01 0:00:00
+[120.28.240.91 | 20-Sep-2023 08:07:02] 2-Admin User: Logged in.
+[120.28.240.91 | 20-Sep-2023 08:07:05] 2-Admin User: Logged out.
+[120.28.240.91 | 20-Sep-2023 08:07:11] 70-Test Admin: Logged in.
+[49.145.42.41 | 20-Sep-2023 09:44:43] 2-Admin User: Logged in.
+[49.145.42.41 | 20-Sep-2023 09:46:37] 2-Admin User: Change Company Logo
+[49.145.42.41 | 20-Sep-2023 09:53:07] 2-Admin User: Change Company Logo
+[49.145.42.41 | 20-Sep-2023 09:55:11] 2-Admin User: Logged out.
+[49.145.42.41 | 20-Sep-2023 09:55:42] 2-Admin User: Logged in.
+[49.145.42.41 | 20-Sep-2023 10:28:08] 2-Admin User: Logged in.
+[49.145.42.41 | 20-Sep-2023 10:30:23] 2-Admin User: Added Employee Gervonta  Dvis
+[49.145.42.41 | 20-Sep-2023 10:43:05] 2-Admin User: Create Schedule Secure the HTTP requests
+[49.145.42.41 | 20-Sep-2023 10:43:54] 2-Admin User: Added/Updated User Schedules
+[49.145.42.41 | 20-Sep-2023 10:50:36] 2-Admin User: Add leave for Shelby Jhonny 2023-09-18 - 1
+[49.145.42.41 | 20-Sep-2023 10:51:09] 2-Admin User: Add holiday 1 on 2023-09-21
+[49.145.42.41 | 20-Sep-2023 10:54:52] 2-Admin User: Added Payroll Original Pay Array Success.
+[49.145.42.41 | 20-Sep-2023 13:18:06] 2-Admin User: Logged in.
+[49.145.42.41 | 20-Sep-2023 13:18:47] 2-Admin User: Set admin email to myadminemail@gmail.com
+[49.145.42.41 | 20-Sep-2023 13:18:56] 2-Admin User: Set hr email to myhremail@gmail.com
+[49.145.42.41 | 20-Sep-2023 13:26:49] 2-Admin User: Set late allowance.
+[49.145.42.41 | 20-Sep-2023 13:29:13] 2-Admin User: Set late amount.
+[49.145.42.41 | 20-Sep-2023 13:32:42] 2-Admin User: Unset Holiday Actual Rate.
+[49.145.42.41 | 20-Sep-2023 13:32:43] 2-Admin User: Set Holiday Actual Rate.
+[49.145.42.41 | 20-Sep-2023 13:32:45] 2-Admin User: Set Holiday amount.
+[49.145.42.41 | 20-Sep-2023 13:35:05] 2-Admin User: Unset Leave Actual Rate.
+[49.145.42.41 | 20-Sep-2023 13:36:11] 2-Admin User: Set Leave Actual Rate.
+[49.145.42.41 | 20-Sep-2023 13:36:13] 2-Admin User: Set Leave amount.
+[49.145.42.41 | 20-Sep-2023 13:39:29] 2-Admin User: Set Nightdiff amount.
+[49.145.42.41 | 20-Sep-2023 13:41:40] 2-Admin User: Unset Overtime Actual Rate.
+[49.145.42.41 | 20-Sep-2023 13:41:40] 2-Admin User: Set Overtime Actual Rate.
+[49.145.42.41 | 20-Sep-2023 13:41:42] 2-Admin User: Set Overtime amount.
+[49.145.42.41 | 20-Sep-2023 13:51:09] 2-Admin User: Change Company Logo
+[49.145.42.41 | 20-Sep-2023 14:18:54] 2-Admin User: Import Timelog
+[49.145.42.41 | 20-Sep-2023 14:32:30] 2-Admin User: Added Employee Tommy Shelby
+[49.145.42.41 | 20-Sep-2023 14:34:54] 2-Admin User: Downloaded Employee
+[49.145.42.41 | 20-Sep-2023 14:42:49] 2-Admin User: Change profile picture.
+[49.145.42.41 | 20-Sep-2023 14:48:04] 2-Admin User: Add timelog for biometric ID 12324234 First Time in : 2023-09-20 8:00
+[49.145.42.41 | 20-Sep-2023 14:48:05] 2-Admin User: Add timelog for biometric ID 12324234 First Time out : 2023-09-20 12:00
+[49.145.42.41 | 20-Sep-2023 14:48:06] 2-Admin User: Add timelog for biometric ID 12324234 Second Time in : 2023-09-20 13:00
+[49.145.42.41 | 20-Sep-2023 14:48:07] 2-Admin User: Add timelog for biometric ID 12324234 Second Time out : 2023-09-20 17:00
+[49.145.42.41 | 20-Sep-2023 14:48:08] 2-Admin User: Add timelog for biometric ID 12324234 OT in : 2023-09-20 8:00
+[49.145.42.41 | 20-Sep-2023 14:48:09] 2-Admin User: Add timelog for biometric ID 12324234 OT out : 2023-09-20 17:00:00
+[49.145.42.41 | 20-Sep-2023 14:51:36] 2-Admin User: Apply leave for User Admin 2023-09-22 - 2
+[49.145.42.41 | 20-Sep-2023 14:55:34] 2-Admin User: Admin User update password.
+[49.145.42.41 | 20-Sep-2023 14:55:45] 2-Admin User: Admin User update password.
+[49.145.42.41 | 20-Sep-2023 14:59:17] 2-Admin User: Upload file uploads/2/Company to Pay.csv
+[49.145.42.41 | 20-Sep-2023 14:59:32] 2-Admin User: Update file Training worksheet information.
+[49.145.42.41 | 20-Sep-2023 15:02:29] 2-Admin User: Downloaded file yy
+[49.145.42.41 | 20-Sep-2023 15:05:31] 2-Admin User: Deleted file Training worksheet
+[49.145.42.41 | 20-Sep-2023 15:13:45] 2-Admin User: Add timelog for biometric ID 123456 First Time in : 2023-09-26 8:00
+[49.145.42.41 | 20-Sep-2023 15:13:46] 2-Admin User: Add timelog for biometric ID 123456 First Time out : 2023-09-26 12:00
+[49.145.42.41 | 20-Sep-2023 15:13:48] 2-Admin User: Add timelog for biometric ID 123456 Second Time in : 2023-09-26 13:00
+[49.145.42.41 | 20-Sep-2023 15:13:49] 2-Admin User: Add timelog for biometric ID 123456 Second Time out : 2023-09-26 17:00
+[49.145.42.41 | 20-Sep-2023 15:13:50] 2-Admin User: Add timelog for biometric ID 123456 OT in : 2023-09-26 8:00
+[49.145.42.41 | 20-Sep-2023 15:13:51] 2-Admin User: Add timelog for biometric ID 123456 OT out : 2023-09-26 17:00:00
+[49.145.42.41 | 20-Sep-2023 15:21:33] 2-Admin User: Add timelog for biometric ID 123123 for ftimeIn : 2023-09-27 16:00:00
+[49.145.42.41 | 20-Sep-2023 15:26:36] 2-Admin User: Add overtime for Davis Gervonta  on 2023-09-21 time 5:00pm - 6:30pm
+[49.145.42.41 | 20-Sep-2023 15:28:42] 2-Admin User: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `comment
+` ) VALUES ( 321564, 1695337200, 4, 'Compiling the documents' ),( 321564, 1695342600, 5, 'Compiling the documents' );
+[49.145.42.41 | 20-Sep-2023 15:28:42] 2-Admin User: update overtime status to1
+[49.145.42.41 | 20-Sep-2023 15:30:40] 2-Admin User: Delete overtime ID16
+[49.145.42.41 | 20-Sep-2023 15:39:41] 2-Admin User: Create Schedule Analyze the algorithm
+[49.145.42.41 | 20-Sep-2023 15:41:44] 2-Admin User: Update Schedule Analyze the algorithm
+[49.145.42.41 | 20-Sep-2023 15:43:39] 2-Admin User: Delete Schedule 
+[49.145.42.41 | 20-Sep-2023 15:45:20] 2-Admin User: Update Schedule ID 762 to 150
+[49.145.42.41 | 20-Sep-2023 15:49:36] 2-Admin User: Added Payroll group payroll Array Success.
+[49.145.42.41 | 20-Sep-2023 15:52:06] 2-Admin User: Added 13th Month 3 person Array Success.
+[49.145.42.41 | 20-Sep-2023 15:57:08] 2-Admin User: Generate Payslip for group payroll
+[49.145.42.41 | 20-Sep-2023 15:57:11] 2-Admin User: Generate Payslip for group payroll
+[49.145.42.41 | 20-Sep-2023 16:00:27] 2-Admin User: Generate Distribution for group payroll
+[49.145.42.41 | 20-Sep-2023 16:00:27] 2-Admin User: Generate Distribution for group payroll
+[120.28.240.91 | 20-Sep-2023 16:03:40] 70-Test Admin: Logged in.
+[49.145.42.41 | 20-Sep-2023 16:05:35] 2-Admin User: Generate Nth-payslip for 3 person
+[49.145.42.41 | 20-Sep-2023 16:05:38] 2-Admin User: Generate Nth-payslip for 3 person
+[49.145.42.41 | 20-Sep-2023 16:07:48] 2-Admin User: Generate Nth-distribution for 3 person
+[49.145.42.41 | 20-Sep-2023 16:07:48] 2-Admin User: Generate Nth-distribution for 3 person
+[49.145.42.41 | 20-Sep-2023 16:09:42] 2-Admin User: Add leave for Doe John 2023-09-22 - 1
+[49.145.42.41 | 20-Sep-2023 16:12:53] 2-Admin User: Update leave ID 50 status to 1
+[49.145.42.41 | 20-Sep-2023 16:12:55] 2-Admin User: Update leave ID 51 status to 0
+[49.145.42.41 | 20-Sep-2023 16:14:34] 2-Admin User: Delete leave ID 50
+[49.145.42.41 | 20-Sep-2023 16:16:08] 2-Admin User: Add holiday 0 on 2023-09-28
+[49.145.42.41 | 20-Sep-2023 16:21:49] 2-Admin User: Added Employee Nocturne Dark
+[49.145.42.41 | 20-Sep-2023 16:28:08] 2-Admin User: Change profile picture.
+[49.145.42.41 | 20-Sep-2023 16:42:39] 2-Admin User: Deleted Employee New User
+[49.145.37.161 | 21-Sep-2023 07:53:04] 74-Eddy Reynoso: Logged in.
+[49.145.37.161 | 21-Sep-2023 07:56:16] 74-Eddy Reynoso: Logged out.
+[49.145.37.161 | 21-Sep-2023 07:59:09] 42-Miguelito Bonares: Logged in.
+[49.145.37.161 | 21-Sep-2023 08:01:24] 42-Miguelito Bonares: Logged out.
+[49.145.37.161 | 21-Sep-2023 08:01:30] 2-Admin User: Logged in.
+[49.145.37.161 | 21-Sep-2023 08:01:46] 2-Admin User: Logged in.
+[49.145.37.161 | 21-Sep-2023 14:58:32] 2-Admin User: Logged in.
+[49.145.37.161 | 21-Sep-2023 14:59:28] 2-Admin User: Set late allowance.
+[49.145.37.161 | 21-Sep-2023 16:40:35] 2-Admin User: Logged in.
+[49.145.37.161 | 21-Sep-2023 16:41:05] 2-Admin User: Unset Leave Actual Rate.
+[49.145.37.161 | 21-Sep-2023 16:41:07] 2-Admin User: Set Leave amount.
+[49.145.38.117 | 22-Sep-2023 10:39:50] 2-Admin User: Logged in.
+[49.145.38.117 | 22-Sep-2023 10:42:45] 2-Admin User: Change Company Logo
+[49.145.38.117 | 22-Sep-2023 10:43:14] 2-Admin User: Change Company Logo
+[49.145.38.117 | 22-Sep-2023 10:44:19] 2-Admin User: Change Company Logo
+[49.145.38.117 | 22-Sep-2023 10:44:51] 2-Admin User: Change Company Logo
+[49.145.38.117 | 22-Sep-2023 10:52:04] 2-Admin User: Change Company Logo
+[49.145.38.117 | 22-Sep-2023 10:53:21] 2-Admin User: Change Company Logo
+[49.145.38.117 | 22-Sep-2023 13:11:20] 2-Admin User: Logged in.
+[49.145.38.117 | 22-Sep-2023 14:18:30] 70-Test Admin: Logged in.
+[49.145.38.117 | 22-Sep-2023 15:24:32] 2-Admin User: Import Timelog
+[49.145.38.117 | 22-Sep-2023 15:32:29] 2-Admin User: Import Timelog
+[49.145.38.117 | 22-Sep-2023 15:47:07] 2-Admin User: Import Timelog
+[49.145.38.117 | 22-Sep-2023 15:55:33] 70-Test Admin: Logged in.
+[49.145.38.117 | 22-Sep-2023 16:10:51] 2-Admin User: Import Timelog
+[49.145.38.117 | 22-Sep-2023 16:11:51] 2-Admin User: Import Timelog
+[49.145.38.117 | 22-Sep-2023 16:33:35] 2-Admin User: Import Timelog
+[49.147.144.100 | 22-Sep-2023 21:34:51] 42-Miguelito Bonares: Logged in.
+[49.145.40.156 | 25-Sep-2023 08:26:50] 2-Admin User: Logged in.
+[49.145.40.156 | 25-Sep-2023 08:32:46] 2-Admin User: Added Employee Tommy Shelby
+[49.145.40.156 | 25-Sep-2023 08:39:21] 2-Admin User: Downloaded Employee
+[49.145.40.156 | 25-Sep-2023 08:47:58] 2-Admin User: Change profile picture.
+[49.145.40.156 | 25-Sep-2023 08:48:19] 2-Admin User: Change profile picture.
+[49.145.40.156 | 25-Sep-2023 08:49:03] 2-Admin User: Change profile picture.
+[49.145.40.156 | 25-Sep-2023 08:51:11] 2-Admin User: Change profile picture.
+[49.145.40.156 | 25-Sep-2023 09:11:58] 2-Admin User: Apply leave for User Admin 2023-09-29 - 2
+[49.145.40.156 | 25-Sep-2023 09:34:21] 2-Admin User: Logged in.
+[49.145.40.156 | 25-Sep-2023 09:38:52] 2-Admin User: Apply overtime 2023-09-28
+[49.145.40.156 | 25-Sep-2023 10:18:35] 2-Admin User: Logged in.
+[49.145.40.156 | 25-Sep-2023 10:19:12] 2-Admin User: Apply overtime 2023-09-28
+[49.145.40.156 | 25-Sep-2023 10:19:58] 2-Admin User: Apply overtime 2023-09-26
+[49.145.40.156 | 25-Sep-2023 10:30:03] 2-Admin User: Admin User update password.
+[49.145.40.156 | 25-Sep-2023 10:30:27] 2-Admin User: Admin User update password.
+[49.145.40.156 | 25-Sep-2023 10:36:43] 2-Admin User: Deleted file yy
+[49.145.40.156 | 25-Sep-2023 10:37:17] 2-Admin User: Upload file uploads/2/import-employee-template.csv
+[49.145.40.156 | 25-Sep-2023 10:38:12] 2-Admin User: Upload file uploads/2/1-import-employee-template.csv
+[49.145.40.156 | 25-Sep-2023 10:38:27] 2-Admin User: Update file Training worksheet information.
+[49.145.40.156 | 25-Sep-2023 10:47:40] 2-Admin User: Downloaded file Training worksheet
+[49.145.40.156 | 25-Sep-2023 10:51:03] 2-Admin User: Deleted file Training worksheet
+[49.145.40.156 | 25-Sep-2023 11:09:18] 2-Myadmin Userlastname: Add timelog for biometric ID 123456 First Time in : 2023-09-25 8:00
+[49.145.40.156 | 25-Sep-2023 11:09:19] 2-Myadmin Userlastname: Add timelog for biometric ID 123456 First Time out : 2023-09-25 12:00
+[49.145.40.156 | 25-Sep-2023 11:09:20] 2-Myadmin Userlastname: Add timelog for biometric ID 123456 Second Time in : 2023-09-25 13:00
+[49.145.40.156 | 25-Sep-2023 11:09:21] 2-Myadmin Userlastname: Add timelog for biometric ID 123456 Second Time out : 2023-09-25 17:00
+[49.145.40.156 | 25-Sep-2023 11:09:22] 2-Myadmin Userlastname: Add timelog for biometric ID 123456 OT in : 2023-09-25 17:00
+[49.145.40.156 | 25-Sep-2023 11:09:23] 2-Myadmin Userlastname: Add timelog for biometric ID 123456 OT out : 2023-09-25 18:00:00
+[49.145.40.156 | 25-Sep-2023 11:47:39] 2-Myadmin Userlastname: Add overtime for Davis Gervonta  on 2023-09-26 time 5:00pm - 6:00pm
+[49.145.40.156 | 25-Sep-2023 13:18:35] 2-Myadmin Userlastname: Logged in.
+[49.145.40.156 | 25-Sep-2023 13:18:59] 2-Myadmin Userlastname: Myadmin Userlastname update password.
+[49.145.40.156 | 25-Sep-2023 13:19:02] 2-Myadmin Userlastname: Logged out.
+[49.145.40.156 | 25-Sep-2023 13:19:04] 2-Myadmin Userlastname: Logged in.
+[49.145.40.156 | 25-Sep-2023 13:20:39] 2-Myadmin Userlastname: Delete Schedule 
+[49.145.40.156 | 25-Sep-2023 13:21:44] 2-Myadmin Userlastname: Create Schedule Analyze the algorithm
+[49.145.40.156 | 25-Sep-2023 13:25:37] 2-Myadmin Userlastname: Delete Schedule 
+[49.145.40.156 | 25-Sep-2023 13:26:25] 2-Myadmin Userlastname: Create Schedule Analyze the algorithm
+[49.145.40.156 | 25-Sep-2023 13:33:40] 2-Myadmin Userlastname: Update Schedule Implement the algorithm
+[49.145.40.156 | 25-Sep-2023 13:48:42] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:48:49] 2-Myadmin Userlastname: Add leave for   2023-09-11 - 2
+[49.145.40.156 | 25-Sep-2023 13:48:56] 2-Myadmin Userlastname: Add leave for   2023-10-04 - 2
+[49.145.40.156 | 25-Sep-2023 13:49:07] 2-Myadmin Userlastname: Request Schedule for   on 2023-09-23 status 93
+[49.145.40.156 | 25-Sep-2023 13:49:44] 2-Myadmin Userlastname: Add leave for   2023-10-03 - 2
+[49.145.40.156 | 25-Sep-2023 13:49:56] 2-Myadmin Userlastname: Add leave for   2023-09-27 - 2
+[49.145.40.156 | 25-Sep-2023 13:50:09] 2-Myadmin Userlastname: Request Schedule for   on 2023-09-27 status 136
+[49.145.40.156 | 25-Sep-2023 13:51:11] 2-Myadmin Userlastname: Add leave for   2023-09-25 - 2
+[49.145.40.156 | 25-Sep-2023 13:51:27] 2-Myadmin Userlastname: Add leave for   2023-09-25 - 2
+[49.145.40.156 | 25-Sep-2023 13:51:37] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:52:41] 2-Myadmin Userlastname: Add leave for   2023-08-31 - 2
+[49.145.40.156 | 25-Sep-2023 13:53:11] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:54:44] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:55:01] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:55:20] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:55:25] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:55:45] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:56:09] 2-Myadmin Userlastname: Add leave for   2023-09-13 - 2
+[49.145.40.156 | 25-Sep-2023 13:56:38] 2-Myadmin Userlastname: Add leave for   2023-09-06 - 1
+[49.145.40.156 | 25-Sep-2023 13:56:44] 2-Myadmin Userlastname: Add leave for   2023-09-08 - 2
+[49.145.40.156 | 25-Sep-2023 13:57:27] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 2
+[49.145.40.156 | 25-Sep-2023 13:57:42] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 1
+[49.145.40.156 | 25-Sep-2023 13:57:55] 2-Myadmin Userlastname: Add leave for   2023-09-26 - 1
+[49.145.40.156 | 25-Sep-2023 14:03:17] 2-Myadmin Userlastname: Added Payroll Name of Payroll Array Success.
+[49.145.40.156 | 25-Sep-2023 15:34:22] 2-Myadmin Userlastname: Logged in.
+[49.145.40.156 | 25-Sep-2023 15:44:11] 2-Myadmin Userlastname: Update leave ID 45 status to 1
+[49.145.40.156 | 25-Sep-2023 16:06:29] 2-Myadmin Userlastname: Added Employee Shakur Stevenson
+[49.148.244.178 | 26-Sep-2023 08:05:21] 2-Myadmin Userlastname: Logged in.
+[49.148.244.178 | 26-Sep-2023 08:09:36] 2-Myadmin Userlastname: Change profile picture.
+[49.148.244.178 | 26-Sep-2023 08:23:09] 2-Myadmin Userlastname: Change profile picture.
+[49.148.244.178 | 26-Sep-2023 08:23:24] 2-Myadmin Userlastname: Change profile picture.
+[49.148.244.178 | 26-Sep-2023 08:31:33] 2-Myadmin Userlastname: Change profile picture.
+[49.148.244.178 | 26-Sep-2023 09:30:43] 2-Myadmin Userlastname: Deleted Employee Johnny  Johnny  Papa
+[49.148.244.178 | 26-Sep-2023 11:10:23] 2-Myadmin Userlastname: Logged in.
+[120.28.233.198 | 26-Sep-2023 13:11:50] 2-Myadmin Userlastname: Logged in.
+[49.145.44.7 | 29-Sep-2023 16:56:56] 2-Myadmin Userlastname: Logged in.

@@ -1,0 +1,1383 @@
+[49.148.247.211 | 01-Mar-2023 14:56:31] 2-Super Admin: Logged in.
+[49.148.247.211 | 01-Mar-2023 15:37:07] 2-Super Admin: Set Leave amount.
+[49.148.247.211 | 01-Mar-2023 15:47:22] 2-Super Admin: Set Leave amount.
+[49.148.247.211 | 01-Mar-2023 15:48:50] 2-Super Admin: Added Payroll Test8 Array Success.
+[49.148.247.211 | 01-Mar-2023 15:49:06] 2-Super Admin: Generate Payslip for Test8
+[49.148.247.211 | 01-Mar-2023 15:49:07] 2-Super Admin: Generate Payslip for Test8
+[49.148.247.211 | 01-Mar-2023 15:49:24] 2-Super Admin: Generate Distribution for Test8
+[49.148.247.211 | 01-Mar-2023 15:49:24] 2-Super Admin: Generate Distribution for Test8
+[49.148.247.211 | 01-Mar-2023 15:51:02] 2-Super Admin: Added 13th Month Test2 Array Success.
+[49.148.247.211 | 01-Mar-2023 15:51:19] 2-Super Admin: Generate Nth-payslip for Test2
+[49.148.247.211 | 01-Mar-2023 15:51:20] 2-Super Admin: Generate Nth-payslip for Test2
+[49.148.247.211 | 01-Mar-2023 15:51:32] 2-Super Admin: Generate Nth-distribution for Test2
+[49.148.247.211 | 01-Mar-2023 15:51:32] 2-Super Admin: Generate Nth-distribution for Test2
+[49.148.247.211 | 01-Mar-2023 15:54:28] 2-Super Admin: Add leave for Helper Demo 2023-03-21 - 1
+[49.148.247.211 | 01-Mar-2023 15:55:32] 2-Super Admin: Delete leave ID 4
+[49.148.247.211 | 01-Mar-2023 15:55:52] 2-Super Admin: Add leave for Helper Demo 2023-03-14 - 1
+[49.148.247.211 | 01-Mar-2023 15:56:10] 2-Super Admin: Delete leave ID 5
+[49.148.247.211 | 01-Mar-2023 15:56:25] 2-Super Admin: Add leave for Helper Demo 2023-02-14 - 1
+[49.148.247.211 | 01-Mar-2023 15:58:01] 2-Super Admin: Added Payroll Test Array Success.
+[49.148.247.211 | 01-Mar-2023 16:25:51] 2-Super Admin: Delete leave ID 2
+[49.148.244.190 | 02-Mar-2023 10:21:45] 2-Super Admin: Logged in.
+[49.148.244.190 | 02-Mar-2023 10:51:09] 2-Super Admin: Set Leave amount.
+[49.148.244.190 | 02-Mar-2023 10:57:49] 2-Super Admin: Generate Payslip for Test
+[49.148.244.190 | 02-Mar-2023 10:57:50] 2-Super Admin: Generate Payslip for Test
+[49.148.244.190 | 02-Mar-2023 11:56:29] 2-Super Admin: Logged in.
+[49.148.244.190 | 02-Mar-2023 12:58:46] 2-Super Admin: Logged in.
+[49.148.244.190 | 02-Mar-2023 14:43:49] 2-Super Admin: Update Xandra The Great Loan amortization for .
+[49.148.244.190 | 02-Mar-2023 14:44:40] 2-Super Admin: Update Demo Helper Loan amortization for .
+[49.148.244.190 | 02-Mar-2023 14:45:05] 2-Super Admin: Update Demo Helper Loan amortization for .
+[49.148.244.190 | 02-Mar-2023 14:47:45] 2-Super Admin: Update Demo Helper Loan amortization for .
+[49.145.44.102 | 03-Mar-2023 09:00:40] 2-Super Admin: Logged in.
+[49.145.44.102 | 03-Mar-2023 09:02:22] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-03-01 8:00
+[49.145.44.102 | 03-Mar-2023 09:02:23] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-03-01 12:00
+[49.145.44.102 | 03-Mar-2023 09:02:24] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-03-01 1:00
+[49.145.44.102 | 03-Mar-2023 09:02:25] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-03-01 17:00
+[49.145.44.102 | 03-Mar-2023 09:02:26] 2-Super Admin: Add timelog for biometric ID 1 OT in : 2023-03-01 0:00
+[49.145.44.102 | 03-Mar-2023 09:02:27] 2-Super Admin: Add timelog for biometric ID 1 OT out : 2023-03-01 1:00:00
+[49.145.44.102 | 03-Mar-2023 10:35:16] 2-Super Admin: Logged in.
+[49.145.44.102 | 03-Mar-2023 10:37:53] 9-Test Test: Logged in.
+[49.145.44.102 | 03-Mar-2023 10:38:48] 9-Test Test: Download Resume.
+[49.145.44.102 | 03-Mar-2023 10:38:52] 9-Test Test: Download Resume.
+[49.145.44.102 | 03-Mar-2023 10:47:43] 9-Test Test: Logged in.
+[49.145.44.102 | 03-Mar-2023 11:05:14] 9-Test Test: Logged out.
+[49.145.44.102 | 03-Mar-2023 13:11:36] 2-Super Admin: Logged in.
+[49.145.44.102 | 03-Mar-2023 13:18:23] 9-Test Test: Logged in.
+[49.145.44.102 | 03-Mar-2023 13:20:25] 9-Test Test: Logged out.
+[49.145.44.102 | 03-Mar-2023 13:39:19] 9-Test Test: Logged in.
+[49.145.44.102 | 03-Mar-2023 14:14:59] 2-Super Admin: Add leave for Test Test 2023-03-13 - 1
+[49.145.44.102 | 03-Mar-2023 14:15:13] 2-Super Admin: Add leave for Test Test 2023-03-22 - 1
+[49.145.44.102 | 03-Mar-2023 14:40:39] 2-Super Admin: Update leave ID 8
+[49.145.44.102 | 03-Mar-2023 14:40:57] 2-Super Admin: Update leave ID 9
+[49.145.44.102 | 03-Mar-2023 14:41:11] 2-Super Admin: Update leave ID 8
+[49.145.44.102 | 03-Mar-2023 14:41:18] 2-Super Admin: Update leave ID 8
+[49.145.44.102 | 03-Mar-2023 14:45:26] 9-Test Test: Logged out.
+[49.145.42.108 | 06-Mar-2023 16:22:44] 2-Super Admin: Logged in.
+[49.145.34.116 | 07-Mar-2023 08:31:57] 2-Super Admin: Logged in.
+[49.145.34.116 | 07-Mar-2023 10:17:49] 2-Super Admin: Change profile picture.
+[49.145.34.116 | 07-Mar-2023 10:21:14] 2-Super Admin: Set late amount.
+[49.145.34.116 | 07-Mar-2023 10:21:21] 2-Super Admin: Set late amount.
+[49.145.34.116 | 07-Mar-2023 10:24:35] 9-Test Test: Logged in.
+[49.145.34.116 | 07-Mar-2023 10:25:47] 9-Test Test: Apply leave for Test Test 2023-03-30 - 1
+[49.145.34.116 | 07-Mar-2023 10:26:35] 9-Test Test: Logged out.
+[49.145.34.116 | 07-Mar-2023 11:39:47] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 09:21:00] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 09:26:56] 2-Super Admin: Add leave for Adams Alfie 2023-02-15 - 1
+[49.145.42.177 | 08-Mar-2023 09:36:24] 9-Test Test: Logged in.
+[49.145.42.177 | 08-Mar-2023 09:36:59] 9-Test Test: Logged out.
+[49.145.42.177 | 08-Mar-2023 09:37:05] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 09:37:54] 2-Super Admin: Logged out.
+[49.145.42.177 | 08-Mar-2023 10:53:05] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 11:08:59] 9-Test Test: Logged in.
+[49.145.42.177 | 08-Mar-2023 11:16:58] 9-Test Test: Apply overtime 2023-03-15
+[49.145.42.177 | 08-Mar-2023 11:22:00] 2-Super Admin: update overtime status to1
+[49.145.42.177 | 08-Mar-2023 11:33:46] 2-Super Admin: Set late amount.
+[49.145.42.177 | 08-Mar-2023 11:34:54] 2-Super Admin: Add holiday 1 on 2023-03-08
+[49.145.42.177 | 08-Mar-2023 11:35:58] 2-Super Admin: Add holiday 0 on 2023-03-01
+[49.145.42.177 | 08-Mar-2023 11:40:25] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 12:57:24] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 13:10:55] 9-Test Test: Logged in.
+[49.145.42.177 | 08-Mar-2023 13:11:01] 9-Test Test: Logged out.
+[49.145.42.177 | 08-Mar-2023 13:15:35] 9-Test Test: Logged in.
+[49.145.42.177 | 08-Mar-2023 13:15:40] 9-Test Test: Logged out.
+[49.145.42.177 | 08-Mar-2023 13:20:02] 9-Test Test: Logged in.
+[49.145.42.177 | 08-Mar-2023 13:20:08] 9-Test Test: Logged out.
+[49.145.42.177 | 08-Mar-2023 13:44:36] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 13:45:29] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 15:43:04] 2-Super Admin: Logged in.
+[49.145.42.177 | 08-Mar-2023 15:59:28] 10-Alfie Adams: Logged in.
+[49.145.42.177 | 08-Mar-2023 15:59:36] 10-Alfie Adams: Logged out.
+[49.145.42.177 | 08-Mar-2023 16:14:03] 9-Test Test: Logged in.
+[49.145.42.177 | 08-Mar-2023 16:30:40] 9-Test Test: Logged out.
+[120.28.241.228 | 09-Mar-2023 08:12:18] 2-Super Admin: Logged in.
+[49.145.39.71 | 09-Mar-2023 10:41:53] 2-Super Admin: Added Employee xx xx
+[49.145.39.71 | 09-Mar-2023 10:48:14] 2-Super Admin: Added Employee xx xx
+[49.145.39.71 | 09-Mar-2023 11:13:03] 2-Super Admin: Logged in.
+[49.145.39.71 | 09-Mar-2023 11:26:16] 2-Super Admin: Upload file uploads/9/Screenshot_1.png
+[49.145.39.71 | 09-Mar-2023 11:26:26] 2-Super Admin: Update file yea information.
+[49.145.39.71 | 09-Mar-2023 11:27:52] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:27:54] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:27:55] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:27:56] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:27:57] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:27:57] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:27:58] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:10] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:11] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:12] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:13] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:13] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:15] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:19] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:20] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:22] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:52] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:55] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:55] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:56] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:28:57] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:29:32] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:29:32] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:29:33] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:29:48] 2-Super Admin: Upload file uploads/9/1-Screenshot_1.png
+[49.145.39.71 | 09-Mar-2023 11:30:23] 2-Super Admin: Upload file uploads/9/1-Screenshot_1.png
+[49.145.39.71 | 09-Mar-2023 11:30:29] 2-Super Admin: Update file 4451 information.
+[49.145.39.71 | 09-Mar-2023 11:30:53] 2-Super Admin: Upload file uploads/10/Screenshot_1.png
+[49.145.39.71 | 09-Mar-2023 11:30:58] 2-Super Admin: Update file 5458484 information.
+[49.145.39.71 | 09-Mar-2023 11:31:08] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:09] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:09] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:10] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:11] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:13] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:14] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:14] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:15] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:16] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:16] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:23] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:24] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:25] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:25] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:31:26] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:45:27] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:45:29] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 11:45:36] 2-Super Admin: Download Resume.
+[49.145.39.71 | 09-Mar-2023 13:01:45] 2-Super Admin: Logged in.
+[49.145.39.71 | 09-Mar-2023 13:36:40] 2-Super Admin: Added Employee xx xx
+[49.145.39.71 | 09-Mar-2023 13:43:44] 2-Super Admin: Logged in.
+[49.145.39.71 | 09-Mar-2023 14:09:11] 2-Super Admin: Logged in.
+[49.145.39.71 | 09-Mar-2023 14:12:07] 2-Super Admin: update holiday ID 29 to 1
+[49.145.39.71 | 09-Mar-2023 14:56:02] 2-Super Admin: Add timelog for biometric ID 888888 for ftimeIn : 2023-03-09 8:00:00
+[49.145.39.71 | 09-Mar-2023 14:57:21] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-02-01 8:00
+[49.145.39.71 | 09-Mar-2023 14:57:22] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-02-01 11:00
+[49.145.39.71 | 09-Mar-2023 14:57:23] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-02-01 13:00
+[49.145.39.71 | 09-Mar-2023 14:57:24] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-02-01 17:00
+[49.145.39.71 | 09-Mar-2023 14:58:11] 2-Super Admin: Add timelog for biometric ID 888888 First Time in : 2023-03-09 8:00
+[49.145.39.71 | 09-Mar-2023 14:58:12] 2-Super Admin: Add timelog for biometric ID 888888 First Time out : 2023-03-09 11:00
+[49.145.39.71 | 09-Mar-2023 14:58:13] 2-Super Admin: Add timelog for biometric ID 888888 Second Time in : 2023-03-09 13:00
+[49.145.39.71 | 09-Mar-2023 14:58:14] 2-Super Admin: Add timelog for biometric ID 888888 Second Time out : 2023-03-09 17:00
+[49.145.39.71 | 09-Mar-2023 15:23:12] 2-Super Admin: Add timelog for biometric ID 888888 First Time in : 2023-03-08 8:00
+[49.145.39.71 | 09-Mar-2023 15:23:13] 2-Super Admin: Add timelog for biometric ID 888888 First Time out : 2023-03-08 17:00
+[49.145.39.71 | 09-Mar-2023 15:23:14] 2-Super Admin: Add timelog for biometric ID 888888 Second Time in : 2023-03-08 13:00
+[49.145.39.71 | 09-Mar-2023 15:23:15] 2-Super Admin: Add timelog for biometric ID 888888 Second Time out : 2023-03-08 17:00
+[49.145.39.71 | 09-Mar-2023 15:25:26] 2-Super Admin: Add overtime for Mandawe John  on 2023-03-07 time 6:00pm - 8:00pm
+[49.145.39.71 | 09-Mar-2023 15:25:33] 2-Super Admin: update overtime status to1
+[49.145.39.71 | 09-Mar-2023 15:26:06] 2-Super Admin: update overtime status to0
+[49.145.39.71 | 09-Mar-2023 15:42:34] 2-Super Admin: Added Employee s s
+[49.145.39.71 | 09-Mar-2023 16:09:03] 2-Super Admin: Upload file uploads/0/1-img_avatar2.png
+[49.145.39.71 | 09-Mar-2023 16:09:18] 2-Super Admin: Deleted file 
+[49.145.33.81 | 10-Mar-2023 07:53:52] 2-Super Admin: Logged in.
+[49.145.33.81 | 10-Mar-2023 12:57:20] 2-Super Admin: Logged in.
+[49.145.33.81 | 10-Mar-2023 15:23:45] 2-Super Admin: Logged in.
+[49.145.33.81 | 10-Mar-2023 15:33:30] 2-Super Admin: Add leave for Helper Demo 2023-03-31 - 1
+[49.145.33.81 | 10-Mar-2023 15:39:35] 2-Super Admin: Add timelog for biometric ID 1 for ftimeIn : 2023-03-02 8:00:00
+[49.145.33.81 | 10-Mar-2023 15:39:48] 2-Super Admin: Add timelog for biometric ID 1 for ftimeOut : 2023-03-02 17:00:00
+[49.145.33.81 | 10-Mar-2023 15:40:02] 2-Super Admin: Add timelog for biometric ID 1 for stimeIn : 2023-03-02 13:00:00
+[49.145.33.81 | 10-Mar-2023 15:40:15] 2-Super Admin: Add timelog for biometric ID 1 for stimeOut : 2023-03-02 17:00:00
+[49.145.33.81 | 10-Mar-2023 15:40:18] 2-Super Admin: Log 2023-03-02 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.33.81 | 10-Mar-2023 15:40:44] 2-Super Admin: Add timelog for biometric ID 1 for ftimeOut : 2023-03-02 11:00:00
+[49.145.33.81 | 10-Mar-2023 15:41:08] 2-Super Admin: Add timelog for biometric ID 1 for ftimeIn : 2023-03-03 8:00:00
+[49.145.33.81 | 10-Mar-2023 15:41:28] 2-Super Admin: Add timelog for biometric ID 1 for stimeOut : 2023-03-03 16:00:00
+[49.145.33.81 | 10-Mar-2023 15:41:58] 2-Super Admin: Add timelog for biometric ID 1 for ftimeOut : 2023-03-03 11:00:00
+[49.145.33.81 | 10-Mar-2023 15:42:09] 2-Super Admin: Add timelog for biometric ID 1 for stimeIn : 2023-03-03 13:00:00
+[49.145.33.81 | 10-Mar-2023 15:43:03] 2-Super Admin: Delete overtime ID3
+[49.145.33.81 | 10-Mar-2023 15:43:05] 2-Super Admin: Delete overtime ID2
+[49.145.33.81 | 10-Mar-2023 15:44:29] 2-Super Admin: Log  for Adams, Alfie successfully Deleted
+[49.145.33.81 | 10-Mar-2023 15:44:36] 2-Super Admin: Log  for Adams, Alfie successfully Deleted
+[49.145.33.81 | 10-Mar-2023 15:51:50] 2-Super Admin: Added Payroll alfie Array Success.
+[49.145.33.81 | 10-Mar-2023 16:03:43] 2-Super Admin: Delete leave ID 3
+[49.145.33.81 | 10-Mar-2023 16:03:47] 2-Super Admin: Delete leave ID 11
+[49.145.33.81 | 10-Mar-2023 16:06:36] 2-Super Admin: Add timelog for biometric ID 1 for stimeOut : 2023-03-04 17:00:00
+[49.145.33.81 | 10-Mar-2023 16:07:08] 2-Super Admin: Log 2023-03-04 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.33.81 | 10-Mar-2023 16:12:48] 2-Super Admin: Logged out.
+[49.145.33.81 | 10-Mar-2023 16:12:58] 2-Super Admin: Logged in.
+[49.145.39.210 | 13-Mar-2023 13:01:22] 2-Super Admin: Logged in.
+[49.145.39.210 | 13-Mar-2023 15:48:02] 2-Super Admin: Added Payroll Test1 Array Success.
+[49.145.39.210 | 13-Mar-2023 15:48:39] 2-Super Admin: Generate Payslip for Test1
+[49.145.39.210 | 13-Mar-2023 15:48:41] 2-Super Admin: Generate Payslip for Test1
+[49.145.39.210 | 13-Mar-2023 15:48:55] 2-Super Admin: Generate Distribution for Test1
+[49.145.39.210 | 13-Mar-2023 15:48:56] 2-Super Admin: Generate Distribution for Test1
+[49.145.37.174 | 14-Mar-2023 08:46:01] 2-Super Admin: Logged in.
+[49.145.37.174 | 14-Mar-2023 08:46:32] 2-Super Admin: Logged out.
+[49.145.37.174 | 14-Mar-2023 08:58:41] 2-Super Admin: Logged in.
+[49.145.37.174 | 14-Mar-2023 09:34:31] 2-Super Admin: Added 13th Month Test1 Array Success.
+[49.145.37.174 | 14-Mar-2023 09:36:50] 2-Super Admin: Generate Nth-payslip for Test1
+[49.145.37.174 | 14-Mar-2023 09:36:51] 2-Super Admin: Generate Nth-payslip for Test1
+[49.145.37.174 | 14-Mar-2023 09:37:05] 2-Super Admin: Generate Nth-distribution for Test1
+[49.145.37.174 | 14-Mar-2023 09:37:05] 2-Super Admin: Generate Nth-distribution for Test1
+[120.28.225.59 | 14-Mar-2023 15:59:55] 2-Super Admin: Logged in.
+[120.28.225.59 | 14-Mar-2023 16:04:20] 2-Super Admin: Added Payroll ggse Array Success.
+[120.28.225.59 | 14-Mar-2023 16:05:00] 2-Super Admin: Generate Payslip for ggse
+[120.28.225.59 | 14-Mar-2023 16:05:01] 2-Super Admin: Generate Payslip for ggse
+[120.28.225.59 | 14-Mar-2023 16:05:01] 2-Super Admin: Generate Distribution for ggse
+[120.28.225.59 | 14-Mar-2023 16:05:01] 2-Super Admin: Generate Distribution for ggse
+[120.28.225.59 | 14-Mar-2023 16:05:12] 2-Super Admin: Generate Distribution for ggse
+[120.28.225.59 | 14-Mar-2023 16:05:12] 2-Super Admin: Generate Distribution for ggse
+[120.28.232.67 | 15-Mar-2023 13:53:41] 2-Super Admin: Logged in.
+[49.145.46.122 | 15-Mar-2023 14:14:48] 2-Super Admin: Logged in.
+[49.145.46.122 | 15-Mar-2023 14:29:25] 2-Super Admin: Logged in.
+[49.145.46.122 | 15-Mar-2023 14:44:19] 2-Super Admin: Logged in.
+[49.145.46.122 | 15-Mar-2023 15:31:15] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-03-04 8:00
+[49.145.46.122 | 15-Mar-2023 15:31:16] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-03-04 11:00
+[49.145.46.122 | 15-Mar-2023 15:31:17] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-03-04 13:00
+[49.145.46.122 | 15-Mar-2023 15:31:18] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-03-04 17:00
+[49.145.46.122 | 15-Mar-2023 15:45:26] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-03-13 8:50
+[49.145.46.122 | 15-Mar-2023 15:45:27] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-03-13 11:00
+[49.145.46.122 | 15-Mar-2023 15:45:28] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-03-13 13:00
+[49.145.46.122 | 15-Mar-2023 15:45:29] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-03-13 17:00
+[49.145.46.122 | 15-Mar-2023 15:47:01] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-04-03 8:00
+[49.145.46.122 | 15-Mar-2023 15:47:02] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-04-03 11:00
+[49.145.46.122 | 15-Mar-2023 15:47:03] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-04-03 13:00
+[49.145.46.122 | 15-Mar-2023 15:47:04] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-04-03 17:00
+[49.145.46.122 | 15-Mar-2023 15:47:34] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-04-04 8:00
+[49.145.46.122 | 15-Mar-2023 15:47:35] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-04-04 11:00
+[49.145.46.122 | 15-Mar-2023 15:47:36] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-04-04 13:00
+[49.145.46.122 | 15-Mar-2023 15:47:37] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-04-04 17:00
+[49.145.46.122 | 15-Mar-2023 15:47:58] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-04-05 8:00
+[49.145.46.122 | 15-Mar-2023 15:47:59] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-04-05 11:00
+[49.145.46.122 | 15-Mar-2023 15:48:00] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-04-05 13:00
+[49.145.46.122 | 15-Mar-2023 15:48:01] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-04-05 17:00
+[49.145.46.122 | 15-Mar-2023 15:48:02] 2-Super Admin: Add timelog for biometric ID 1 OT in : 2023-04-05 17:00
+[49.145.46.122 | 15-Mar-2023 15:48:03] 2-Super Admin: Add timelog for biometric ID 1 OT out : 2023-04-05 18:00:00
+[49.145.46.122 | 15-Mar-2023 15:48:27] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-04-06 8:05
+[49.145.46.122 | 15-Mar-2023 15:48:28] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-04-06 11:00
+[49.145.46.122 | 15-Mar-2023 15:48:29] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-04-06 13:00
+[49.145.46.122 | 15-Mar-2023 15:48:30] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-04-06 17:00
+[49.145.46.122 | 15-Mar-2023 15:48:46] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-04-07 7:30
+[49.145.46.122 | 15-Mar-2023 15:48:47] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-04-07 11:00
+[49.145.46.122 | 15-Mar-2023 15:48:48] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-04-07 13:00
+[49.145.46.122 | 15-Mar-2023 15:48:49] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-04-07 17:00
+[49.145.46.122 | 15-Mar-2023 15:49:01] 2-Super Admin: Add timelog for biometric ID 1 First Time in : 2023-04-10 8:00
+[49.145.46.122 | 15-Mar-2023 15:49:02] 2-Super Admin: Add timelog for biometric ID 1 First Time out : 2023-04-10 11:00
+[49.145.46.122 | 15-Mar-2023 15:49:03] 2-Super Admin: Add timelog for biometric ID 1 Second Time in : 2023-04-10 13:00
+[49.145.46.122 | 15-Mar-2023 15:49:04] 2-Super Admin: Add timelog for biometric ID 1 Second Time out : 2023-04-10 17:00
+[49.145.46.122 | 15-Mar-2023 15:50:25] 2-Super Admin: Added Payroll test2 Array Success.
+[49.145.46.122 | 15-Mar-2023 15:50:48] 2-Super Admin: Generate Payslip for test2
+[49.145.46.122 | 15-Mar-2023 15:50:49] 2-Super Admin: Generate Payslip for test2
+[49.145.46.122 | 15-Mar-2023 15:50:59] 2-Super Admin: Generate Distribution for test2
+[49.145.46.122 | 15-Mar-2023 15:50:59] 2-Super Admin: Generate Distribution for test2
+[49.145.46.122 | 15-Mar-2023 15:56:38] 2-Super Admin: Add holiday 0 on 2023-04-06
+[49.145.46.122 | 15-Mar-2023 16:00:40] 2-Super Admin: Add holiday 1 on 2023-04-04
+[49.145.46.122 | 15-Mar-2023 16:05:26] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 23:00:00
+[49.145.46.122 | 15-Mar-2023 16:05:46] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-04 1:00:00
+[49.145.46.122 | 15-Mar-2023 16:06:25] 2-Super Admin: Log 2023-04-04 01:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.46.122 | 15-Mar-2023 16:06:38] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 1:00:00
+[49.145.46.122 | 15-Mar-2023 16:07:21] 2-Super Admin: Log 2023-04-03 01:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.46.122 | 15-Mar-2023 16:07:40] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 0:00:00
+[49.145.46.122 | 15-Mar-2023 16:18:28] 2-Super Admin: Log 2023-04-03 01:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.46.122 | 15-Mar-2023 16:18:55] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 23:00:00
+[49.145.46.122 | 15-Mar-2023 16:46:34] 2-Super Admin: Add timelog for biometric ID 1 for ftimeIn : 2023-04-02 8:00:00
+[49.145.46.122 | 15-Mar-2023 16:46:50] 2-Super Admin: Add timelog for biometric ID 1 for ftimeOut : 2023-04-02 11:00:00
+[49.145.46.122 | 15-Mar-2023 16:55:48] 2-Super Admin: Add timelog for biometric ID 1 for stimeIn : 2023-04-02 13:00:00
+[49.145.46.122 | 15-Mar-2023 16:56:12] 2-Super Admin: Log 2023-04-03 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.46.122 | 15-Mar-2023 16:56:19] 2-Super Admin: Log 2023-04-02 13:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 09:23:49] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 09:27:04] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 10:17:10] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 10:19:38] 2-Super Admin: Add holiday 0 on 2023-04-05
+[49.148.242.194 | 16-Mar-2023 10:21:50] 2-Super Admin: Add holiday 1 on 2023-04-03
+[49.148.242.194 | 16-Mar-2023 10:23:52] 2-Super Admin: Delete holiday ID 31
+[49.148.242.194 | 16-Mar-2023 10:40:52] 2-Super Admin: Set Holiday amount.
+[49.148.242.194 | 16-Mar-2023 10:41:24] 2-Super Admin: Set Holiday amount.
+[49.148.242.194 | 16-Mar-2023 10:42:26] 2-Super Admin: Delete holiday ID 31
+[49.148.242.194 | 16-Mar-2023 10:43:59] 2-Super Admin: Add timelog for biometric ID 1 for stimeIn : 2023-04-02 13:00:00
+[49.148.242.194 | 16-Mar-2023 10:44:10] 2-Super Admin: Add timelog for biometric ID 1 for stimeOut : 2023-04-02 17:00:00
+[49.148.242.194 | 16-Mar-2023 11:20:15] 2-Super Admin: Delete holiday ID 32
+[49.148.242.194 | 16-Mar-2023 11:21:14] 2-Super Admin: Add holiday 1 on 2023-04-10
+[49.148.242.194 | 16-Mar-2023 11:21:21] 2-Super Admin: Delete holiday ID 33
+[49.148.242.194 | 16-Mar-2023 11:21:35] 2-Super Admin: Add holiday 0 on 2023-04-04
+[49.148.242.194 | 16-Mar-2023 11:21:41] 2-Super Admin: Delete holiday ID 30
+[49.148.242.194 | 16-Mar-2023 11:28:50] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-04 18:00:00
+[49.148.242.194 | 16-Mar-2023 11:29:00] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-04 20:00:00
+[49.148.242.194 | 16-Mar-2023 11:29:08] 2-Super Admin: Log 2023-04-03 18:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 11:29:16] 2-Super Admin: Log 2023-04-03 20:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 11:32:44] 2-Super Admin: Add holiday 0 on 2023-04-05
+[49.148.242.194 | 16-Mar-2023 11:39:54] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-06 22:00:00
+[49.148.242.194 | 16-Mar-2023 11:40:05] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-07 1:00:00
+[49.148.242.194 | 16-Mar-2023 11:41:41] 2-Super Admin: Log 2023-04-06 22:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 11:41:48] 2-Super Admin: Log 2023-04-06 01:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 11:44:20] 2-Super Admin: Set Holiday amount.
+[49.148.242.194 | 16-Mar-2023 11:45:14] 2-Super Admin: Set Holiday amount.
+[49.148.242.194 | 16-Mar-2023 11:55:47] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-02 22:00:00
+[49.148.242.194 | 16-Mar-2023 11:56:28] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-02 23:00:00
+[49.148.242.194 | 16-Mar-2023 12:59:54] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 13:34:33] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 13:34:35] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 13:38:24] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-03 8:00
+[49.148.242.194 | 16-Mar-2023 13:38:25] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-03 12:00
+[49.148.242.194 | 16-Mar-2023 13:38:26] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-03 13:00
+[49.148.242.194 | 16-Mar-2023 13:38:27] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-03 17:00
+[49.148.242.194 | 16-Mar-2023 13:38:36] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-04 8:00
+[49.148.242.194 | 16-Mar-2023 13:38:37] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-04 12:00
+[49.148.242.194 | 16-Mar-2023 13:38:38] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-04 13:00
+[49.148.242.194 | 16-Mar-2023 13:38:39] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-04 17:00
+[49.148.242.194 | 16-Mar-2023 13:38:45] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-04 8:00
+[49.148.242.194 | 16-Mar-2023 13:38:46] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-04 12:00
+[49.148.242.194 | 16-Mar-2023 13:38:47] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-04 13:00
+[49.148.242.194 | 16-Mar-2023 13:38:48] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-04 17:00
+[49.148.242.194 | 16-Mar-2023 13:38:53] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-06 8:00
+[49.148.242.194 | 16-Mar-2023 13:38:54] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-06 12:00
+[49.148.242.194 | 16-Mar-2023 13:38:55] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-06 13:00
+[49.148.242.194 | 16-Mar-2023 13:38:56] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-06 17:00
+[49.148.242.194 | 16-Mar-2023 13:39:01] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-07 8:00
+[49.148.242.194 | 16-Mar-2023 13:39:02] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-07 12:00
+[49.148.242.194 | 16-Mar-2023 13:39:03] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-07 13:00
+[49.148.242.194 | 16-Mar-2023 13:39:04] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-07 17:00
+[49.148.242.194 | 16-Mar-2023 13:39:09] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-10 8:00
+[49.148.242.194 | 16-Mar-2023 13:39:10] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-10 12:00
+[49.148.242.194 | 16-Mar-2023 13:39:11] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-10 13:00
+[49.148.242.194 | 16-Mar-2023 13:39:12] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-10 17:00
+[49.148.242.194 | 16-Mar-2023 13:39:16] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-11 8:00
+[49.148.242.194 | 16-Mar-2023 13:39:17] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-11 12:00
+[49.148.242.194 | 16-Mar-2023 13:39:18] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-11 13:00
+[49.148.242.194 | 16-Mar-2023 13:39:19] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-11 17:00
+[49.148.242.194 | 16-Mar-2023 13:39:24] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-12 8:00
+[49.148.242.194 | 16-Mar-2023 13:39:25] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-12 12:00
+[49.148.242.194 | 16-Mar-2023 13:39:26] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-12 13:00
+[49.148.242.194 | 16-Mar-2023 13:39:27] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-12 17:00
+[49.148.242.194 | 16-Mar-2023 13:39:31] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-13 8:00
+[49.148.242.194 | 16-Mar-2023 13:39:32] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-13 12:00
+[49.148.242.194 | 16-Mar-2023 13:39:33] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-13 13:00
+[49.148.242.194 | 16-Mar-2023 13:39:34] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-13 17:00
+[49.148.242.194 | 16-Mar-2023 13:39:39] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-14 8:00
+[49.148.242.194 | 16-Mar-2023 13:39:40] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-14 12:00
+[49.148.242.194 | 16-Mar-2023 13:39:41] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-14 13:00
+[49.148.242.194 | 16-Mar-2023 13:39:42] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-14 17:00
+[49.148.242.194 | 16-Mar-2023 14:23:58] 2-Super Admin: Set Holiday amount.
+[49.148.242.194 | 16-Mar-2023 14:28:09] 2-Super Admin: Set Holiday amount.
+[49.148.242.194 | 16-Mar-2023 14:28:43] 2-Super Admin: Add timelog for biometric ID 123 for ftimeIn : 2023-04-05 8:00:00
+[49.148.242.194 | 16-Mar-2023 14:28:57] 2-Super Admin: Add timelog for biometric ID 123 for ftimeOut : 2023-04-05 12:00:00
+[49.148.242.194 | 16-Mar-2023 14:29:06] 2-Super Admin: Add timelog for biometric ID 123 for stimeIn : 2023-04-05 13:00:00
+[49.148.242.194 | 16-Mar-2023 14:30:58] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-03 17:00:00
+[49.148.242.194 | 16-Mar-2023 14:31:14] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-03 19:00:00
+[49.148.242.194 | 16-Mar-2023 14:37:14] 2-Super Admin: Log  for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:37:22] 2-Super Admin: Log 2023-04-05 19:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:37:28] 2-Super Admin: Log 2023-04-04 18:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:37:35] 2-Super Admin: Log 2023-04-04 20:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:37:51] 2-Super Admin: Log 2023-04-02 22:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:37:56] 2-Super Admin: Log 2023-04-02 01:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:39:22] 2-Super Admin: Delete holiday ID 35
+[49.148.242.194 | 16-Mar-2023 14:39:30] 2-Super Admin: Delete holiday ID 36
+[49.148.242.194 | 16-Mar-2023 14:39:39] 2-Super Admin: Delete holiday ID 34
+[49.148.242.194 | 16-Mar-2023 14:40:47] 2-Super Admin: Log 2023-04-02 08:00                               
+                     
+                                               for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:40:54] 2-Super Admin: Log 2023-04-02 12:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:40:58] 2-Super Admin: Log 2023-04-02 13:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:41:02] 2-Super Admin: Log 2023-04-02 17:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:41:49] 2-Super Admin: Add timelog for biometric ID 1 for ftimeIn : 2023-04-02 8:00:00
+[49.148.242.194 | 16-Mar-2023 14:41:58] 2-Super Admin: Add timelog for biometric ID 1 for ftimeOut : 2023-04-02 12:00:00
+[49.148.242.194 | 16-Mar-2023 14:42:14] 2-Super Admin: Add timelog for biometric ID 1 for stimeIn : 2023-04-02 13:00:00
+[49.148.242.194 | 16-Mar-2023 14:42:24] 2-Super Admin: Add timelog for biometric ID 1 for stimeOut : 2023-04-02 17:00:00
+[49.148.242.194 | 16-Mar-2023 14:42:47] 2-Super Admin: Add holiday 0 on 2023-04-03
+[49.148.242.194 | 16-Mar-2023 14:42:55] 2-Super Admin: Add holiday 1 on 2023-04-05
+[49.148.242.194 | 16-Mar-2023 14:44:27] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 17:00:00
+[49.148.242.194 | 16-Mar-2023 14:44:45] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 18:00:00
+[49.148.242.194 | 16-Mar-2023 14:48:03] 2-Super Admin: Delete holiday ID 37
+[49.148.242.194 | 16-Mar-2023 14:48:59] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-04 18:00:00
+[49.148.242.194 | 16-Mar-2023 14:49:09] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-04 19:00:00
+[49.148.242.194 | 16-Mar-2023 14:50:51] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-06 22:00:00
+[49.148.242.194 | 16-Mar-2023 14:51:00] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-06 23:00:00
+[49.148.242.194 | 16-Mar-2023 14:51:59] 2-Super Admin: Log 2023-04-06 22:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 14:52:07] 2-Super Admin: Log 2023-04-06 23:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 15:01:18] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 15:04:53] 2-Super Admin: Log 2023-04-04 18:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 15:05:00] 2-Super Admin: Log 2023-04-04 19:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 15:26:58] 2-Super Admin: Log 2023-04-03 23:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 15:27:14] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 1:00:00
+[49.148.242.194 | 16-Mar-2023 15:29:52] 2-Super Admin: Log 2023-04-04 01:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 15:30:02] 2-Super Admin: Log 2023-04-03 22:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 15:40:18] - : Logged out.
+[49.148.242.194 | 16-Mar-2023 16:09:41] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-06 22:00:00
+[49.148.242.194 | 16-Mar-2023 16:09:54] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-06 23:00:00
+[49.148.242.194 | 16-Mar-2023 16:15:14] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 16:15:43] 2-Super Admin: Logged in.
+[49.148.242.194 | 16-Mar-2023 16:18:09] 2-Super Admin: Log 2023-04-04 01:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.242.194 | 16-Mar-2023 16:18:16] 2-Super Admin: Log 2023-04-03 22:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.242.194 | 16-Mar-2023 16:19:27] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-08 8:00
+[49.148.242.194 | 16-Mar-2023 16:19:28] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-08 12:00
+[49.148.242.194 | 16-Mar-2023 16:19:29] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-08 13:00
+[49.148.242.194 | 16-Mar-2023 16:19:30] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-08 17:00
+[49.148.242.194 | 16-Mar-2023 16:46:43] 2-Super Admin: Add holiday 0 on 2023-04-04
+[49.148.242.194 | 16-Mar-2023 16:47:45] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-06 17:00:00
+[49.148.242.194 | 16-Mar-2023 16:47:55] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-06 20:00:00
+[49.148.242.194 | 16-Mar-2023 16:59:47] 2-Super Admin: Add leave for Doe John 2023-04-13 - 2
+[49.148.242.194 | 16-Mar-2023 17:16:43] 2-Super Admin: Log 2023-04-06 22:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[49.148.242.194 | 16-Mar-2023 17:16:47] 2-Super Admin: Log 2023-04-06 23:00                                  
+                      
+                                                 for Adams, Alfie successfully Deleted
+[120.28.229.228 | 17-Mar-2023 08:05:40] 2-Super Admin: Logged in.
+[120.28.229.228 | 17-Mar-2023 08:08:27] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-02 22:00:00
+[49.145.41.253 | 17-Mar-2023 08:28:35] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-02 2:00:00
+[49.145.41.253 | 17-Mar-2023 13:07:09] 2-Super Admin: Logged in.
+[49.145.41.253 | 17-Mar-2023 13:21:12] 2-Super Admin: Logged in.
+[49.145.41.253 | 17-Mar-2023 13:21:18] 2-Super Admin: Logged in.
+[49.145.41.253 | 17-Mar-2023 13:28:44] 2-Super Admin: Added Payroll test3 Array Success.
+[49.145.41.253 | 17-Mar-2023 13:29:03] 2-Super Admin: Generate Payslip for test3
+[49.145.41.253 | 17-Mar-2023 13:29:05] 2-Super Admin: Generate Payslip for test3
+[49.145.41.253 | 17-Mar-2023 13:29:56] 2-Super Admin: Generate Distribution for test3
+[49.145.41.253 | 17-Mar-2023 13:29:56] 2-Super Admin: Generate Distribution for test3
+[49.145.41.253 | 17-Mar-2023 13:35:38] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 21:00:00
+[49.145.41.253 | 17-Mar-2023 13:35:57] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 0:00:00
+[49.145.41.253 | 17-Mar-2023 13:45:15] 2-Super Admin: Log 2023-04-02 23:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 13:45:25] 2-Super Admin: Log 2023-04-03 00:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 13:45:32] 2-Super Admin: Log 2023-04-03 01:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 13:45:37] 2-Super Admin: Log 2023-04-03 00:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 13:52:28] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-02 21:00:00
+[49.145.41.253 | 17-Mar-2023 14:35:03] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-02 1:00:00
+[49.145.41.253 | 17-Mar-2023 14:48:43] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 0:00:00
+[49.145.41.253 | 17-Mar-2023 14:49:18] 2-Super Admin: Log 2023-04-03 22:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 15:31:47] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 21:00:00
+[49.145.41.253 | 17-Mar-2023 15:32:05] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 1:00:00
+[49.145.41.253 | 17-Mar-2023 15:33:59] 2-Super Admin: Log 2023-04-04 01:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 15:34:06] 2-Super Admin: Log 2023-04-03 21:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 15:34:54] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 23:00:00
+[49.145.41.253 | 17-Mar-2023 15:35:06] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 0:00:00
+[49.145.41.253 | 17-Mar-2023 15:37:41] 2-Super Admin: Log 2023-04-03 23:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 15:37:49] 2-Super Admin: Log 2023-04-04 00:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 15:41:41] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 23:00:00
+[49.145.41.253 | 17-Mar-2023 15:41:50] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 0:00:00
+[49.145.41.253 | 17-Mar-2023 16:00:29] 2-Super Admin: Log 2023-04-03 22:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:00:36] 2-Super Admin: Log 2023-04-03 23:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:05:09] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 22:00:00
+[49.145.41.253 | 17-Mar-2023 16:05:17] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 0:00:00
+[49.145.41.253 | 17-Mar-2023 16:08:27] 2-Super Admin: Log 2023-04-03 22:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:08:34] 2-Super Admin: Log 2023-04-04 00:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:10:13] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 22:00:00
+[49.145.41.253 | 17-Mar-2023 16:10:34] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 23:00:00
+[49.145.41.253 | 17-Mar-2023 16:12:45] 2-Super Admin: Delete holiday ID 39
+[49.145.41.253 | 17-Mar-2023 16:12:51] 2-Super Admin: Delete holiday ID 38
+[49.145.41.253 | 17-Mar-2023 16:16:13] 2-Super Admin: Log 2023-04-03 23:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:16:20] 2-Super Admin: Log 2023-04-03 22:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:32:51] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 17:00:00
+[49.145.41.253 | 17-Mar-2023 16:33:02] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 19:00:00
+[49.145.41.253 | 17-Mar-2023 16:38:13] 2-Super Admin: Log 2023-04-03 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:38:20] 2-Super Admin: Log 2023-04-03 19:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:42:26] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 17:00:00
+[49.145.41.253 | 17-Mar-2023 16:42:35] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 18:00:00
+[49.145.41.253 | 17-Mar-2023 16:57:16] 2-Super Admin: Log 2023-04-03 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.41.253 | 17-Mar-2023 16:57:25] 2-Super Admin: Log 2023-04-03 18:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 08:01:43] 2-Super Admin: Logged in.
+[49.145.36.204 | 20-Mar-2023 08:15:53] 2-Super Admin: Added Payroll test5 Array Success.
+[49.145.36.204 | 20-Mar-2023 08:17:13] 2-Super Admin: Generate Payslip for test5
+[49.145.36.204 | 20-Mar-2023 08:17:14] 2-Super Admin: Generate Payslip for test5
+[49.145.36.204 | 20-Mar-2023 08:23:28] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 17:00:00
+[49.145.36.204 | 20-Mar-2023 08:23:43] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 23:00:00
+[49.145.36.204 | 20-Mar-2023 08:29:03] 2-Super Admin: Log 2023-04-03 23:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 08:29:10] 2-Super Admin: Log 2023-04-03 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 08:40:58] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-03 17:00:00
+[49.145.36.204 | 20-Mar-2023 08:41:08] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-03 23:00:00
+[49.145.36.204 | 20-Mar-2023 08:52:36] 2-Super Admin: Log 2023-04-02 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 08:52:43] 2-Super Admin: Log 2023-04-02 23:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 08:53:09] 2-Super Admin: Add timelog for biometric ID 1 for OTin : 2023-04-04 17:00:00
+[49.145.36.204 | 20-Mar-2023 08:53:21] 2-Super Admin: Add timelog for biometric ID 1 for OTout : 2023-04-04 23:00:00
+[49.145.36.204 | 20-Mar-2023 09:20:37] 2-Super Admin: Log 2023-04-04 22:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 09:20:44] 2-Super Admin: Log 2023-04-04 17:00                                   
+                     
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.204 | 20-Mar-2023 09:43:45] 2-Super Admin: Logged in.
+[49.145.36.204 | 20-Mar-2023 10:19:57] 2-Super Admin: Logged in.
+[49.145.36.204 | 20-Mar-2023 10:22:04] 2-Super Admin: Log 2023-04-07 02:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.36.204 | 20-Mar-2023 10:22:33] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-07 1:00:00
+[49.145.36.204 | 20-Mar-2023 11:21:25] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-07 18:00:00
+[49.145.36.204 | 20-Mar-2023 11:21:37] 2-Super Admin: Log 2023-04-07 18:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.36.204 | 20-Mar-2023 11:21:49] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-05 8:00:00
+[49.145.36.204 | 20-Mar-2023 11:22:02] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-05 0:00:00
+[49.145.36.204 | 20-Mar-2023 11:23:04] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-05 1:00:00
+[49.145.36.204 | 20-Mar-2023 11:26:37] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-03 1:00:00
+[49.145.36.204 | 20-Mar-2023 11:26:51] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-03 2:00:00
+[49.145.36.204 | 20-Mar-2023 13:01:54] 2-Super Admin: Logged in.
+[49.145.36.204 | 20-Mar-2023 13:01:58] 2-Super Admin: Logged in.
+[49.145.36.204 | 20-Mar-2023 15:19:20] 2-Super Admin: Logged in.
+[49.145.36.204 | 20-Mar-2023 15:33:01] 2-Super Admin: Added Payroll test Array Success.
+[49.145.36.204 | 20-Mar-2023 15:33:20] 2-Super Admin: Generate Payslip for test
+[49.145.36.204 | 20-Mar-2023 15:33:21] 2-Super Admin: Generate Payslip for test
+[49.145.36.204 | 20-Mar-2023 15:33:30] 2-Super Admin: Generate Distribution for test
+[49.145.36.204 | 20-Mar-2023 15:33:30] 2-Super Admin: Generate Distribution for test
+[49.145.36.4 | 21-Mar-2023 09:46:20] 2-Super Admin: Logged in.
+[49.145.36.4 | 21-Mar-2023 09:59:05] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-04 19:00:00
+[49.145.36.4 | 21-Mar-2023 09:59:16] 2-Super Admin: Add timelog for biometric ID 123 for OTout : 2023-04-04 3:00:00
+[49.145.36.4 | 21-Mar-2023 10:48:36] 2-Super Admin: Add holiday 0 on 2023-04-07
+[49.145.36.4 | 21-Mar-2023 10:48:58] 2-Super Admin: update holiday ID 40 to 1
+[49.145.36.4 | 21-Mar-2023 10:49:25] 2-Super Admin: Add holiday 1 on 2023-04-11
+[49.145.36.4 | 21-Mar-2023 11:28:08] 2-Super Admin: update holiday ID 40 to 2
+[49.145.36.4 | 21-Mar-2023 11:28:28] 2-Super Admin: Add holiday 1 on 2023-04-07
+[49.145.36.4 | 21-Mar-2023 11:28:38] 2-Super Admin: update holiday ID 40 to 1
+[49.145.36.4 | 21-Mar-2023 11:28:57] 2-Super Admin: update holiday ID 40 to 2
+[49.145.36.4 | 21-Mar-2023 11:29:58] 2-Super Admin: Delete holiday ID 41
+[49.145.36.4 | 21-Mar-2023 11:30:15] 2-Super Admin: update holiday ID 40 to 1
+[49.145.36.4 | 21-Mar-2023 11:33:39] 2-Super Admin: update holiday ID 40 to 2
+[49.145.36.4 | 21-Mar-2023 11:34:00] 2-Super Admin: update holiday ID 40 to 3
+[49.145.36.4 | 21-Mar-2023 11:35:11] 2-Super Admin: update holiday ID 40 to 4
+[49.145.36.4 | 21-Mar-2023 11:44:52] 2-Super Admin: Add holiday 0 on 2023-04-05
+[49.145.36.4 | 21-Mar-2023 11:45:05] 2-Super Admin: Delete holiday ID 40
+[49.145.36.4 | 21-Mar-2023 11:50:23] 2-Super Admin: update holiday ID 42 to 1
+[49.145.36.4 | 21-Mar-2023 11:58:42] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 11:58:50] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 11:58:59] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 11:59:06] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 11:59:23] 2-Super Admin: Add leave for Doe John 2023-04-14 - 1
+[49.145.36.4 | 21-Mar-2023 12:00:03] 2-Super Admin: Update leave ID 14 status to 0
+[49.145.36.4 | 21-Mar-2023 12:00:06] 2-Super Admin: Update leave ID 14 status to 1
+[49.145.36.4 | 21-Mar-2023 13:03:52] 2-Super Admin: Logged in.
+[49.145.36.4 | 21-Mar-2023 13:15:39] 2-Super Admin: Log 2023-04-02 08:00                                 
+                   
+                                               for Adams, Alfie successfully Deleted
+[49.145.36.4 | 21-Mar-2023 13:15:47] 2-Super Admin: Log 2023-04-02 12:00                                    
+                    
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.4 | 21-Mar-2023 13:15:54] 2-Super Admin: Log 2023-04-02 13:00                                    
+                    
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.4 | 21-Mar-2023 13:16:01] 2-Super Admin: Log 2023-04-02 17:00                                    
+                    
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.4 | 21-Mar-2023 13:16:33] 2-Super Admin: Add timelog for biometric ID 1 for ftimeIn : 2023-04-11 8:00:00
+[49.145.36.4 | 21-Mar-2023 13:16:43] 2-Super Admin: Add timelog for biometric ID 1 for ftimeOut : 2023-04-11 12:00:00
+[49.145.36.4 | 21-Mar-2023 13:16:58] 2-Super Admin: Log 2023-04-11 08:00                                 
+                   
+                                               for Adams, Alfie successfully Deleted
+[49.145.36.4 | 21-Mar-2023 13:17:05] 2-Super Admin: Log 2023-04-11 12:00                                    
+                    
+                                                 for Adams, Alfie successfully Deleted
+[49.145.36.4 | 21-Mar-2023 14:15:09] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 14:15:15] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 14:15:19] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 14:15:22] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.36.4 | 21-Mar-2023 14:15:30] 2-Super Admin: Add timelog for biometric ID 123 for ftimeIn : 2023-04-14 8:00:00
+[49.145.36.4 | 21-Mar-2023 14:15:54] 2-Super Admin: Add timelog for biometric ID 123 for ftimeOut : 2023-04-14 12:00:00
+[49.145.36.4 | 21-Mar-2023 14:16:04] 2-Super Admin: Add timelog for biometric ID 123 for stimeIn : 2023-04-14 13:00:00
+[49.145.36.4 | 21-Mar-2023 14:16:16] 2-Super Admin: Add timelog for biometric ID 123 for stimeOut : 2023-04-14 17:00:00
+[49.145.36.4 | 21-Mar-2023 14:18:31] 2-Super Admin: Delete holiday ID 42
+[49.145.36.4 | 21-Mar-2023 14:49:48] 2-Super Admin: Logged in.
+[49.145.36.4 | 21-Mar-2023 15:09:10] 2-Super Admin: Update leave ID 8 status to 0
+[49.145.36.4 | 21-Mar-2023 15:09:12] 2-Super Admin: Update leave ID 8 status to 1
+[49.145.36.4 | 21-Mar-2023 15:09:16] 2-Super Admin: Delete leave ID 8
+[49.145.36.4 | 21-Mar-2023 15:10:53] 2-Super Admin: Generate Payslip for test
+[49.145.36.4 | 21-Mar-2023 15:10:54] 2-Super Admin: Generate Payslip for test
+[49.145.36.4 | 21-Mar-2023 15:10:58] 2-Super Admin: Generate Distribution for test
+[49.145.36.4 | 21-Mar-2023 15:10:58] 2-Super Admin: Generate Distribution for test
+[49.145.36.4 | 21-Mar-2023 15:23:33] 2-Super Admin: Delete leave ID 13
+[49.145.36.4 | 21-Mar-2023 15:23:35] 2-Super Admin: Delete leave ID 14
+[49.145.36.4 | 21-Mar-2023 15:36:05] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-17 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:06] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-17 12:00
+[49.145.36.4 | 21-Mar-2023 15:36:07] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-17 13:00
+[49.145.36.4 | 21-Mar-2023 15:36:08] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-17 17:00
+[49.145.36.4 | 21-Mar-2023 15:36:16] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-18 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:17] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-18 12:00
+[49.145.36.4 | 21-Mar-2023 15:36:18] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-18 13:00
+[49.145.36.4 | 21-Mar-2023 15:36:19] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-18 17:00
+[49.145.36.4 | 21-Mar-2023 15:36:25] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-19 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:26] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-19 12:00
+[49.145.36.4 | 21-Mar-2023 15:36:27] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-19 13:00
+[49.145.36.4 | 21-Mar-2023 15:36:28] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-19 17:00
+[49.145.36.4 | 21-Mar-2023 15:36:33] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-20 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:34] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-20 12:00
+[49.145.36.4 | 21-Mar-2023 15:36:35] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-20 13:00
+[49.145.36.4 | 21-Mar-2023 15:36:36] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-20 17:00
+[49.145.36.4 | 21-Mar-2023 15:36:40] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-21 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:41] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-21 12:00
+[49.145.36.4 | 21-Mar-2023 15:36:42] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-21 13:00
+[49.145.36.4 | 21-Mar-2023 15:36:43] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-21 17:00
+[49.145.36.4 | 21-Mar-2023 15:36:50] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-24 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:51] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-24 12:00
+[49.145.36.4 | 21-Mar-2023 15:36:52] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-24 13:00
+[49.145.36.4 | 21-Mar-2023 15:36:53] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-24 17:00
+[49.145.36.4 | 21-Mar-2023 15:36:58] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-25 8:00
+[49.145.36.4 | 21-Mar-2023 15:36:59] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-25 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:00] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-25 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:01] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-25 17:00
+[49.145.36.4 | 21-Mar-2023 15:37:05] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-26 8:00
+[49.145.36.4 | 21-Mar-2023 15:37:06] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-26 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:07] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-26 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:08] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-26 17:00
+[49.145.36.4 | 21-Mar-2023 15:37:13] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-27 8:00
+[49.145.36.4 | 21-Mar-2023 15:37:14] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-27 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:15] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-27 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:16] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-27 17:00
+[49.145.36.4 | 21-Mar-2023 15:37:21] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-04-28 8:00
+[49.145.36.4 | 21-Mar-2023 15:37:22] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-04-28 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:23] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-04-28 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:24] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-04-28 17:00
+[49.145.36.4 | 21-Mar-2023 15:37:37] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-01 8:00
+[49.145.36.4 | 21-Mar-2023 15:37:38] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-01 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:39] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-01 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-01 17:00
+[49.145.36.4 | 21-Mar-2023 15:37:46] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-02 8:00
+[49.145.36.4 | 21-Mar-2023 15:37:47] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-02 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:48] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-02 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:49] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-02 17:00
+[49.145.36.4 | 21-Mar-2023 15:37:56] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-03 8:00
+[49.145.36.4 | 21-Mar-2023 15:37:57] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-03 12:00
+[49.145.36.4 | 21-Mar-2023 15:37:58] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-03 13:00
+[49.145.36.4 | 21-Mar-2023 15:37:59] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-03 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:04] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-04 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:05] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-04 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:06] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-04 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:07] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-04 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:11] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-05 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:12] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-05 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:13] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-05 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:14] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-05 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:19] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-08 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:20] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-08 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:21] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-08 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:22] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-08 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:27] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-09 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:28] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-09 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:29] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-09 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:30] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-09 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:34] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-10 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:35] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-10 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:36] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-10 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:37] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-10 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:43] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-11 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:44] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-11 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:45] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-11 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:46] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-11 17:00
+[49.145.36.4 | 21-Mar-2023 15:38:54] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-12 8:00
+[49.145.36.4 | 21-Mar-2023 15:38:55] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-12 12:00
+[49.145.36.4 | 21-Mar-2023 15:38:56] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-12 13:00
+[49.145.36.4 | 21-Mar-2023 15:38:57] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-12 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:03] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-15 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:04] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-15 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:05] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-15 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:06] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-15 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:10] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-16 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:11] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-16 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:12] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-16 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:13] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-16 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:17] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-17 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:18] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-17 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:19] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-17 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:20] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-17 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:24] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-18 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:25] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-18 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:26] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-18 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:27] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-18 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:33] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-19 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:34] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-19 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:35] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-19 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:36] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-19 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:43] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-22 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:44] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-22 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:45] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-22 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:46] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-22 17:00
+[49.145.36.4 | 21-Mar-2023 15:39:53] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-23 8:00
+[49.145.36.4 | 21-Mar-2023 15:39:54] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-23 12:00
+[49.145.36.4 | 21-Mar-2023 15:39:55] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-23 13:00
+[49.145.36.4 | 21-Mar-2023 15:39:56] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-23 17:00
+[49.145.36.4 | 21-Mar-2023 15:40:04] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-24 8:00
+[49.145.36.4 | 21-Mar-2023 15:40:05] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-24 12:00
+[49.145.36.4 | 21-Mar-2023 15:40:06] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-24 13:00
+[49.145.36.4 | 21-Mar-2023 15:40:07] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-24 17:00
+[49.145.36.4 | 21-Mar-2023 15:40:12] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-25 8:00
+[49.145.36.4 | 21-Mar-2023 15:40:13] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-25 12:00
+[49.145.36.4 | 21-Mar-2023 15:40:14] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-25 13:00
+[49.145.36.4 | 21-Mar-2023 15:40:15] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-25 17:00
+[49.145.36.4 | 21-Mar-2023 15:40:20] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-26 8:00
+[49.145.36.4 | 21-Mar-2023 15:40:21] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-26 12:00
+[49.145.36.4 | 21-Mar-2023 15:40:22] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-26 13:00
+[49.145.36.4 | 21-Mar-2023 15:40:23] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-26 17:00
+[49.145.36.4 | 21-Mar-2023 15:40:27] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-29 8:00
+[49.145.36.4 | 21-Mar-2023 15:40:28] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-29 12:00
+[49.145.36.4 | 21-Mar-2023 15:40:29] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-29 13:00
+[49.145.36.4 | 21-Mar-2023 15:40:30] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-29 17:00
+[49.145.36.4 | 21-Mar-2023 15:40:37] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-30 8:00
+[49.145.36.4 | 21-Mar-2023 15:40:38] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-30 12:00
+[49.145.36.4 | 21-Mar-2023 15:40:39] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-30 13:00
+[49.145.36.4 | 21-Mar-2023 15:40:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-30 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:13] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-05-31 8:00
+[49.145.36.4 | 21-Mar-2023 15:43:14] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-05-31 12:00
+[49.145.36.4 | 21-Mar-2023 15:43:15] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-05-31 13:00
+[49.145.36.4 | 21-Mar-2023 15:43:16] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-05-31 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:21] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-01 8:00
+[49.145.36.4 | 21-Mar-2023 15:43:22] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-01 12:00
+[49.145.36.4 | 21-Mar-2023 15:43:23] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-01 13:00
+[49.145.36.4 | 21-Mar-2023 15:43:24] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-01 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:28] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-02 8:00
+[49.145.36.4 | 21-Mar-2023 15:43:29] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-02 12:00
+[49.145.36.4 | 21-Mar-2023 15:43:30] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-02 13:00
+[49.145.36.4 | 21-Mar-2023 15:43:31] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-02 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:37] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-05 8:00
+[49.145.36.4 | 21-Mar-2023 15:43:38] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-05 12:00
+[49.145.36.4 | 21-Mar-2023 15:43:39] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-05 13:00
+[49.145.36.4 | 21-Mar-2023 15:43:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-05 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:44] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-06 8:00
+[49.145.36.4 | 21-Mar-2023 15:43:45] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-06 12:00
+[49.145.36.4 | 21-Mar-2023 15:43:46] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-06 13:00
+[49.145.36.4 | 21-Mar-2023 15:43:47] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-06 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:52] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-07 8:00
+[49.145.36.4 | 21-Mar-2023 15:43:53] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-07 12:00
+[49.145.36.4 | 21-Mar-2023 15:43:54] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-07 13:00
+[49.145.36.4 | 21-Mar-2023 15:43:55] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-07 17:00
+[49.145.36.4 | 21-Mar-2023 15:43:59] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-08 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:00] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-08 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:01] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-08 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:02] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-08 17:00
+[49.145.36.4 | 21-Mar-2023 15:44:07] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-09 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:08] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-09 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:09] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-09 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:10] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-09 17:00
+[49.145.36.4 | 21-Mar-2023 15:44:14] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-12 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:15] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-12 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:16] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-12 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:17] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-12 17:00
+[49.145.36.4 | 21-Mar-2023 15:44:22] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-13 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:23] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-13 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:24] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-13 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:25] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-13 17:00
+[49.145.36.4 | 21-Mar-2023 15:44:29] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-14 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:30] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-14 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:31] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-14 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:32] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-14 17:00
+[49.145.36.4 | 21-Mar-2023 15:44:37] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-06-15 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:38] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-06-15 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:39] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-06-15 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-06-15 17:00
+[49.145.36.4 | 21-Mar-2023 15:44:54] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-03 8:00
+[49.145.36.4 | 21-Mar-2023 15:44:55] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-03 12:00
+[49.145.36.4 | 21-Mar-2023 15:44:56] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-03 13:00
+[49.145.36.4 | 21-Mar-2023 15:44:57] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-03 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:01] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-04 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:02] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-04 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:03] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-04 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:04] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-04 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:09] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-05 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:10] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-05 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:11] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-05 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:12] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-05 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:16] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-06 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:17] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-06 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:18] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-06 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:19] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-06 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:23] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-07 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:24] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-07 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:25] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-07 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:26] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-07 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:30] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-10 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:31] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-10 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:32] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-10 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:33] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-10 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:38] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-11 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:39] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-11 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-11 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:41] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-11 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:45] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-12 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:46] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-12 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:47] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-12 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:48] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-12 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:52] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-13 8:00
+[49.145.36.4 | 21-Mar-2023 15:45:53] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-13 12:00
+[49.145.36.4 | 21-Mar-2023 15:45:54] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-13 13:00
+[49.145.36.4 | 21-Mar-2023 15:45:55] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-13 17:00
+[49.145.36.4 | 21-Mar-2023 15:45:59] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-07-14 8:00
+[49.145.36.4 | 21-Mar-2023 15:46:00] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-07-14 12:00
+[49.145.36.4 | 21-Mar-2023 15:46:01] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-07-14 13:00
+[49.145.36.4 | 21-Mar-2023 15:46:02] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-07-14 17:00
+[49.145.36.4 | 21-Mar-2023 15:46:17] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-01 8:00
+[49.145.36.4 | 21-Mar-2023 15:46:18] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-01 12:00
+[49.145.36.4 | 21-Mar-2023 15:46:19] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-01 13:00
+[49.145.36.4 | 21-Mar-2023 15:46:20] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-01 17:00
+[49.145.36.4 | 21-Mar-2023 15:46:40] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-02 8:00
+[49.145.36.4 | 21-Mar-2023 15:46:41] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-02 12:00
+[49.145.36.4 | 21-Mar-2023 15:46:42] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-02 13:00
+[49.145.36.4 | 21-Mar-2023 15:46:43] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-02 17:00
+[49.145.36.4 | 21-Mar-2023 15:46:48] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-03 8:00
+[49.145.36.4 | 21-Mar-2023 15:46:49] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-03 12:00
+[49.145.36.4 | 21-Mar-2023 15:46:50] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-03 13:00
+[49.145.36.4 | 21-Mar-2023 15:46:51] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-03 17:00
+[49.145.36.4 | 21-Mar-2023 15:46:55] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-04 8:00
+[49.145.36.4 | 21-Mar-2023 15:46:56] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-04 12:00
+[49.145.36.4 | 21-Mar-2023 15:46:57] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-04 13:00
+[49.145.36.4 | 21-Mar-2023 15:46:58] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-04 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:02] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-07 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:03] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-07 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:04] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-07 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:05] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-07 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:09] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-08 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:10] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-08 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:11] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-08 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:12] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-08 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:15] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-09 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:16] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-09 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:17] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-09 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:18] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-09 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:22] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-10 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:23] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-10 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:24] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-10 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:25] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-10 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:30] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-11 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:31] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-11 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:32] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-11 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:33] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-11 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:37] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-14 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:38] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-14 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:39] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-14 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-14 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:45] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-08-15 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:46] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-08-15 12:00
+[49.145.36.4 | 21-Mar-2023 15:47:47] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-08-15 13:00
+[49.145.36.4 | 21-Mar-2023 15:47:48] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-08-15 17:00
+[49.145.36.4 | 21-Mar-2023 15:47:58] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-01 8:00
+[49.145.36.4 | 21-Mar-2023 15:47:59] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-01 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:00] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-01 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:01] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-01 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:05] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-04 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:06] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-04 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:07] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-04 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:08] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-04 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:12] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-05 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:13] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-05 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:14] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-05 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:15] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-05 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:20] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-06 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:21] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-06 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:22] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-06 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:23] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-06 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:28] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-07 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:29] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-07 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:30] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-07 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:31] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-07 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:35] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-08 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:36] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-08 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:37] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-08 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:38] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-08 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:42] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-11 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:43] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-11 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:44] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-11 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:45] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-11 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:49] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-12 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:50] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-12 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:51] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-12 13:00
+[49.145.36.4 | 21-Mar-2023 15:48:52] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-12 17:00
+[49.145.36.4 | 21-Mar-2023 15:48:57] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-13 8:00
+[49.145.36.4 | 21-Mar-2023 15:48:58] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-13 12:00
+[49.145.36.4 | 21-Mar-2023 15:48:59] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-13 13:00
+[49.145.36.4 | 21-Mar-2023 15:49:00] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-13 17:00
+[49.145.36.4 | 21-Mar-2023 15:49:05] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-14 8:00
+[49.145.36.4 | 21-Mar-2023 15:49:06] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-14 12:00
+[49.145.36.4 | 21-Mar-2023 15:49:07] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-14 13:00
+[49.145.36.4 | 21-Mar-2023 15:49:08] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-14 17:00
+[49.145.36.4 | 21-Mar-2023 15:49:12] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-09-15 8:00
+[49.145.36.4 | 21-Mar-2023 15:49:13] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-09-15 12:00
+[49.145.36.4 | 21-Mar-2023 15:49:14] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-09-15 13:00
+[49.145.36.4 | 21-Mar-2023 15:49:15] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-09-15 17:00
+[49.145.36.4 | 21-Mar-2023 15:49:21] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-02 8:00
+[49.145.36.4 | 21-Mar-2023 15:49:22] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-02 12:00
+[49.145.36.4 | 21-Mar-2023 15:49:23] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-02 13:00
+[49.145.36.4 | 21-Mar-2023 15:49:24] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-02 17:00
+[49.145.36.4 | 21-Mar-2023 15:49:28] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-03 8:00
+[49.145.36.4 | 21-Mar-2023 15:49:29] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-03 12:00
+[49.145.36.4 | 21-Mar-2023 15:49:30] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-03 13:00
+[49.145.36.4 | 21-Mar-2023 15:49:31] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-03 17:00
+[49.145.36.4 | 21-Mar-2023 15:49:40] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-04 8:00
+[49.145.36.4 | 21-Mar-2023 15:49:41] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-04 12:00
+[49.145.36.4 | 21-Mar-2023 15:49:42] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-04 13:00
+[49.145.36.4 | 21-Mar-2023 15:49:43] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-04 17:00
+[49.145.36.4 | 21-Mar-2023 15:49:59] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-05 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:00] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-05 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:01] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-05 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:02] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-05 17:00
+[49.145.36.4 | 21-Mar-2023 15:50:07] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-06 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:08] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-06 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:09] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-06 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:10] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-06 17:00
+[49.145.36.4 | 21-Mar-2023 15:50:16] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-09 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:17] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-09 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:18] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-09 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:19] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-09 17:00
+[49.145.36.4 | 21-Mar-2023 15:50:24] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-10 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:25] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-10 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:26] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-10 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:27] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-10 17:00
+[49.145.36.4 | 21-Mar-2023 15:50:31] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-11 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:32] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-11 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:33] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-11 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:34] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-11 17:00
+[49.145.36.4 | 21-Mar-2023 15:50:38] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-12 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:39] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-12 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:40] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-12 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:41] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-12 17:00
+[49.145.36.4 | 21-Mar-2023 15:50:45] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2023-10-13 8:00
+[49.145.36.4 | 21-Mar-2023 15:50:46] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2023-10-13 12:00
+[49.145.36.4 | 21-Mar-2023 15:50:47] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2023-10-13 13:00
+[49.145.36.4 | 21-Mar-2023 15:50:48] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2023-10-13 17:00
+[49.145.36.4 | 21-Mar-2023 16:25:58] 2-Super Admin: Upload file uploads/2/Screenshot_1.png
+[49.145.36.4 | 21-Mar-2023 16:26:02] 2-Super Admin: Update file yea information.
+[49.145.36.4 | 21-Mar-2023 16:26:08] 2-Super Admin: Downloaded file yea
+[49.145.36.4 | 21-Mar-2023 16:26:10] 2-Super Admin: Downloaded file yea
+[49.145.36.4 | 21-Mar-2023 16:26:18] 2-Super Admin: Deleted file yea
+[49.145.36.4 | 21-Mar-2023 16:27:19] 2-Super Admin: Added 13th Month test Array Success.
+[49.145.36.4 | 21-Mar-2023 16:27:32] 2-Super Admin: Generate Nth-payslip for test
+[49.145.36.4 | 21-Mar-2023 16:27:33] 2-Super Admin: Generate Nth-payslip for test
+[49.145.36.4 | 21-Mar-2023 16:30:21] 2-Super Admin: Add overtime for Mandawe John  on 2023-03-01 time 6:00pm - 7:00pm
+[49.145.36.4 | 21-Mar-2023 16:30:50] 2-Super Admin: update overtime status to1
+[49.145.36.4 | 21-Mar-2023 16:30:58] 2-Super Admin: Delete overtime ID4
+[49.145.36.4 | 21-Mar-2023 16:33:03] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.36.4 | 21-Mar-2023 16:33:30] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.36.4 | 21-Mar-2023 16:33:56] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.36.4 | 21-Mar-2023 16:33:57] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.36.4 | 21-Mar-2023 16:38:16] 2-Super Admin: Generate Nth-payslip for test
+[49.145.36.4 | 21-Mar-2023 16:38:17] 2-Super Admin: Generate Nth-payslip for test
+[49.145.36.4 | 21-Mar-2023 16:38:56] 2-Super Admin: Generate Nth-payslip for test
+[49.145.36.4 | 21-Mar-2023 16:38:57] 2-Super Admin: Generate Nth-payslip for test
+[49.145.36.4 | 21-Mar-2023 16:39:11] 2-Super Admin: Add holiday 0 on 2023-04-07
+[49.145.36.4 | 21-Mar-2023 16:39:24] 2-Super Admin: update holiday ID 43 to 1
+[49.145.36.4 | 21-Mar-2023 16:39:41] 2-Super Admin: Add timelog for biometric ID 123 for ftimeIn : 2023-04-08 8:00:00
+[49.145.36.4 | 21-Mar-2023 16:39:53] 2-Super Admin: Add timelog for biometric ID 123 for stimeOut : 2023-04-08 17:00:00
+[49.145.36.4 | 21-Mar-2023 16:40:04] 2-Super Admin: Add timelog for biometric ID 123 for ftimeOut : 2023-04-08 12:00:00
+[49.145.36.4 | 21-Mar-2023 16:40:16] 2-Super Admin: Add timelog for biometric ID 123 for stimeIn : 2023-04-08 13:00:00
+[49.145.36.4 | 21-Mar-2023 16:42:52] 2-Super Admin: Generate Nth-distribution for test
+[49.145.36.4 | 21-Mar-2023 16:42:52] 2-Super Admin: Generate Nth-distribution for test
+[49.148.240.207 | 22-Mar-2023 08:03:25] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 08:51:35] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 09:05:35] 2-Super Admin: Add holiday 0 on 2023-04-10
+[49.148.240.207 | 22-Mar-2023 09:14:31] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 09:21:05] 2-Super Admin: Added Employee yy yy
+[49.148.240.207 | 22-Mar-2023 09:22:04] 16-yy yy: Logged in.
+[49.148.240.207 | 22-Mar-2023 09:23:18] 16-yy yy: Apply overtime 2023-03-23
+[49.148.240.207 | 22-Mar-2023 09:34:31] 2-Super Admin: Log 2023-04-08 08:00                              
+                      
+                                               for Doe, John successfully Deleted
+[49.148.240.207 | 22-Mar-2023 09:34:37] 2-Super Admin: Log 2023-04-08 12:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.240.207 | 22-Mar-2023 09:34:44] 2-Super Admin: Log 2023-04-08 13:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.240.207 | 22-Mar-2023 09:34:49] 2-Super Admin: Log 2023-04-08 17:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.240.207 | 22-Mar-2023 11:17:46] 2-Super Admin: Add timelog for biometric ID 123 for ftimeIn : 2023-04-08 8:00:00
+[49.148.240.207 | 22-Mar-2023 11:17:59] 2-Super Admin: Add timelog for biometric ID 123 for ftimeOut : 2023-04-08 12:00:00
+[49.148.240.207 | 22-Mar-2023 11:18:18] 2-Super Admin: Add timelog for biometric ID 123 for stimeIn : 2023-04-08 13:00:00
+[49.148.240.207 | 22-Mar-2023 11:18:30] 2-Super Admin: Add timelog for biometric ID 123 for stimeOut : 2023-04-08 17:00:00
+[49.148.240.207 | 22-Mar-2023 11:19:17] 2-Super Admin: Log 2023-04-08 13:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.240.207 | 22-Mar-2023 11:19:23] 2-Super Admin: Log 2023-04-08 17:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.148.240.207 | 22-Mar-2023 11:21:32] 2-Super Admin: Add timelog for biometric ID 123 for stimeIn : 2023-04-08 13:00:00
+[49.148.240.207 | 22-Mar-2023 11:21:42] 2-Super Admin: Add timelog for biometric ID 123 for stimeOut : 2023-04-08 17:00:00
+[49.148.240.207 | 22-Mar-2023 13:00:51] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 13:05:08] - : Logged out.
+[49.148.240.207 | 22-Mar-2023 13:05:16] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 13:58:32] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 14:59:52] 2-Super Admin: Delete overtime ID5
+[49.148.240.207 | 22-Mar-2023 15:02:18] 2-Super Admin: Added Employee yy yy
+[49.148.240.207 | 22-Mar-2023 15:13:12] 2-Super Admin: Added Payroll test Array Success.
+[49.148.240.207 | 22-Mar-2023 15:14:45] 2-Super Admin: Added Payroll test Array Success.
+[49.148.240.207 | 22-Mar-2023 15:18:45] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:18:47] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:19:16] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:19:16] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:20:12] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:20:14] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:20:41] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:20:41] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:22:21] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:22:23] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:22:53] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:22:54] 2-Super Admin: Generate Payslip for test
+[49.148.240.207 | 22-Mar-2023 15:30:05] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:30:06] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:30:45] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:30:45] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:31:51] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:31:52] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:35:45] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 15:35:45] 2-Super Admin: Generate Distribution for test
+[49.148.240.207 | 22-Mar-2023 16:29:02] 2-Super Admin: Add leave for Doe John 2023-04-20 - 2
+[49.148.240.207 | 22-Mar-2023 16:32:07] 2-Super Admin: Delete leave ID 15
+[49.148.240.207 | 22-Mar-2023 16:33:56] 2-Super Admin: Add leave for Doe John 2023-04-20 - 2
+[49.148.240.207 | 22-Mar-2023 16:55:51] 2-Super Admin: Logged in.
+[49.148.240.207 | 22-Mar-2023 16:57:59] 2-Super Admin: Add leave for Doe John 2023-04-25 - 2
+[49.148.240.207 | 22-Mar-2023 16:59:22] 2-Super Admin: Add leave for Doe John 2023-04-28 - 1
+[49.148.240.207 | 22-Mar-2023 16:59:55] 2-Super Admin: Delete leave ID 18
+[49.148.240.207 | 22-Mar-2023 16:59:57] 2-Super Admin: Delete leave ID 17
+[49.148.240.207 | 22-Mar-2023 16:59:59] 2-Super Admin: Delete leave ID 16
+[49.145.47.225 | 23-Mar-2023 08:32:16] 2-Super Admin: Logged in.
+[49.145.47.225 | 23-Mar-2023 08:37:45] 2-Super Admin: Logged in.
+[49.145.47.225 | 23-Mar-2023 08:39:51] 2-Super Admin: Set Leave amount.
+[49.145.47.225 | 23-Mar-2023 08:42:38] 2-Super Admin: Downloaded Employee
+[49.145.47.225 | 23-Mar-2023 08:53:04] 2-Super Admin: Upload file uploads/2/employee-list.csv
+[49.145.47.225 | 23-Mar-2023 08:53:06] 2-Super Admin: Deleted file 
+[49.145.47.225 | 23-Mar-2023 08:59:43] 2-Super Admin: Upload file uploads/2/timesheet-template.csv
+[49.145.47.225 | 23-Mar-2023 08:59:48] 2-Super Admin: Update file yea information.
+[49.145.47.225 | 23-Mar-2023 09:09:56] 2-Super Admin: Add overtime for Helper Demo on 2023-03-31 time 1:00am - 3:30am
+[49.145.47.225 | 23-Mar-2023 09:10:23] 2-Super Admin: update overtime status to1
+[49.145.47.225 | 23-Mar-2023 09:10:25] 2-Super Admin: update overtime status to0
+[49.145.47.225 | 23-Mar-2023 09:10:36] 2-Super Admin: Delete overtime ID6
+[49.145.47.225 | 23-Mar-2023 09:11:21] 2-Super Admin: Add timelog for biometric ID 0 for OTin : 2023-03-01 22:00:00
+[49.145.47.225 | 23-Mar-2023 09:11:31] 2-Super Admin: Add timelog for biometric ID 0 for OTout : 2023-03-01 3:00:00
+[49.145.47.225 | 23-Mar-2023 09:11:58] 2-Super Admin: Add timelog for biometric ID 0 for OTin : 2023-03-02 18:00:00
+[49.145.47.225 | 23-Mar-2023 09:12:08] 2-Super Admin: Add timelog for biometric ID 0 for OTout : 2023-03-02 20:00:00
+[49.145.47.225 | 23-Mar-2023 10:11:31] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 10:11:32] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 10:25:48] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 10:25:48] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 10:26:36] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 10:26:37] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 10:30:08] 2-Super Admin: Added 13th Month test Array Error.
+[49.145.47.225 | 23-Mar-2023 10:30:15] 2-Super Admin: Added 13th Month test1 Array Success.
+[49.145.47.225 | 23-Mar-2023 10:34:13] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.47.225 | 23-Mar-2023 10:34:15] 2-Super Admin: Added 13th Month test Array Success.
+[49.145.47.225 | 23-Mar-2023 10:34:25] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.47.225 | 23-Mar-2023 10:34:33] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.47.225 | 23-Mar-2023 10:35:28] 2-Super Admin: Add timelog for biometric ID 123 for stimeIn : 2023-04-07 13:00:00
+[49.145.47.225 | 23-Mar-2023 10:35:37] 2-Super Admin: Add timelog for biometric ID 123 for OTin : 2023-04-07 17:00:00
+[49.145.47.225 | 23-Mar-2023 10:36:07] 2-Super Admin: Added 13th Month test Array Success.
+[49.145.47.225 | 23-Mar-2023 10:36:07] 2-Super Admin: Log 2023-04-07 17:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.47.225 | 23-Mar-2023 10:36:20] 2-Super Admin: Add timelog for biometric ID 123 for stimeOut : 2023-04-07 17:00:00
+[49.145.47.225 | 23-Mar-2023 10:36:29] 2-Super Admin: Add timelog for biometric ID 123 for stimeOut : 2023-04-08 17:00:00
+[49.145.47.225 | 23-Mar-2023 11:03:00] 2-Super Admin: Added 13th Month test Array Success.
+[49.145.47.225 | 23-Mar-2023 11:12:27] 2-Super Admin: Add overtime for Adams Alfie on 2023-04-21 time 5:00pm - 6:00pm
+[49.145.47.225 | 23-Mar-2023 11:14:30] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 11:14:32] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 11:14:35] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 11:14:36] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 11:14:39] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 11:15:40] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 11:15:42] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 11:15:44] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 11:16:03] 2-Super Admin: Update leave ID 10 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:07] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:09] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:12] 2-Super Admin: Update leave ID 10 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:14] 2-Super Admin: Update leave ID 10 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:16] 2-Super Admin: Update leave ID 10 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:17] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:18] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:20] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:22] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:29] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:31] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:33] 2-Super Admin: Update leave ID 10 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:34] 2-Super Admin: Update leave ID 10 status to 0
+[49.145.47.225 | 23-Mar-2023 11:18:35] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 11:18:36] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 11:34:09] 2-Super Admin: Added 13th Month test Array Success.
+[49.145.47.225 | 23-Mar-2023 11:38:25] 2-Super Admin: Generate Nth-payslip for test
+[49.145.47.225 | 23-Mar-2023 11:38:26] 2-Super Admin: Generate Nth-payslip for test
+[49.145.47.225 | 23-Mar-2023 11:39:52] 2-Super Admin: Generate Nth-payslip for test
+[49.145.47.225 | 23-Mar-2023 11:39:53] 2-Super Admin: Generate Nth-payslip for test
+[49.145.47.225 | 23-Mar-2023 11:40:11] 2-Super Admin: Generate Nth-distribution for test
+[49.145.47.225 | 23-Mar-2023 11:40:11] 2-Super Admin: Generate Nth-distribution for test
+[49.145.47.225 | 23-Mar-2023 11:41:52] 2-Super Admin: Generate Nth-distribution for test
+[49.145.47.225 | 23-Mar-2023 11:41:52] 2-Super Admin: Generate Nth-distribution for test
+[49.145.47.225 | 23-Mar-2023 11:45:56] 2-Super Admin: Added Payroll Joe Array Success.
+[49.145.47.225 | 23-Mar-2023 11:48:06] 2-Super Admin: Added 13th Month Joe Array Success.
+[49.145.47.225 | 23-Mar-2023 11:49:40] 2-Super Admin: Generate Payslip for Joe
+[49.145.47.225 | 23-Mar-2023 11:49:41] 2-Super Admin: Generate Payslip for Joe
+[49.145.47.225 | 23-Mar-2023 11:56:45] 2-Super Admin: Generate Distribution for Joe
+[49.145.47.225 | 23-Mar-2023 11:56:45] 2-Super Admin: Generate Distribution for Joe
+[49.145.47.225 | 23-Mar-2023 13:03:04] 2-Super Admin: Logged in.
+[49.145.47.225 | 23-Mar-2023 13:09:01] 2-Super Admin: Logged in.
+[49.145.47.225 | 23-Mar-2023 13:10:43] 2-Super Admin: Generate Nth-payslip for Joe
+[49.145.47.225 | 23-Mar-2023 13:10:44] 2-Super Admin: Generate Nth-payslip for Joe
+[49.145.47.225 | 23-Mar-2023 13:10:44] 2-Super Admin: Generate Nth-distribution for Joe
+[49.145.47.225 | 23-Mar-2023 13:10:44] 2-Super Admin: Generate Nth-distribution for Joe
+[49.145.47.225 | 23-Mar-2023 13:13:42] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:13:43] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 13:13:45] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:13:46] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 13:14:42] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:14:44] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 13:15:38] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:17:04] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 13:18:44] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:18:47] 2-Super Admin: Update leave ID 10 status to 1
+[49.145.47.225 | 23-Mar-2023 13:18:49] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 13:18:51] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 13:18:53] 2-Super Admin: Update leave ID 10 status to 0
+[49.145.47.225 | 23-Mar-2023 13:18:55] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 13:19:12] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:19:14] 2-Super Admin: Update leave ID 10 status to 1
+[49.145.47.225 | 23-Mar-2023 13:19:15] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 13:19:23] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.47.225 | 23-Mar-2023 13:19:23] 2-Super Admin: Update leave ID 10 status to 0
+[49.145.47.225 | 23-Mar-2023 13:19:25] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.47.225 | 23-Mar-2023 13:23:25] 2-Super Admin: Change profile picture.
+[49.145.47.225 | 23-Mar-2023 13:37:24] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 13:37:25] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 13:42:57] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 13:42:58] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 13:43:04] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 13:43:05] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 13:53:26] 10-Alfie Adams: Logged in.
+[49.145.47.225 | 23-Mar-2023 13:53:51] 10-Alfie Adams: Logged out.
+[49.145.47.225 | 23-Mar-2023 13:54:14] 9-Test Test: Logged in.
+[49.145.47.225 | 23-Mar-2023 13:55:29] 9-Test Test: Downloaded file 4451
+[49.145.47.225 | 23-Mar-2023 13:55:55] 9-Test Test: Apply leave for Test Test 2023-03-24 - 2
+[49.145.47.225 | 23-Mar-2023 13:56:10] 9-Test Test: Apply overtime 2023-03-25
+[49.145.47.225 | 23-Mar-2023 13:57:07] 9-Test Test: Logged out.
+[49.145.47.225 | 23-Mar-2023 13:57:38] 2-Super Admin: Update leave ID 19 status to 1
+[49.145.47.225 | 23-Mar-2023 13:58:03] 2-Super Admin: Update leave ID 9 status to 1
+[49.145.47.225 | 23-Mar-2023 13:58:05] 2-Super Admin: Update leave ID 10 status to 1
+[49.145.47.225 | 23-Mar-2023 13:58:06] 2-Super Admin: Update leave ID 12 status to 1
+[49.145.47.225 | 23-Mar-2023 13:58:09] 2-Super Admin: update overtime status to1
+[49.145.47.225 | 23-Mar-2023 13:58:11] 2-Super Admin: update overtime status to0
+[49.145.47.225 | 23-Mar-2023 14:33:29] 2-Super Admin: Upload file uploads/2/Screenshot_1.png
+[49.145.47.225 | 23-Mar-2023 14:33:30] 2-Super Admin: Update file 5 information.
+[49.145.47.225 | 23-Mar-2023 14:39:21] 2-Super Admin: Downloaded file 5
+[49.145.47.225 | 23-Mar-2023 14:39:32] 2-Super Admin: Downloaded file yea
+[49.145.47.225 | 23-Mar-2023 14:46:51] 2-Super Admin: Deleted file 5
+[49.145.47.225 | 23-Mar-2023 14:59:52] 2-Super Admin: Add timelog for biometric ID 0 First Time in : 2023-03-03 8:00
+[49.145.47.225 | 23-Mar-2023 14:59:53] 2-Super Admin: Add timelog for biometric ID 0 First Time out : 2023-03-03 12:00
+[49.145.47.225 | 23-Mar-2023 14:59:54] 2-Super Admin: Add timelog for biometric ID 0 Second Time in : 2023-03-03 13:00
+[49.145.47.225 | 23-Mar-2023 14:59:55] 2-Super Admin: Add timelog for biometric ID 0 Second Time out : 2023-03-03 17:00
+[49.145.47.225 | 23-Mar-2023 15:00:52] 2-Super Admin: Log 2023-03-03 17:00                                   
+                     
+                                                 for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:00:58] 2-Super Admin: Log 2023-03-01 22:00                                   
+                     
+                                                 for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:01:04] 2-Super Admin: Log 2023-03-02 03:00                                   
+                     
+                                                 for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:01:08] 2-Super Admin: Log 2023-03-02 18:00                                   
+                     
+                                                 for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:01:11] 2-Super Admin: Log 2023-03-02 20:00                                   
+                     
+                                                 for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:01:15] 2-Super Admin: Log  for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:01:19] 2-Super Admin: Log  for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:01:22] 2-Super Admin: Log  for Admin, Super successfully Deleted
+[49.145.47.225 | 23-Mar-2023 15:52:22] 10-Alfie Adams: Logged in.
+[49.145.47.225 | 23-Mar-2023 15:54:03] 10-Alfie Adams: Logged out.
+[49.145.47.225 | 23-Mar-2023 16:01:44] 2-Super Admin: Upload file uploads/2/test-payslip (3).pdf
+[49.145.47.225 | 23-Mar-2023 16:02:07] 2-Super Admin: Update file test information.
+[49.145.47.225 | 23-Mar-2023 16:04:18] 2-Super Admin: Upload file uploads/2/test-distribution (1).pdf
+[49.145.47.225 | 23-Mar-2023 16:04:23] 2-Super Admin: Update file xx information.
+[49.145.47.225 | 23-Mar-2023 16:04:41] 2-Super Admin: Deleted file yea
+[49.145.47.225 | 23-Mar-2023 16:04:43] 2-Super Admin: Deleted file xx
+[49.145.47.225 | 23-Mar-2023 16:04:45] 2-Super Admin: Deleted file test
+[49.145.47.225 | 23-Mar-2023 16:09:08] 2-Super Admin: Added Employee yy yy
+[49.145.47.225 | 23-Mar-2023 16:09:29] 2-Super Admin: Change profile picture.
+[49.145.47.225 | 23-Mar-2023 16:10:50] 2-Super Admin: Upload file uploads/2/5.png
+[49.145.47.225 | 23-Mar-2023 16:10:57] 2-Super Admin: Update file yy information.
+[49.145.47.225 | 23-Mar-2023 16:48:06] 2-Super Admin: Logged in.
+[49.145.47.225 | 23-Mar-2023 16:51:24] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 16:51:25] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 16:51:25] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 16:51:25] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 16:51:44] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 16:51:44] 2-Super Admin: Generate Distribution for test
+[49.145.47.225 | 23-Mar-2023 16:51:45] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 16:51:46] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 17:01:35] 2-Super Admin: Generate Payslip for test
+[49.145.47.225 | 23-Mar-2023 17:01:36] 2-Super Admin: Generate Payslip for test
+[49.145.44.132 | 24-Mar-2023 08:58:59] 2-Super Admin: Logged in.
+[49.145.44.132 | 24-Mar-2023 09:43:23] 2-Super Admin: Logged in.
+[49.145.44.132 | 24-Mar-2023 10:57:22] 2-Super Admin: Logged in.
+[49.145.44.132 | 24-Mar-2023 11:57:57] 2-Super Admin: Update leave ID 9 status to 0
+[49.145.44.132 | 24-Mar-2023 11:57:59] 2-Super Admin: Update leave ID 19 status to 0
+[49.145.44.132 | 24-Mar-2023 11:58:00] 2-Super Admin: Update leave ID 10 status to 0
+[49.145.44.132 | 24-Mar-2023 11:58:01] 2-Super Admin: Update leave ID 12 status to 0
+[49.145.44.132 | 24-Mar-2023 11:58:05] 2-Super Admin: update overtime status to1
+[49.145.44.132 | 24-Mar-2023 13:00:07] 2-Super Admin: Logged in.
+[49.145.44.132 | 24-Mar-2023 13:00:16] 2-Super Admin: Delete leave ID 10
+[49.145.44.132 | 24-Mar-2023 13:00:22] 2-Super Admin: Delete leave ID 19
+[49.145.44.132 | 24-Mar-2023 13:00:24] 2-Super Admin: Delete leave ID 9
+[49.145.44.132 | 24-Mar-2023 13:00:26] 2-Super Admin: Delete leave ID 12
+[49.145.44.132 | 24-Mar-2023 13:00:31] 2-Super Admin: Delete overtime ID8
+[49.145.44.132 | 24-Mar-2023 13:01:18] - : Logged out.
+[49.145.44.132 | 24-Mar-2023 13:34:01] 2-Super Admin: Import Employee
+[49.145.44.132 | 24-Mar-2023 15:03:35] 2-Super Admin: Logged in.
+[49.145.44.132 | 24-Mar-2023 15:20:41] 2-Super Admin: Import Timelog
+[49.145.44.132 | 24-Mar-2023 15:22:45] 2-Super Admin: Log 2023-04-03 08:00                              
+                      
+                                               for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:22:50] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:22:53] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:22:57] 2-Super Admin: Log 2023-04-03 17:03                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:23:07] 2-Super Admin: Log 2023-04-04 17:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:23:21] 2-Super Admin: Log 2023-04-04 01:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:23:27] 2-Super Admin: Log 2023-04-04 02:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 15:24:37] 2-Super Admin: Import Timelog
+[49.145.44.132 | 24-Mar-2023 16:11:24] 2-Super Admin: Logged in.
+[49.145.44.132 | 24-Mar-2023 16:25:50] 2-Super Admin: Import Timelog
+[49.145.44.132 | 24-Mar-2023 16:34:11] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:34:18] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:35:24] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:35:31] 2-Super Admin: Log 2023-04-04 11:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:35:38] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:35:46] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:35:53] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:36:06] 2-Super Admin: Log 2023-04-04 19:38                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:36:13] 2-Super Admin: Log 2023-04-05 03:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:38:08] 2-Super Admin: Import Timelog
+[49.145.44.132 | 24-Mar-2023 16:39:46] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:39:53] 2-Super Admin: Log 2023-04-04 12:00                                 
+                       
+                                                 for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:39:59] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:40:06] 2-Super Admin: Log  for Doe, John successfully Deleted
+[49.145.44.132 | 24-Mar-2023 16:40:58] 2-Super Admin: Import Timelog
+[120.28.249.238 | 27-Mar-2023 15:39:39] 2-Super Admin: Logged in.
+[120.28.249.238 | 27-Mar-2023 16:29:48] 2-Super Admin: Logged in.
+[120.28.249.238 | 27-Mar-2023 16:53:49] 2-Super Admin: Logged in.
+[120.28.230.28 | 28-Mar-2023 11:19:32] 2-Super Admin: Logged in.
+[49.145.47.190 | 28-Mar-2023 16:49:32] 2-Super Admin: Logged in.
+[49.145.47.190 | 28-Mar-2023 16:51:14] 2-Super Admin: Generate Nth-payslip for test
+[49.145.47.190 | 28-Mar-2023 16:51:15] 2-Super Admin: Generate Nth-payslip for test
+[49.145.47.190 | 28-Mar-2023 16:57:10] 2-Super Admin: Logged out.
+[49.145.47.190 | 28-Mar-2023 16:57:19] 19-xx xx: Logged in.
+[49.145.47.190 | 28-Mar-2023 16:57:44] 19-xx xx: Logged out.
+[49.145.47.190 | 28-Mar-2023 16:57:49] 2-Super Admin: Logged in.
+[49.145.47.190 | 28-Mar-2023 17:01:50] 2-Super Admin: Logged out.
+[49.145.46.71 | 29-Mar-2023 08:56:13] 2-Super Admin: Logged in.
+[77.111.246.47 | 30-Mar-2023 13:25:24] 2-Super Admin: Logged in.
+[77.111.246.14 | 31-Mar-2023 09:36:59] 2-Super Admin: Logged in.
+[77.111.246.14 | 31-Mar-2023 11:18:11] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 11:24:39] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 11:27:10] 2-Super Admin: Activate License.
+[49.148.244.188 | 31-Mar-2023 11:40:48] 2-Super Admin: Logged in.
+[77.111.246.14 | 31-Mar-2023 13:13:05] 2-Super Admin: Logged in.
+[77.111.246.14 | 31-Mar-2023 13:15:42] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:24:58] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:26:38] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:28:49] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:32:58] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:39:46] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:40:55] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:42:41] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:43:24] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:43:55] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:47:36] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:50:05] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:52:54] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:56:20] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 13:59:39] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 14:01:48] 2-Super Admin: Activate License.
+[77.111.246.14 | 31-Mar-2023 14:15:22] 2-Super Admin: Activate License.

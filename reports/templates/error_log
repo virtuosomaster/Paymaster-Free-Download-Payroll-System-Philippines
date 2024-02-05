@@ -1,0 +1,64 @@
+[07-Feb-2023 20:43:20 America/Chicago] PHP Warning:  include(/home2/pmvirt/public_html/reports/templates/includes/lib/class-thirteenth.php): Failed to open stream: No such file or directory in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:43:20 America/Chicago] PHP Warning:  include(/home2/pmvirt/public_html/reports/templates/includes/lib/class-thirteenth.php): Failed to open stream: No such file or directory in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:43:20 America/Chicago] PHP Warning:  include(): Failed opening '/home2/pmvirt/public_html/reports/templates/includes/lib/class-thirteenth.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:43:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Thirteenth" not found in /home2/pmvirt/public_html/reports/templates/pdf-template.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 4
+[07-Feb-2023 20:45:36 America/Chicago] PHP Warning:  include(/home2/pmvirt/public_html/reports/templates/includes/lib/class-thirteenth.php): Failed to open stream: No such file or directory in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:45:36 America/Chicago] PHP Warning:  include(/home2/pmvirt/public_html/reports/templates/includes/lib/class-thirteenth.php): Failed to open stream: No such file or directory in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:45:36 America/Chicago] PHP Warning:  include(): Failed opening '/home2/pmvirt/public_html/reports/templates/includes/lib/class-thirteenth.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:45:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Thirteenth" not found in /home2/pmvirt/public_html/reports/templates/pdf-template.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 4
+[07-Feb-2023 20:45:53 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/pmvirt/public_html/reports/templates/pdf-template.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:45:56 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/pmvirt/public_html/reports/templates/pdf-template.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 20:45:56 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/pmvirt/public_html/reports/templates/pdf-template.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 3
+[07-Feb-2023 21:27:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function escape() on null in /home2/pmvirt/public_html/includes/lib/class-thirteenth.php:27
+Stack trace:
+#0 /home2/pmvirt/public_html/reports/templates/pdf-template.php(5): Thirteenth->get_thirteenth_report('test')
+#1 {main}
+  thrown in /home2/pmvirt/public_html/includes/lib/class-thirteenth.php on line 27
+[07-Feb-2023 21:27:30 America/Chicago] PHP Warning:  Undefined variable $reports in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 61
+[07-Feb-2023 21:27:30 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 61
+[07-Feb-2023 21:30:11 America/Chicago] PHP Warning:  Undefined variable $reports in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 61
+[07-Feb-2023 21:30:11 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 61
+[07-Feb-2023 21:30:24 America/Chicago] PHP Warning:  Undefined variable $reports in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 53
+[07-Feb-2023 21:30:24 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 53
+[07-Feb-2023 21:32:55 America/Chicago] PHP Warning:  Undefined variable $reports in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 57
+[07-Feb-2023 21:32:55 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 57
+[08-Feb-2023 01:23:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function pcm_get_company_logo() in /home2/pmvirt/public_html/reports/templates/pdf-template.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 43
+[08-Feb-2023 01:23:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function pcm_get_company_logo() in /home2/pmvirt/public_html/reports/templates/pdf-template.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 43
+[08-Feb-2023 01:24:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function pcm_get_company_logo() in /home2/pmvirt/public_html/reports/templates/pdf-template.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 43
+[08-Feb-2023 01:24:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function pcm_get_company_logo() in /home2/pmvirt/public_html/reports/templates/pdf-template.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 43
+[08-Feb-2023 01:24:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function pcm_get_company_logo() in /home2/pmvirt/public_html/reports/templates/pdf-template.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 43
+[08-Feb-2023 01:37:49 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/pmvirt/public_html/reports/templates/pdf-template.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 43
+[08-Feb-2023 02:05:59 America/Chicago] PHP Warning:  Undefined variable $company_logo in /home2/pmvirt/public_html/reports/templates/pdf-template.php on line 62

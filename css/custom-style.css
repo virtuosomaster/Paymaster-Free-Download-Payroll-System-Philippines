@@ -1,0 +1,78 @@
+/* custom css by jaypee */
+/* adjust tab font sizes under update user section */
+.ui-tabs-anchor {
+  font-size: 12px !important;
+  font-family: "Segoe UI";
+}
+/* adjust font sizes of table content */
+table.dataTable th {
+  font-size: 0.9rem !important;
+}
+table.dataTable td {
+  font-size: 0.8rem !important;
+}
+.dark-blue {
+  background-color: #254a87 !important;
+  color: #ffffff;
+}
+/* style icons under actions column */
+.fa-pen-to-square, 
+.fa-trash {
+  cursor: pointer;
+}
+.fa-pen-to-square {
+  color: #254a87;
+}
+.fa-trash {
+  color: #990f02;
+}
+.eye-holder {
+  position: relative;
+}
+.eye {
+  position: absolute;
+  right: 20px;
+  bottom: 50%;
+  font-size: 0.8rem;
+  transform: translate(50%, 50%);
+  cursor: pointer;
+  z-index: 2;
+}
+.autofill-wrapper {
+  position: absolute;
+  display: flex;
+  align-items: baseline;
+  right: 10px;
+  bottom: 50%;
+  transform: translate(-10%, 65%);
+}
+.transrec-labels {
+  border: none;
+  outline: none;
+  margin-bottom: 5px;
+}
+._secondary {
+  background-color: #5a6268 !important;
+  color: #ffff !important;
+}
+._info {
+  background-color: #17a2b8 !important;
+  color: #ffff !important;
+}
+._success {
+  background-color: #28a745 !important;
+  color: #ffff !important;
+}
+._dark {
+  background-color: #343a40 !important;
+  color: #ffff !important;
+}
+._danger {
+  background-color: #dc3545 !important;
+  color: #ffff !important;
+}
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+    color: #fff!important;
+    text-decoration: none;
+    background: #254a87!important;
+}

@@ -1,0 +1,475 @@
+#ui-datepicker-div {
+  z-index: 9999 !important;
+}
+
+div#adduser-form h6 {
+  border-bottom: 1px solid #343a40;
+  padding: 6px 0;
+}
+
+.notification-message {
+  text-align: center;
+  z-index: 9999;
+  border-radius: 0;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+  position: fixed;
+  width: 100%;
+}
+
+#payrollListTable-wrapper,
+#payrollReportTable-wrapper,
+#thirteenthListTable-wrapper,
+#thirteenthReportTable-wrapper {
+  overflow: scroll;
+  border: 2px solid #404040;
+  padding: 6px;
+  -webkit-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
+  background-color: #fff;
+  color: #000;
+  height: 600px;
+}
+
+table#payrollListTable thead,
+table#payrollReportTable thead,
+table#thirteenthListTable thead,
+table#thirteenthReportTable thead {
+  background-color: #f7f7f7;
+}
+
+table#payrollListTable thead td,
+table#payrollReportTable thead td,
+table#thirteenthListTable thead td,
+table#thirteenthReportTable thead td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+table#payrollListTable td.fullname,
+table#payrollReportTable td.fullname,
+table#thirteenthListTable td.fullname,
+table#thirteenthReportTable td.fullname {
+  white-space: nowrap;
+}
+
+table#timecardTable tbody tr td {
+  font-size: 12px;
+}
+
+table#payrollReportTable tbody td.fullname,
+table#payrollListTable tbody td.fullname,
+table#thirteenthReportTable tbody td.fullname,
+table#thirteenthListTable tbody td.fullname {
+  text-align: left;
+}
+
+table#payrollReportTable tbody td,
+table#payrollListTable tbody td,
+table#thirteenthReportTable tbody td,
+table#thirteenthListTable tbody td {
+  text-align: right;
+}
+
+/* Fullcalendar */
+table tbody.fc-body td.fc-past {
+  opacity: .3;
+}
+
+.table td,
+.table th {
+  padding: .2rem;
+}
+
+.warning {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.date-page {
+  margin: 0 12px;
+  font-weight: bold;
+  margin-bottom: 6px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+}
+
+.date-page.active:hover {
+  color: #007bff;
+}
+
+.date-page.current {
+  border-bottom: 2px solid #333;
+}
+
+span.date-page.disabled {
+  opacity: .3;
+  cursor: default;
+}
+
+/* Select2 */
+.modal .select2-container,
+.select2-full .select2-container {
+  width: 100% !important;
+}
+
+.select2-selection.select2-selection--single {
+  display: block;
+  width: 100%;
+  padding: .25rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  height: initial;
+}
+
+#mainNav .navbar-collapse .navbar-sidenav>.nav-item>.nav-link,
+#mainNav .navbar-collapse .navbar-sidenav>.nav-item .sidenav-second-level>li>a,
+#mainNav .navbar-collapse .navbar-sidenav>.nav-item .sidenav-third-level>li>a {
+  padding: .5em 1em;
+}
+
+#mainNav .navbar-collapse .navbar-sidenav>.nav-item .sidenav-second-level>li>a {
+  padding-left: 2.75em;
+}
+
+.dropzone .dz-preview .dz-error-message {
+  top: 150px;
+}
+
+.download-file,
+.delete-file,
+.download-memo,
+.delete-memo {
+  cursor: pointer;
+}
+
+/* Editor Sumonote */
+#memo-editor .note-editor .note-editable {
+  min-height: 700px;
+  width: 80%;
+  margin: 36px auto;
+  padding: 36px !important;
+}
+
+#memo-editor .note-editor .note-editing-area {
+  background-color: #d2d2d2;
+}
+
+/* Spinner Loader CSS */
+/* HTML <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div> */
+.lds-ellipsis {
+  position: fixed;
+  z-index: 999999;
+  height: 2em;
+  width: 2em;
+  overflow: show;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.lds-ellipsis:before {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.lds-ellipsis div {
+  position: absolute;
+  top: 27px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #fed;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+
+.lds-ellipsis div:nth-child(1) {
+  left: 6px;
+  animation: lds-ellipsis1 0.6s infinite;
+}
+
+.lds-ellipsis div:nth-child(2) {
+  left: 6px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+
+.lds-ellipsis div:nth-child(3) {
+  left: 26px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+
+.lds-ellipsis div:nth-child(4) {
+  left: 45px;
+  animation: lds-ellipsis3 0.6s infinite;
+}
+
+.navbar-topnav .dropdown-menu {
+  right: 0;
+  left: auto;
+}
+
+.form-control::placeholder {
+  color: #e2e2e2;
+}
+
+@keyframes lds-ellipsis1 {
+  0% {
+    transform: scale(0);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes lds-ellipsis3 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(0);
+  }
+}
+
+@keyframes lds-ellipsis2 {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  100% {
+    transform: translate(19px, 0);
+  }
+}
+
+/**********************************************************************************************
+***************************** ADDITIONAL CSS STYLES GOES HERE ********************************/
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.btn {
+  color: #cecece;
+  background-color: #fff;
+  font-size: 14px;
+  margin: 0 auto;
+}
+
+.upload-btn-wrapper input[type=file] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+div#img-wrapper {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #cecece;
+  margin: 0 auto;
+}
+
+.upload-btn-wrapper.form-group.col-md-12 {
+  text-align: center;
+}
+
+select {
+  height: 37px;
+  border: 1px solid #cecece;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.tabs.ui-tabs.ui-corner-all.ui-widget.ui-widget-content {
+  border: none;
+}
+
+ul#tabs-nav {
+  background: none;
+  border: none;
+}
+
+li.active.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab.ui-tabs-active.ui-state-active,
+li.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab {
+  background: none;
+}
+
+li.active.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab.ui-tabs-active.ui-state-active a {
+  color: #007bff;
+}
+
+.inner-card {
+  padding: 0;
+  border: none;
+  background: none !important;
+}
+
+.ui-tabs .ui-tabs-panel {
+  border: none !important;
+  padding: 10px 0 !important;
+}
+
+hr {
+  border-top: 1px dotted #cecece;
+}
+
+a#download-resume {
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  padding: 6px 10px;
+}
+
+button.btn.btn-primary.btn-lg {
+  background-color: #1a73e8;
+  color: #fff;
+}
+
+.button-right {
+  text-align: right;
+}
+
+/********************DATA TABLE STYLES*************************************************************/
+table.dataTable.table-sm .sorting:after,
+table.dataTable.table-sm .sorting_asc:after,
+table.dataTable.table-sm .sorting_desc:after {
+  top: 50% !important;
+  right: 12px;
+}
+
+thead th.th-sm.sorting {
+  background-color: #52beff5c;
+}
+
+/************************MODAL STYLES***************************************************************/
+.inner-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.modal-header,
+.modal-footer {
+  background-color: #0069ac !important;
+}
+
+.inner-header,
+.inner-header button {
+  color: #fff;
+}
+
+.modal-footer button {
+  color: #fff;
+  border: 1px solid #fff;
+  background: none;
+  width: 200px;
+  max-width: 200px;
+}
+
+i.fa.fa-pencil-square-o {
+  margin: 0 10px 0 0;
+}
+
+/* .modal-dialog {max-width: 50%;} */
+/****************************************************FILE UPLOAD*******************************************/
+input#inputTag,
+input#inputTagdoc {
+  display: none;
+}
+
+.col-md-12.file_upload i {
+  font-size: 50px;
+  color: #4285f4;
+  margin: 20px 0 0 0;
+}
+
+.col-md-12.file_upload {
+  text-align: center;
+  border: 2px dotted #cecece;
+}
+
+.pm-blue {
+  background-color: #0069ac !important;
+}
+
+button.pm-blue,
+input.pm-blue {
+  border: 1px solid #ffffff !important;
+}
+
+/* Custom CSS by Ruy */
+@media (max-width: 430px) {
+
+  table#timecardTable,
+  table#employeeListTable,
+  table#leaveList,
+  table#ovetimeList,
+  div#profile table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+
+  .card-header.text-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .card-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  #user-leave .card-header {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .search-date {
+    margin-bottom: 20px !important;
+    text-align: center;
+  }
+
+  .card-header.text-center>span {
+    display: flex;
+    justify-content: center;
+  }
+
+}
+
+@media (max-width: 1440px) {
+  .col-md-8 {
+    flex: 1 !important;
+    max-width: 100.666667% !important;
+  }
+
+  .col-md-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 1;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,401 @@
+[120.28.237.209 | 02-Oct-2023 08:24:32] 2-Myadmin Userlastname: Logged in.
+[49.145.45.29 | 03-Oct-2023 08:12:43] 2-Myadmin Userlastname: Logged in.
+[49.145.45.29 | 03-Oct-2023 09:00:28] 2-Myadmin Userlastname: Logged in.
+[49.145.45.29 | 03-Oct-2023 10:40:14] 2-Myadmin Userlastname: Logged in.
+[49.145.45.29 | 03-Oct-2023 10:48:12] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 for OTin : 2023-10-02 21:00:00
+[49.145.45.29 | 03-Oct-2023 10:48:23] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 for OTout : 2023-10-02 6:00:00
+[49.145.45.29 | 03-Oct-2023 11:00:22] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 First Time in : 2023-10-01 8:00
+[49.145.45.29 | 03-Oct-2023 11:00:23] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 First Time out : 2023-10-01 12:00
+[49.145.45.29 | 03-Oct-2023 11:00:24] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 Second Time in : 2023-10-01 13:00
+[49.145.45.29 | 03-Oct-2023 11:00:25] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 Second Time out : 2023-10-01 17:00
+[49.145.45.29 | 03-Oct-2023 11:14:27] 2-Myadmin Userlastname: Add holiday 0 on 2023-10-04
+[49.145.45.29 | 03-Oct-2023 11:15:15] 2-Myadmin Userlastname: update holiday ID 85 to 1
+[49.145.45.29 | 03-Oct-2023 11:17:05] 2-Myadmin Userlastname: update holiday ID 85 to 4
+[49.145.45.29 | 03-Oct-2023 11:17:38] 2-Myadmin Userlastname: Unset Holiday Actual Rate.
+[49.145.45.29 | 03-Oct-2023 11:17:38] 2-Myadmin Userlastname: Set Holiday amount.
+[49.145.45.29 | 03-Oct-2023 11:18:32] 2-Myadmin Userlastname: Unset Nightdiff Actual Rate.
+[49.145.45.29 | 03-Oct-2023 11:18:58] 2-Myadmin Userlastname: Unset Overtime Actual Rate.
+[49.145.45.29 | 03-Oct-2023 11:19:27] 2-Myadmin Userlastname: Set Leave Actual Rate.
+[49.145.45.29 | 03-Oct-2023 11:20:02] 2-Myadmin Userlastname: Log  for Bonares, Miguelito successfully Deleted
+[49.145.45.29 | 03-Oct-2023 11:20:09] 2-Myadmin Userlastname: Log  for Bonares, Miguelito successfully Deleted
+[49.145.45.29 | 03-Oct-2023 11:20:16] 2-Myadmin Userlastname: Log  for Bonares, Miguelito successfully Deleted
+[49.145.45.29 | 03-Oct-2023 11:20:23] 2-Myadmin Userlastname: Log  for Bonares, Miguelito successfully Deleted
+[49.145.45.29 | 03-Oct-2023 11:21:35] 2-Myadmin Userlastname: Add leave for Bonares Miguelito 2023-10-06 - 1
+[49.145.45.29 | 03-Oct-2023 11:21:48] 2-Myadmin Userlastname: Unset Leave Actual Rate.
+[49.145.45.29 | 03-Oct-2023 11:21:49] 2-Myadmin Userlastname: Set Leave amount.
+[49.145.45.29 | 03-Oct-2023 11:29:36] 2-Myadmin Userlastname: Added Payroll 2023-10-01-to-2023-10-15 Array Success.
+[49.145.45.29 | 03-Oct-2023 11:43:22] 2-Myadmin Userlastname: Generate Payslip for 2023-10-01-to-2023-10-15
+[49.145.45.29 | 03-Oct-2023 11:43:24] 2-Myadmin Userlastname: Generate Payslip for 2023-10-01-to-2023-10-15
+[49.148.248.193 | 04-Oct-2023 09:08:42] 2-Myadmin Userlastname: Logged in.
+[49.148.248.193 | 04-Oct-2023 09:11:04] 2-Myadmin Userlastname: Logged out.
+[49.148.248.193 | 04-Oct-2023 09:22:56] 2-Myadmin Userlastname: Logged in.
+[49.148.248.193 | 04-Oct-2023 11:44:18] 2-Myadmin Userlastname: Logged in.
+[49.148.248.193 | 04-Oct-2023 13:05:13] 2-Myadmin Userlastname: Logged in.
+[49.148.248.193 | 04-Oct-2023 14:10:36] 2-Myadmin Userlastname: Logged in.
+[49.148.248.193 | 04-Oct-2023 14:16:04] 2-Myadmin Userlastname: Logged in.
+[49.148.249.69 | 05-Oct-2023 08:11:39] 2-Myadmin Userlastname: Logged in.
+[49.148.249.69 | 05-Oct-2023 08:55:27] 2-Myadmin Userlastname: Logged in.
+[49.148.249.69 | 05-Oct-2023 09:32:51] 2-Myadmin Userlastname: Added Employee Jhonny Shelby
+[49.148.249.69 | 05-Oct-2023 11:02:39] 2-Myadmin Userlastname: Change profile picture.
+[49.148.249.69 | 05-Oct-2023 13:04:16] 2-Myadmin Userlastname: Logged in.
+[49.148.249.69 | 05-Oct-2023 13:05:02] 2-Myadmin Userlastname: Create Schedule Plan a data structure
+[49.148.249.69 | 05-Oct-2023 13:45:42] 2-Myadmin Userlastname: Added/Updated User Schedules
+[49.148.249.69 | 05-Oct-2023 15:21:53] 2-Myadmin Userlastname: Logged in.
+[49.148.249.69 | 05-Oct-2023 15:46:09] 2-Myadmin Userlastname: Add holiday 0 on 2023-10-13
+[49.148.245.194 | 06-Oct-2023 09:17:57] 2-Myadmin Userlastname: Logged in.
+[49.148.245.194 | 06-Oct-2023 09:34:10] 2-Myadmin Userlastname: Added Payroll Payroll Sample Array Success.
+[49.148.245.194 | 06-Oct-2023 15:43:38] 2-Myadmin Userlastname: Logged in.
+[49.145.44.107 | 09-Oct-2023 15:43:31] 2-Myadmin Userlastname: Logged in.
+[49.145.44.107 | 09-Oct-2023 15:57:10] 2-Myadmin Userlastname: Log  for Bonares, Miguelito successfully Deleted
+[49.145.44.107 | 09-Oct-2023 15:57:20] 2-Myadmin Userlastname: Log  for Bonares, Miguelito successfully Deleted
+[49.145.44.107 | 09-Oct-2023 16:07:01] 2-Myadmin Userlastname: Added 13th Month test-lang-ni Array Success.
+[49.145.44.107 | 09-Oct-2023 16:09:30] 2-Myadmin Userlastname: Generate Nth-payslip for test-lang-ni
+[49.145.44.107 | 09-Oct-2023 16:09:30] 2-Myadmin Userlastname: Generate Nth-payslip for test-lang-ni
+[49.145.44.107 | 09-Oct-2023 16:18:59] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 for stimeIn : 2023-12-29 13:00:00
+[49.145.44.107 | 09-Oct-2023 16:19:17] 2-Myadmin Userlastname: Add timelog for biometric ID 897645 for stimeOut : 2023-12-29 17:00:00
+[49.145.44.107 | 09-Oct-2023 16:38:10] 2-Myadmin Userlastname: Added 13th Month try-monthly-fixed Array Success.
+[49.145.44.107 | 09-Oct-2023 16:38:41] 2-Myadmin Userlastname: Generate Nth-payslip for try-monthly-fixed
+[49.145.44.107 | 09-Oct-2023 16:38:42] 2-Myadmin Userlastname: Generate Nth-payslip for try-monthly-fixed
+[49.145.44.107 | 09-Oct-2023 16:39:38] 2-Myadmin Userlastname: Generate Nth-distribution for try-monthly-fixed
+[49.145.44.107 | 09-Oct-2023 16:39:38] 2-Myadmin Userlastname: Generate Nth-distribution for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:00:36] 2-Myadmin Userlastname: Logged in.
+[49.148.242.206 | 10-Oct-2023 08:26:27] 2-Myadmin Userlastname: Generate Nth-payslip for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:26:28] 2-Myadmin Userlastname: Generate Nth-payslip for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:26:42] 2-Myadmin Userlastname: Generate Nth-distribution for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:26:42] 2-Myadmin Userlastname: Generate Nth-distribution for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:30:31] 2-Myadmin Userlastname: Generate Nth-distribution for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:30:31] 2-Myadmin Userlastname: Generate Nth-distribution for try-monthly-fixed
+[49.148.242.206 | 10-Oct-2023 08:32:28] 2-Myadmin Userlastname: Added 13th Month 13th-month-october Array Success.
+[49.148.242.206 | 10-Oct-2023 08:33:14] 2-Myadmin Userlastname: Added 13th Month 13th-month-october Array Error.
+[49.148.242.206 | 10-Oct-2023 08:34:08] 2-Myadmin Userlastname: Generate Nth-payslip for 13th-month-october
+[49.148.242.206 | 10-Oct-2023 08:34:08] 2-Myadmin Userlastname: Generate Nth-payslip for 13th-month-october
+[49.148.242.206 | 10-Oct-2023 08:34:23] 2-Myadmin Userlastname: Generate Nth-distribution for 13th-month-october
+[49.148.242.206 | 10-Oct-2023 08:34:23] 2-Myadmin Userlastname: Generate Nth-distribution for 13th-month-october
+[49.148.242.206 | 10-Oct-2023 08:50:46] 2-Myadmin Userlastname: Log  for Helper, Demo successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:51:00] 2-Myadmin Userlastname: Log 2023-07-27 06:00                           
+                         
+                                               for Helper, Demo successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:51:30] 2-Myadmin Userlastname: Log  for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:51:51] 2-Myadmin Userlastname: Log 2023-07-26 04:30                         
+                           
+                                               for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:52:29] 2-Myadmin Userlastname: Log  for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:52:41] 2-Myadmin Userlastname: Log 2023-07-27 06:27                         
+                           
+                                               for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:52:54] 2-Myadmin Userlastname: Log 2023-07-26 15:30                            
+                            
+                                                 for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:53:07] 2-Myadmin Userlastname: Log 2023-07-27 14:23                            
+                            
+                                                 for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:53:32] 2-Myadmin Userlastname: Log 2023-08-02 13:30                            
+                            
+                                                 for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:53:46] 2-Myadmin Userlastname: Log  for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:53:58] 2-Myadmin Userlastname: Log 2023-08-02 14:00                            
+                            
+                                                 for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 08:54:10] 2-Myadmin Userlastname: Log  for Doe, John successfully Deleted
+[49.148.242.206 | 10-Oct-2023 09:10:33] 2-Myadmin Userlastname: Set SIL.
+[49.148.242.206 | 10-Oct-2023 09:15:09] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-01 8:00
+[49.148.242.206 | 10-Oct-2023 09:15:10] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-01 12:00
+[49.148.242.206 | 10-Oct-2023 09:15:11] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-01 13:00
+[49.148.242.206 | 10-Oct-2023 09:15:12] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-01 17:00
+[49.148.242.206 | 10-Oct-2023 09:16:24] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-04 8:00
+[49.148.242.206 | 10-Oct-2023 09:16:25] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-04 12:00
+[49.148.242.206 | 10-Oct-2023 09:16:26] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-04 13:00
+[49.148.242.206 | 10-Oct-2023 09:16:27] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-04 17:00
+[49.148.242.206 | 10-Oct-2023 09:16:32] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-05 8:00
+[49.148.242.206 | 10-Oct-2023 09:16:33] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-05 12:00
+[49.148.242.206 | 10-Oct-2023 09:16:34] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-05 13:00
+[49.148.242.206 | 10-Oct-2023 09:16:35] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-05 17:00
+[49.148.242.206 | 10-Oct-2023 09:16:38] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-06 8:00
+[49.148.242.206 | 10-Oct-2023 09:16:39] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-06 12:00
+[49.148.242.206 | 10-Oct-2023 09:16:40] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-06 13:00
+[49.148.242.206 | 10-Oct-2023 09:16:41] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-06 17:00
+[49.148.242.206 | 10-Oct-2023 09:16:45] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-07 8:00
+[49.148.242.206 | 10-Oct-2023 09:16:46] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-07 12:00
+[49.148.242.206 | 10-Oct-2023 09:16:47] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-07 13:00
+[49.148.242.206 | 10-Oct-2023 09:16:48] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-07 17:00
+[49.148.242.206 | 10-Oct-2023 09:16:52] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-08 8:00
+[49.148.242.206 | 10-Oct-2023 09:16:53] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-08 12:00
+[49.148.242.206 | 10-Oct-2023 09:16:54] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-08 13:00
+[49.148.242.206 | 10-Oct-2023 09:16:55] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-08 17:00
+[49.148.242.206 | 10-Oct-2023 09:16:59] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-11 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:00] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-11 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:01] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-11 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:02] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-11 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:05] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-12 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:06] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-12 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:07] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-12 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:08] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-12 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:12] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-13 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:13] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-13 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:14] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-13 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:15] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-13 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:19] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-14 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:20] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-14 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:21] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-14 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:22] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-14 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:27] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-15 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:28] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-15 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:29] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-15 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:30] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-15 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:34] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-18 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:35] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-18 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:36] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-18 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:37] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-18 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:40] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-19 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:41] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-19 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:42] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-19 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:43] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-19 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:46] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-20 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:47] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-20 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:48] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-20 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:49] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-20 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:53] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-21 8:00
+[49.148.242.206 | 10-Oct-2023 09:17:54] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-21 12:00
+[49.148.242.206 | 10-Oct-2023 09:17:55] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-21 13:00
+[49.148.242.206 | 10-Oct-2023 09:17:56] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-21 17:00
+[49.148.242.206 | 10-Oct-2023 09:17:59] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-22 8:00
+[49.148.242.206 | 10-Oct-2023 09:18:00] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-22 12:00
+[49.148.242.206 | 10-Oct-2023 09:18:01] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-22 13:00
+[49.148.242.206 | 10-Oct-2023 09:18:02] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-22 17:00
+[49.148.242.206 | 10-Oct-2023 09:18:05] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-25 8:00
+[49.148.242.206 | 10-Oct-2023 09:18:06] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-25 12:00
+[49.148.242.206 | 10-Oct-2023 09:18:07] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-25 13:00
+[49.148.242.206 | 10-Oct-2023 09:18:08] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-25 17:00
+[49.148.242.206 | 10-Oct-2023 09:18:12] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-26 8:00
+[49.148.242.206 | 10-Oct-2023 09:18:13] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-26 12:00
+[49.148.242.206 | 10-Oct-2023 09:18:14] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-26 13:00
+[49.148.242.206 | 10-Oct-2023 09:18:15] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-26 17:00
+[49.148.242.206 | 10-Oct-2023 09:18:18] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-27 8:00
+[49.148.242.206 | 10-Oct-2023 09:18:19] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-27 12:00
+[49.148.242.206 | 10-Oct-2023 09:18:20] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-27 13:00
+[49.148.242.206 | 10-Oct-2023 09:18:21] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-27 17:00
+[49.148.242.206 | 10-Oct-2023 09:18:25] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-28 8:00
+[49.148.242.206 | 10-Oct-2023 09:18:26] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-28 12:00
+[49.148.242.206 | 10-Oct-2023 09:18:27] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-28 13:00
+[49.148.242.206 | 10-Oct-2023 09:18:28] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-28 17:00
+[49.148.242.206 | 10-Oct-2023 09:18:32] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-12-29 8:00
+[49.148.242.206 | 10-Oct-2023 09:18:33] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-12-29 12:00
+[49.148.242.206 | 10-Oct-2023 09:18:34] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-12-29 13:00
+[49.148.242.206 | 10-Oct-2023 09:18:35] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-12-29 17:00
+[49.148.242.206 | 10-Oct-2023 09:33:24] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-01 8:00
+[49.148.242.206 | 10-Oct-2023 09:33:25] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-01 12:00
+[49.148.242.206 | 10-Oct-2023 09:33:26] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-01 13:00
+[49.148.242.206 | 10-Oct-2023 09:33:27] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-01 17:00
+[49.148.242.206 | 10-Oct-2023 09:33:33] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-02 8:00
+[49.148.242.206 | 10-Oct-2023 09:33:34] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-02 12:00
+[49.148.242.206 | 10-Oct-2023 09:33:35] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-02 13:00
+[49.148.242.206 | 10-Oct-2023 09:33:36] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-02 17:00
+[49.148.242.206 | 10-Oct-2023 09:33:39] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-03 8:00
+[49.148.242.206 | 10-Oct-2023 09:33:40] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-03 12:00
+[49.148.242.206 | 10-Oct-2023 09:33:41] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-03 13:00
+[49.148.242.206 | 10-Oct-2023 09:33:42] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-03 17:00
+[49.148.242.206 | 10-Oct-2023 09:33:45] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-06 8:00
+[49.148.242.206 | 10-Oct-2023 09:33:46] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-06 12:00
+[49.148.242.206 | 10-Oct-2023 09:33:47] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-06 13:00
+[49.148.242.206 | 10-Oct-2023 09:33:48] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-06 17:00
+[49.148.242.206 | 10-Oct-2023 09:33:53] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-07 8:00
+[49.148.242.206 | 10-Oct-2023 09:33:54] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-07 12:00
+[49.148.242.206 | 10-Oct-2023 09:33:55] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-07 13:00
+[49.148.242.206 | 10-Oct-2023 09:33:56] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-07 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:00] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-08 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:01] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-08 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:02] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-08 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:03] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-08 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:06] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-09 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:07] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-09 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:08] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-09 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:09] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-09 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:13] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-10 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:14] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-10 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:15] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-10 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:16] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-10 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:20] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-13 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:21] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-13 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:22] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-13 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:23] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-13 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:26] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-14 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:27] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-14 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:28] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-14 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:29] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-14 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:32] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-15 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:33] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-15 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:34] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-15 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:35] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-15 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:39] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-16 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:40] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-16 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:41] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-16 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:42] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-16 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:46] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-17 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:47] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-17 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:48] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-17 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:49] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-17 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:52] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-20 8:00
+[49.148.242.206 | 10-Oct-2023 09:34:53] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-20 12:00
+[49.148.242.206 | 10-Oct-2023 09:34:54] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-20 13:00
+[49.148.242.206 | 10-Oct-2023 09:34:55] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-20 17:00
+[49.148.242.206 | 10-Oct-2023 09:34:59] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-21 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:00] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-21 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:01] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-21 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:02] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-21 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:05] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-22 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:06] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-22 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:07] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-22 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:08] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-22 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:12] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-23 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:13] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-23 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:14] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-23 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:15] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-23 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:20] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-24 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:21] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-24 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:22] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-24 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:23] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-24 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:27] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-27 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:28] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-27 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:29] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-27 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:30] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-27 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:34] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-28 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:35] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-28 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:36] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-28 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:37] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-28 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:40] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-29 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:41] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-29 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:42] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-29 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:43] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-29 17:00
+[49.148.242.206 | 10-Oct-2023 09:35:47] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time in : 2023-11-30 8:00
+[49.148.242.206 | 10-Oct-2023 09:35:48] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 First Time out : 2023-11-30 12:00
+[49.148.242.206 | 10-Oct-2023 09:35:49] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time in : 2023-11-30 13:00
+[49.148.242.206 | 10-Oct-2023 09:35:50] 2-Myadmin Userlastname: Add timelog for biometric ID 111111 Second Time out : 2023-11-30 17:00
+[49.148.242.206 | 10-Oct-2023 09:44:44] 2-Myadmin Userlastname: Log  for Helper, Demo successfully Deleted
+[49.148.242.206 | 10-Oct-2023 09:44:58] 2-Myadmin Userlastname: Log 2023-07-26 17:30                              
+                          
+                                                 for Helper, Demo successfully Deleted
+[49.148.242.206 | 10-Oct-2023 09:45:11] 2-Myadmin Userlastname: Log 2023-07-26 08:30                           
+                         
+                                               for Helper, Demo successfully Deleted
+[49.148.242.206 | 10-Oct-2023 10:37:16] 2-Myadmin Userlastname: Added Employee New User
+[49.148.242.206 | 10-Oct-2023 10:39:25] 2-Myadmin Userlastname: Deleted Employee New User
+[49.145.38.181 | 10-Oct-2023 11:02:17] 2-Myadmin Userlastname: Downloaded Employee
+[49.145.38.181 | 10-Oct-2023 11:02:23] 2-Myadmin Userlastname: Downloaded Employee
+[49.145.38.181 | 10-Oct-2023 11:02:37] 2-Myadmin Userlastname: Downloaded Employee
+[49.145.38.181 | 10-Oct-2023 11:04:44] 2-Myadmin Userlastname: Downloaded Employee
+[49.145.38.181 | 10-Oct-2023 11:04:55] 2-Myadmin Userlastname: Downloaded Employee
+[49.145.38.181 | 10-Oct-2023 11:21:05] 2-Super Admin: Add timelog for biometric ID 111111 First Time in : 2023-11-04 8:00
+[49.145.38.181 | 10-Oct-2023 11:21:06] 2-Super Admin: Add timelog for biometric ID 111111 First Time out : 2023-11-04 12:00
+[49.145.38.181 | 10-Oct-2023 11:21:07] 2-Super Admin: Add timelog for biometric ID 111111 Second Time in : 2023-11-04 13:00
+[49.145.38.181 | 10-Oct-2023 11:21:08] 2-Super Admin: Add timelog for biometric ID 111111 Second Time out : 2023-11-04 17:00
+[49.145.38.181 | 10-Oct-2023 13:00:47] 2-Super Admin: Logged in.
+[120.28.233.116 | 10-Oct-2023 15:18:56] 2-Super Admin: Deleted Employee Tommy Shelby
+[120.28.233.116 | 10-Oct-2023 16:07:22] 2-Super Admin: Added 13th Month test-excluding-sil Array Success.
+[120.28.233.116 | 10-Oct-2023 16:09:29] 2-Super Admin: Added 13th Month excluding-sil Array Success.
+[120.28.233.116 | 10-Oct-2023 16:12:36] 2-Super Admin: Generate Nth-payslip for excluding-sil
+[120.28.233.116 | 10-Oct-2023 16:12:37] 2-Super Admin: Generate Nth-payslip for excluding-sil
+[120.28.233.116 | 10-Oct-2023 16:13:29] 2-Super Admin: Generate Nth-distribution for excluding-sil
+[120.28.233.116 | 10-Oct-2023 16:13:29] 2-Super Admin: Generate Nth-distribution for excluding-sil
+[120.28.241.210 | 19-Oct-2023 09:11:20] 2-Super Admin: Logged in.
+[49.145.40.182 | 20-Oct-2023 09:12:48] 2-Super Admin: Logged in.
+[49.145.40.182 | 20-Oct-2023 10:49:20] 2-Super Admin: Logged in.
+[49.148.241.3 | 23-Oct-2023 08:21:27] 2-Super Admin: Logged in.
+[49.145.42.246 | 24-Oct-2023 08:02:56] 2-Super Admin: Logged in.
+[49.145.42.246 | 24-Oct-2023 08:04:21] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:25] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:27] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:29] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:32] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:34] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:37] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:42] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:45] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:47] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:49] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:52] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:54] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:04:56] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:05:01] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:05:03] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:05:06] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:05:08] 2-Super Admin: Delete Schedule 
+[49.145.42.246 | 24-Oct-2023 08:05:27] 2-Super Admin: Update Schedule Standard
+[49.145.42.246 | 24-Oct-2023 08:06:13] 2-Super Admin: Log 2023-10-02 21:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:06:29] 2-Super Admin: Log 2023-10-03 06:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:06:42] 2-Super Admin: Log 2023-07-07 19:30                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:06:59] 2-Super Admin: Log 2023-07-07 22:30                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:07:12] 2-Super Admin: Log 2023-07-11 20:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:07:25] 2-Super Admin: Log 2023-07-11 23:30                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:07:39] 2-Super Admin: Log 2023-09-01 20:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:07:57] 2-Super Admin: Log 2023-09-02 00:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.42.246 | 24-Oct-2023 08:24:10] 2-Super Admin: Add timelog for biometric ID 897645 First Time in : 2023-10-06 8:00
+[49.145.42.246 | 24-Oct-2023 08:24:11] 2-Super Admin: Add timelog for biometric ID 897645 First Time out : 2023-10-06 12:00
+[49.145.42.246 | 24-Oct-2023 08:24:12] 2-Super Admin: Add timelog for biometric ID 897645 Second Time in : 2023-10-06 13:00
+[49.145.42.246 | 24-Oct-2023 08:24:13] 2-Super Admin: Add timelog for biometric ID 897645 Second Time out : 2023-10-06 17:00
+[49.145.42.246 | 24-Oct-2023 08:25:26] 2-Super Admin: Delete holiday ID 85
+[49.145.42.246 | 24-Oct-2023 08:25:56] 2-Super Admin: Set Holiday Actual Rate.
+[49.145.42.246 | 24-Oct-2023 08:26:09] 2-Super Admin: Unset Holiday Actual Rate.
+[49.145.42.246 | 24-Oct-2023 08:59:08] 2-Super Admin: Added 13th Month wews Array Success.
+[49.145.42.246 | 24-Oct-2023 08:59:30] 2-Super Admin: Generate Nth-payslip for wews
+[49.145.42.246 | 24-Oct-2023 08:59:30] 2-Super Admin: Generate Nth-payslip for wews
+[49.145.42.246 | 24-Oct-2023 08:59:56] 2-Super Admin: Generate Nth-distribution for wews
+[49.145.42.246 | 24-Oct-2023 08:59:56] 2-Super Admin: Generate Nth-distribution for wews
+[120.28.225.234 | 25-Oct-2023 10:04:26] 2-Super Admin: Logged in.
+[120.28.225.234 | 25-Oct-2023 10:28:14] 2-Super Admin: Logged out.
+[120.28.225.234 | 25-Oct-2023 11:39:44] 2-Super Admin: Logged in.
+[120.28.225.234 | 25-Oct-2023 13:10:07] 2-Super Admin: Logged in.
+[120.28.225.234 | 25-Oct-2023 13:10:49] 2-Super Admin: Set late allowance.
+[120.28.225.234 | 25-Oct-2023 13:10:51] 2-Super Admin: Set late amount.
+[120.28.225.234 | 25-Oct-2023 13:10:52] 2-Super Admin: Set Leave amount.
+[120.28.225.234 | 25-Oct-2023 13:10:53] 2-Super Admin: Set Overtime amount.
+[120.28.225.234 | 25-Oct-2023 14:04:14] 2-Super Admin: Logged in.
+[120.28.225.234 | 25-Oct-2023 14:06:32] 2-Super Admin: Change profile picture.
+[49.145.37.166 | 25-Oct-2023 14:06:40] 2-Super Admin: Logged in.
+[120.28.225.234 | 25-Oct-2023 14:06:51] 2-Super Admin: Change profile picture.
+[120.28.225.234 | 25-Oct-2023 14:07:05] 2-Super Admin: Change profile picture.
+[49.145.37.166 | 25-Oct-2023 14:07:13] 42-Miguelito Bonares: Logged in.
+[120.28.225.234 | 25-Oct-2023 14:07:16] 2-Super Admin: Change profile picture.
+[49.145.37.166 | 25-Oct-2023 14:08:19] 42-Miguelito Bonares: Apply overtime 2023-10-25
+[49.145.37.166 | 25-Oct-2023 14:09:04] 2-Super Admin: INSERT INTO `records` ( `idd`, `checktime`, `checktype`, `co
+mment` ) VALUES ( 897645, 1698278400, 4, 'kevin customization' ),( 897645, 1698289200, 5, 'kevin customization' );
+[49.145.37.166 | 25-Oct-2023 14:09:04] 2-Super Admin: update overtime status to1
+[120.28.225.234 | 25-Oct-2023 14:09:57] 2-Super Admin: Change profile picture.
+[120.28.225.234 | 25-Oct-2023 14:10:22] 2-Super Admin: Change profile picture.
+[120.28.225.234 | 25-Oct-2023 14:10:38] 2-Super Admin: Change profile picture.
+[120.28.225.234 | 25-Oct-2023 14:10:51] 2-Super Admin: Change profile picture.
+[120.28.225.234 | 25-Oct-2023 14:11:08] 2-Super Admin: Change profile picture.
+[49.145.37.166 | 25-Oct-2023 14:11:19] 2-Super Admin: Log 2023-10-25 18:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[49.145.37.166 | 25-Oct-2023 14:11:26] 2-Super Admin: Log 2023-10-25 21:00                                      
+                  
+                                                 for Bonares, Miguelito successfully Deleted
+[120.28.225.234 | 25-Oct-2023 14:11:31] 2-Super Admin: Change profile picture.
+[120.28.225.234 | 25-Oct-2023 14:12:14] 2-Super Admin: Change profile picture.
+[49.145.37.166 | 25-Oct-2023 14:12:53] 42-Miguelito Bonares: Apply overtime 2023-10-26
+[49.145.37.166 | 25-Oct-2023 14:16:01] 2-Super Admin: Delete overtime ID20
+[49.145.37.166 | 25-Oct-2023 14:48:55] 2-Super Admin: INSERT INTO `records` ( `idd`, `checktime`,
+ `checktype`, `comment` ) VALUES ( 897645, 1698364800, 4, 'xx' ),( 897645, 1698368400, 5, 'xx' );
+[49.145.37.166 | 25-Oct-2023 14:48:55] 2-Super Admin: update overtime status to1
+[120.28.225.234 | 25-Oct-2023 15:05:28] 2-Super Admin: Added/Updated User Schedules
+[49.145.37.166 | 25-Oct-2023 16:24:01] 2-Super Admin: Logged in.
+[49.145.37.166 | 25-Oct-2023 16:25:25] 2-Super Admin: Add timelog for biometric ID 897645 for OTin : 2023-10-12 14:06:00
+[49.145.37.166 | 25-Oct-2023 16:25:36] 2-Super Admin: Add timelog for biometric ID 897645 for OTout : 2023-10-12 17:10:00
+[120.28.250.106 | 27-Oct-2023 08:37:26] 2-Super Admin: Logged in.
+[120.28.250.106 | 27-Oct-2023 10:21:41] 2-Super Admin: Logged in.

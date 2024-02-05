@@ -1,0 +1,333 @@
+[120.28.250.63 | 03-Jan-2024 08:35:32] 2-Super Admin: Logged in.
+[120.28.250.63 | 03-Jan-2024 09:08:32] 2-Super Admin: Added Employee Jane  Doe
+[120.28.250.63 | 03-Jan-2024 09:08:52] 184-Jane  Doe: Logged in.
+[120.28.250.63 | 03-Jan-2024 09:10:43] 184-Jane  Doe: Change profile picture.
+[120.28.250.63 | 03-Jan-2024 09:20:50] 2-Super Admin: Upload file uploads/2/8.jpg
+[120.28.250.63 | 03-Jan-2024 09:20:56] 2-Super Admin: Update file xx information.
+[120.28.250.63 | 03-Jan-2024 09:21:05] 2-Super Admin: Deleted file xx
+[120.28.250.63 | 03-Jan-2024 09:21:32] 2-Super Admin: Add timelog for biometric ID 123 First Time in : 2024-01-03 8:00
+[120.28.250.63 | 03-Jan-2024 09:21:33] 2-Super Admin: Add timelog for biometric ID 123 First Time out : 2024-01-03 12:00
+[120.28.250.63 | 03-Jan-2024 09:21:34] 2-Super Admin: Add timelog for biometric ID 123 Second Time in : 2024-01-03 13:00
+[120.28.250.63 | 03-Jan-2024 09:21:35] 2-Super Admin: Add timelog for biometric ID 123 Second Time out : 2024-01-03 17:00
+[120.28.250.63 | 03-Jan-2024 09:22:01] 2-Super Admin: Add overtime for Doe John on  time 5:00pm - 6:00pm
+[120.28.250.63 | 03-Jan-2024 09:22:58] 2-Super Admin: Add overtime for Doe John on 2024-01-03 time 5:00pm - 6:00pm
+[120.28.250.63 | 03-Jan-2024 09:23:11] 2-Super Admin: Delete overtime ID23
+[120.28.250.63 | 03-Jan-2024 09:24:23] 2-Super Admin: Create Schedule New Sched
+[120.28.250.63 | 03-Jan-2024 09:24:36] 2-Super Admin: Update Schedule AM SHIFT NURSES
+[120.28.250.63 | 03-Jan-2024 09:25:34] 2-Super Admin: Added/Updated User Schedules
+[120.28.250.63 | 03-Jan-2024 09:27:05] 2-Super Admin: Added Payroll test Array Success.
+[120.28.250.63 | 03-Jan-2024 09:27:30] 2-Super Admin: Generate Payslip for test
+[120.28.250.63 | 03-Jan-2024 09:27:41] 2-Super Admin: Generate Distribution for test
+[120.28.250.63 | 03-Jan-2024 09:30:04] 2-Super Admin: Added 13th Month asdasdsd Array Success.
+[120.28.250.63 | 03-Jan-2024 09:30:16] 2-Super Admin: Generate Nth-payslip for asdasdsd
+[120.28.250.63 | 03-Jan-2024 09:30:20] 2-Super Admin: Generate Nth-distribution for asdasdsd
+[120.28.250.63 | 03-Jan-2024 09:50:08] 2-Super Admin: Added Payroll test-payroll Array Success.
+[120.28.250.63 | 03-Jan-2024 09:50:20] 2-Super Admin: Generate Payslip for test-payroll
+[120.28.250.63 | 03-Jan-2024 09:50:52] 2-Super Admin: Generate Payslip for test-payroll
+[120.28.250.63 | 03-Jan-2024 09:50:53] 2-Super Admin: Generate Payslip for test-payroll
+[120.28.250.63 | 03-Jan-2024 09:51:08] 2-Super Admin: Generate Distribution for test-payroll
+[120.28.250.63 | 03-Jan-2024 10:30:10] 2-Super Admin: Generate Payslip for test-payroll
+[120.28.250.63 | 03-Jan-2024 10:30:10] 2-Super Admin: Generate Payslip for test-payroll
+[120.28.250.63 | 03-Jan-2024 10:30:25] 2-Super Admin: Generate Distribution for test-payroll
+[120.28.250.63 | 03-Jan-2024 10:30:25] 2-Super Admin: Generate Distribution for test-payroll
+[49.148.245.159 | 03-Jan-2024 10:48:28] 2-Super Admin: Generate Payslip for test-payroll
+[49.148.245.159 | 03-Jan-2024 10:48:28] 2-Super Admin: Generate Payslip for test-payroll
+[49.148.245.159 | 03-Jan-2024 10:48:47] 2-Super Admin: Generate Distribution for test-payroll
+[49.148.245.159 | 03-Jan-2024 10:48:47] 2-Super Admin: Generate Distribution for test-payroll
+[49.148.245.159 | 03-Jan-2024 10:56:24] 2-Super Admin: Logged out.
+[49.148.245.159 | 03-Jan-2024 10:56:33] 2-Super Admin: Logged in.
+[49.145.36.23 | 08-Jan-2024 09:05:12] 2-Super Admin: Logged in.
+[49.145.36.23 | 08-Jan-2024 09:51:24] 2-Super Admin: Added Payroll Payroll Sample Array Success.
+[49.145.36.23 | 08-Jan-2024 11:07:22] 2-Super Admin: Deactivate License.
+[49.145.36.23 | 08-Jan-2024 11:07:24] 2-Super Admin: Deactivate License.
+[49.145.36.23 | 08-Jan-2024 11:07:25] 2-Super Admin: Deactivate License.
+[49.145.36.23 | 08-Jan-2024 11:07:26] 2-Super Admin: Deactivate License.
+[49.145.36.23 | 08-Jan-2024 11:08:28] 2-Super Admin: Deactivate License.
+[49.145.36.23 | 08-Jan-2024 11:26:24] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:31:59] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:32:03] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:32:06] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:32:07] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:32:09] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:32:36] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:32:39] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:33:01] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:48:44] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 11:55:41] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 11:58:40] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 11:58:46] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:04:26] 2-Super Admin: Logged in.
+[120.28.230.82 | 08-Jan-2024 13:04:47] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:07:45] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:12:20] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:16:27] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:22:25] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:26:32] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:27:32] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:27:58] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:30:23] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:30:30] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:30:34] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:30:38] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:30:41] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:36:33] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:39:13] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:40:37] 2-Super Admin: Activate License.
+[120.28.230.82 | 08-Jan-2024 13:41:54] 2-Super Admin: Deactivate License.
+[120.28.230.82 | 08-Jan-2024 13:42:45] 2-Super Admin: Activate License.
+[120.28.227.95 | 09-Jan-2024 08:16:13] 2-Super Admin: Logged in.
+[49.145.38.165 | 09-Jan-2024 11:48:39] 2-Super Admin: Logged in.
+[49.145.38.165 | 09-Jan-2024 11:49:04] 2-Super Admin: Deleted Employee Jane  Doe
+[49.145.38.165 | 09-Jan-2024 11:49:08] 2-Super Admin: Deleted Employee John Doe
+[49.145.38.165 | 09-Jan-2024 11:51:50] 2-Super Admin: Added Employee Admin User
+[49.145.38.165 | 09-Jan-2024 11:56:43] 2-Super Admin: Added Employee HR User
+[49.145.38.165 | 09-Jan-2024 11:58:24] 2-Super Admin: Added Employee Employee  User
+[49.145.38.165 | 09-Jan-2024 11:58:49] 185-Admin User: Logged in.
+[49.145.38.165 | 09-Jan-2024 11:59:23] 185-Admin User: Logged out.
+[49.145.38.165 | 09-Jan-2024 11:59:28] 186-HR User: Logged in.
+[49.145.38.165 | 09-Jan-2024 13:05:09] 187-Employee  User: Logged in.
+[49.145.38.165 | 09-Jan-2024 13:05:45] 187-Employee  User: Logged out.
+[49.145.38.165 | 09-Jan-2024 13:05:53] 186-HR User: Logged in.
+[49.145.38.165 | 09-Jan-2024 13:06:49] 186-HR User: Logged out.
+[158.62.52.86 | 10-Jan-2024 13:24:03] 185-Admin User: Logged in.
+[120.28.227.215 | 23-Jan-2024 14:52:53] 2-Super Admin: Added/Updated User Schedules
+[120.28.227.215 | 23-Jan-2024 14:52:53] 2-Super Admin: Added/Updated User Dayoffs
+[120.28.227.215 | 23-Jan-2024 14:52:53] 2-Super Admin: Added/Updated User Teams
+[120.28.227.215 | 23-Jan-2024 14:52:53] 2-Super Admin: Added/Updated User Groups
+[120.28.227.215 | 23-Jan-2024 14:52:53] 2-Super Admin: Added/Updated User Designations
+[120.28.227.215 | 23-Jan-2024 15:02:30] 2-Super Admin: Added holiday 0 entitled New Year 2024
+[120.28.227.215 | 23-Jan-2024 15:02:36] 2-Super Admin: Updated holiday ID 87 to 0
+[49.145.32.165 | 24-Jan-2024 08:06:51] 2-Super Admin: Logged in.
+[49.145.200.172 | 25-Jan-2024 08:32:02] 185-Admin User: Logged in.
+[120.28.228.216 | 30-Jan-2024 09:48:32] 2-Super Admin: Logged in.
+[120.28.228.216 | 30-Jan-2024 10:16:19] 2-Super Admin: Generate Payslip for Payroll Sample
+[120.28.228.216 | 30-Jan-2024 10:16:19] 2-Super Admin: Generate Payslip for Payroll Sample
+[120.28.228.216 | 30-Jan-2024 10:17:12] 2-Super Admin: Generate Distribution for Payroll Sample
+[120.28.228.216 | 30-Jan-2024 10:17:12] 2-Super Admin: Generate Distribution for Payroll Sample
+[120.28.228.216 | 30-Jan-2024 10:28:51] 2-Super Admin: Set late amount.
+[120.28.228.216 | 30-Jan-2024 10:29:03] 2-Super Admin: Set Leave Actual Rate.
+[120.28.228.216 | 30-Jan-2024 10:29:05] 2-Super Admin: Unset Leave Actual Rate.
+[120.28.228.216 | 30-Jan-2024 10:30:24] 187-Employee  User: Logged in.
+[120.28.228.216 | 30-Jan-2024 10:32:41] 2-Super Admin: Change Company Logo
+[120.28.228.216 | 30-Jan-2024 10:33:01] 2-Super Admin: Change Company Logo
+[120.28.228.216 | 30-Jan-2024 10:38:54] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 10:38
+[120.28.228.216 | 30-Jan-2024 10:39:00] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-30 10:39
+[120.28.228.216 | 30-Jan-2024 10:39:05] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 10:39
+[120.28.228.216 | 30-Jan-2024 10:39:10] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-30 10:39
+[120.28.228.216 | 30-Jan-2024 10:41:00] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-01 8:00
+[120.28.228.216 | 30-Jan-2024 10:41:01] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-01 12:00
+[120.28.228.216 | 30-Jan-2024 10:41:02] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-01 13:00
+[120.28.228.216 | 30-Jan-2024 10:41:03] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-01 17:00
+[120.28.228.216 | 30-Jan-2024 10:41:33] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-02 8:00
+[120.28.228.216 | 30-Jan-2024 10:41:34] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-02 12:00
+[120.28.228.216 | 30-Jan-2024 10:41:35] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-02 13:00
+[120.28.228.216 | 30-Jan-2024 10:41:36] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-02 17:00
+[120.28.228.216 | 30-Jan-2024 10:43:15] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-03 8:00
+[120.28.228.216 | 30-Jan-2024 10:43:16] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-03 12:00
+[120.28.228.216 | 30-Jan-2024 10:43:17] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-03 13:00
+[120.28.228.216 | 30-Jan-2024 10:43:18] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-03 17:00
+[120.28.228.216 | 30-Jan-2024 10:43:30] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-04 8:00
+[120.28.228.216 | 30-Jan-2024 10:43:31] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-04 12:00
+[120.28.228.216 | 30-Jan-2024 10:43:32] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-04 13:00
+[120.28.228.216 | 30-Jan-2024 10:43:33] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-04 17:00
+[120.28.228.216 | 30-Jan-2024 10:43:39] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-05 8:00
+[120.28.228.216 | 30-Jan-2024 10:43:40] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-05 12:00
+[120.28.228.216 | 30-Jan-2024 10:43:41] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-05 13:00
+[120.28.228.216 | 30-Jan-2024 10:43:42] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-05 17:00
+[120.28.228.216 | 30-Jan-2024 10:43:47] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-08 8:00
+[120.28.228.216 | 30-Jan-2024 10:43:48] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-08 12:00
+[120.28.228.216 | 30-Jan-2024 10:43:49] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-08 13:00
+[120.28.228.216 | 30-Jan-2024 10:43:50] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-08 17:00
+[120.28.228.216 | 30-Jan-2024 10:43:55] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-09 8:00
+[120.28.228.216 | 30-Jan-2024 10:43:56] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-09 12:00
+[120.28.228.216 | 30-Jan-2024 10:43:57] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-09 13:00
+[120.28.228.216 | 30-Jan-2024 10:43:58] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-09 17:00
+[120.28.228.216 | 30-Jan-2024 10:44:04] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-10 8:00
+[120.28.228.216 | 30-Jan-2024 10:44:05] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-10 12:00
+[120.28.228.216 | 30-Jan-2024 10:44:06] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-10 13:00
+[120.28.228.216 | 30-Jan-2024 10:44:07] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-10 17:00
+[120.28.228.216 | 30-Jan-2024 10:44:14] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-11 8:00
+[120.28.228.216 | 30-Jan-2024 10:44:15] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-11 12:00
+[120.28.228.216 | 30-Jan-2024 10:44:16] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-11 13:00
+[120.28.228.216 | 30-Jan-2024 10:44:17] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-11 17:00
+[120.28.228.216 | 30-Jan-2024 10:44:27] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-12 8:00
+[120.28.228.216 | 30-Jan-2024 10:44:28] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-12 12:00
+[120.28.228.216 | 30-Jan-2024 10:44:29] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-12 13:00
+[120.28.228.216 | 30-Jan-2024 10:44:30] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-12 17:00
+[120.28.228.216 | 30-Jan-2024 10:44:38] 2-Super Admin: Add timelog for biometric ID 333333333 First Time in : 2024-01-15 8:00
+[120.28.228.216 | 30-Jan-2024 10:44:39] 2-Super Admin: Add timelog for biometric ID 333333333 First Time out : 2024-01-15 12:00
+[120.28.228.216 | 30-Jan-2024 10:44:40] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time in : 2024-01-15 13:00
+[120.28.228.216 | 30-Jan-2024 10:44:41] 2-Super Admin: Add timelog for biometric ID 333333333 Second Time out : 2024-01-15 17:00
+[120.28.228.216 | 30-Jan-2024 10:47:55] 2-Super Admin: Added Payroll test-payroll-2024 Array Success.
+[120.28.228.216 | 30-Jan-2024 10:48:21] 2-Super Admin: Generate Payslip for test-payroll-2024
+[120.28.228.216 | 30-Jan-2024 10:48:21] 2-Super Admin: Generate Payslip for test-payroll-2024
+[120.28.228.216 | 30-Jan-2024 10:48:31] 2-Super Admin: Generate Distribution for test-payroll-2024
+[120.28.228.216 | 30-Jan-2024 10:48:31] 2-Super Admin: Generate Distribution for test-payroll-2024
+[120.28.228.216 | 30-Jan-2024 10:50:07] 2-Super Admin: Generate Distribution for test-payroll-2024
+[120.28.228.216 | 30-Jan-2024 10:50:07] 2-Super Admin: Generate Distribution for test-payroll-2024
+[120.28.228.216 | 30-Jan-2024 13:49:50] 2-Super Admin: Logged in.
+[120.28.228.216 | 30-Jan-2024 13:50:35] 187-Employee  User: Logged in.
+[122.55.76.9 | 30-Jan-2024 14:02:32] 186-HR User: Logged in.
+[58.71.120.250 | 30-Jan-2024 14:03:46] 186-HR User: Logged out.
+[58.71.120.250 | 30-Jan-2024 14:04:50] 187-Employee  User: Logged in.
+[122.55.76.9 | 30-Jan-2024 14:05:08] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 14:05
+[122.55.76.9 | 30-Jan-2024 14:07:52] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-30 14:07
+[58.71.120.250 | 30-Jan-2024 14:08:35] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 14:08
+[58.71.120.250 | 30-Jan-2024 14:08:48] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-30 14:08
+[120.28.228.216 | 30-Jan-2024 14:09:40] 187-Employee  User: Logged in.
+[58.71.120.250 | 30-Jan-2024 14:11:32] 187-Employee  User: Logged out.
+[122.55.76.9 | 30-Jan-2024 14:11:51] 186-HR User: Logged in.
+[120.28.228.216 | 30-Jan-2024 14:19:04] 185-Admin User: Logged in.
+[122.55.76.9 | 30-Jan-2024 14:31:55] 186-HR User: Logged out.
+[58.71.120.250 | 30-Jan-2024 14:32:03] 186-HR User: Logged in.
+[58.71.120.250 | 30-Jan-2024 14:32:59] 186-HR User: Logged out.
+[58.71.120.250 | 30-Jan-2024 14:33:17] 185-Admin User: Logged in.
+[49.145.38.234 | 30-Jan-2024 14:33:31] 2-Super Admin: Logged out.
+[49.145.38.234 | 30-Jan-2024 14:33:55] 186-HR User: Logged in.
+[49.145.38.234 | 30-Jan-2024 14:34:47] 186-HR User: Logged out.
+[49.145.38.234 | 30-Jan-2024 14:34:53] 2-Super Admin: Logged in.
+[49.145.38.234 | 30-Jan-2024 14:35:51] 2-Super Admin: Set Holiday Actual Rate.
+[49.145.38.234 | 30-Jan-2024 14:35:51] 2-Super Admin: Set Nightdiff Actual Rate.
+[49.145.38.234 | 30-Jan-2024 14:35:53] 2-Super Admin: Set Leave Actual Rate.
+[49.145.38.234 | 30-Jan-2024 14:35:53] 2-Super Admin: Set Overtime Actual Rate.
+[49.145.38.234 | 30-Jan-2024 14:38:09] 2-Super Admin: Unset Holiday Actual Rate.
+[49.145.38.234 | 30-Jan-2024 14:39:09] 2-Super Admin: Set Holiday Actual Rate.
+[58.71.120.250 | 30-Jan-2024 14:39:20] 185-Admin User: Logged out.
+[122.55.76.9 | 30-Jan-2024 14:39:26] 187-Employee  User: Logged in.
+[122.55.76.9 | 30-Jan-2024 14:39:27] 187-Employee  User: Logged in.
+[120.28.228.216 | 30-Jan-2024 14:47:22] 187-Employee  User: Apply overtime 2024-01-30
+[120.28.228.216 | 30-Jan-2024 14:51:32] 185-Admin User: Log  for  User, Employee successfully Deleted
+[120.28.228.216 | 30-Jan-2024 14:51:38] 185-Admin User: Log  for  User, Employee successfully Deleted
+[120.28.228.216 | 30-Jan-2024 14:51:44] 185-Admin User: Log  for  User, Employee successfully Deleted
+[120.28.228.216 | 30-Jan-2024 14:51:51] 185-Admin User: Log  for  User, Employee successfully Deleted
+[49.145.38.234 | 30-Jan-2024 14:53:10] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 14:53
+[120.28.228.216 | 30-Jan-2024 14:53:20] 185-Admin User: Create Schedule half day PM
+[120.28.228.216 | 30-Jan-2024 14:53:34] 185-Admin User: Log  for  User, Employee successfully Deleted
+[120.28.228.216 | 30-Jan-2024 15:30:12] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 15:30
+[120.28.228.216 | 30-Jan-2024 15:30:26] 185-Admin User: Log  for  User, Employee successfully Deleted
+[58.71.120.250 | 30-Jan-2024 16:05:55] 185-Admin User: Logged in.
+[58.71.120.250 | 30-Jan-2024 16:05:56] 185-Admin User: Logged in.
+[120.28.228.216 | 30-Jan-2024 16:45:47] 185-Admin User: Logged in.
+[120.28.228.216 | 30-Jan-2024 16:46:45] 185-Admin User: Create Schedule half day PM2
+[49.145.38.234 | 30-Jan-2024 16:47:52] 2-Super Admin: Logged in.
+[120.28.228.216 | 30-Jan-2024 16:49:14] 187-Employee  User: Logged in.
+[49.145.38.234 | 30-Jan-2024 16:50:58] 2-Super Admin: Added/Updated User Dayoffs
+[49.145.38.234 | 30-Jan-2024 16:50:58] 2-Super Admin: Added/Updated User Teams
+[49.145.38.234 | 30-Jan-2024 16:50:58] 2-Super Admin: Added/Updated User Groups
+[49.145.38.234 | 30-Jan-2024 16:50:58] 2-Super Admin: Added/Updated User Designations
+[120.28.228.216 | 30-Jan-2024 16:52:06] 185-Admin User: Added/Updated User Schedules
+[120.28.228.216 | 30-Jan-2024 16:52:20] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 16:52
+[120.28.228.216 | 30-Jan-2024 16:54:52] 185-Admin User: Log  for  User, Employee successfully Deleted
+[120.28.228.216 | 30-Jan-2024 16:55:32] 187-Employee  User: Logged out.
+[120.28.228.216 | 30-Jan-2024 16:55:45] 187-Employee  User: Logged in.
+[120.28.228.216 | 30-Jan-2024 16:57:45] 185-Admin User: Added/Updated User Schedules
+[49.145.38.234 | 30-Jan-2024 16:58:15] 187-Employee  User: Logged in.
+[120.28.228.216 | 30-Jan-2024 16:58:18] 185-Admin User: Added/Updated User Schedules
+[120.28.228.216 | 30-Jan-2024 16:58:36] 185-Admin User: Added/Updated User Schedules
+[120.28.228.216 | 30-Jan-2024 16:58:47] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-30 16:58
+[120.28.228.216 | 30-Jan-2024 17:06:27] 187-Employee  User: Logged out.
+[58.71.120.250 | 30-Jan-2024 17:12:24] 185-Admin User: Logged in.
+[58.71.120.250 | 30-Jan-2024 17:19:39] 185-Admin User: Logged out.
+[58.71.120.250 | 30-Jan-2024 17:19:52] 187-Employee  User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:17:32] 187-Employee  User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:17:42] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 2:17
+[58.71.120.250 | 31-Jan-2024 02:17:46] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 2:17
+[122.55.76.9 | 31-Jan-2024 02:18:55] 187-Employee  User: Logged out.
+[122.55.76.9 | 31-Jan-2024 02:18:59] 185-Admin User: Logged in.
+[122.55.76.9 | 31-Jan-2024 02:31:21] 185-Admin User: Added Employee John Cruz
+[58.71.120.250 | 31-Jan-2024 02:33:08] 185-Admin User: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:33:13] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:43:48] 185-Admin User: Import Timelog
+[58.71.120.250 | 31-Jan-2024 02:44:02] 185-Admin User: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:44:12] 188-John Cruz: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:45:03] 188-John Cruz: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:45:05] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:46:42] 185-Admin User: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:46:44] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:46:47] 185-Admin User: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:46:50] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:47:08] 185-Admin User: Logged out.
+[122.55.76.9 | 31-Jan-2024 02:47:15] 186-HR User: Logged in.
+[122.55.76.9 | 31-Jan-2024 02:51:58] 186-HR User: Logged out.
+[122.55.76.9 | 31-Jan-2024 02:52:01] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:52:15] 185-Admin User: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:52:18] 188-John Cruz: Logged in.
+[58.71.120.250 | 31-Jan-2024 02:52:31] 188-John Cruz: Logged out.
+[58.71.120.250 | 31-Jan-2024 02:52:37] 187-Employee  User: Logged in.
+[122.55.76.9 | 31-Jan-2024 02:52:43] 187-Employee  User: Logged out.
+[122.55.76.9 | 31-Jan-2024 02:52:46] 185-Admin User: Logged in.
+[122.55.76.9 | 31-Jan-2024 02:55:08] 188-John Cruz: Logged in.
+[122.55.76.9 | 31-Jan-2024 03:03:27] 188-John Cruz: Logged out.
+[122.55.76.9 | 31-Jan-2024 03:03:29] 187-Employee  User: Logged in.
+[58.71.120.250 | 31-Jan-2024 03:18:41] 185-Admin User: Logged out.
+[58.71.120.250 | 31-Jan-2024 03:18:43] 188-John Cruz: Logged in.
+[58.71.120.250 | 31-Jan-2024 03:20:21] 188-John Cruz: Logged out.
+[58.71.120.250 | 31-Jan-2024 03:20:24] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 03:20:41] 185-Admin User: Set Nightdiff amount.
+[58.71.120.250 | 31-Jan-2024 03:22:56] 185-Admin User: Set Overtime amount.
+[122.55.76.9 | 31-Jan-2024 08:18:12] 187-Employee  User: Logged in.
+[122.55.76.9 | 31-Jan-2024 08:18:26] 187-Employee  User: Logged out.
+[122.55.76.9 | 31-Jan-2024 08:18:29] 188-John Cruz: Logged in.
+[122.55.76.9 | 31-Jan-2024 08:18:37] 188-John Cruz: Logged out.
+[122.55.76.9 | 31-Jan-2024 08:18:50] 188-John Cruz: Logged in.
+[58.71.120.250 | 31-Jan-2024 08:19:40] 188-John Cruz: Logged out.
+[58.71.120.250 | 31-Jan-2024 08:19:49] 185-Admin User: Logged in.
+[122.55.76.9 | 31-Jan-2024 08:24:32] 185-Admin User: Unset Nightdiff Actual Rate.
+[58.71.120.250 | 31-Jan-2024 08:30:31] 187-Employee  User: Logged in.
+[122.55.76.9 | 31-Jan-2024 08:30:37] 187-Employee  User: Logged out.
+[122.55.76.9 | 31-Jan-2024 08:30:40] 188-John Cruz: Logged in.
+[58.71.120.250 | 31-Jan-2024 08:30:51] 188-John Cruz: Logged out.
+[58.71.120.250 | 31-Jan-2024 08:30:53] 188-John Cruz: Logged in.
+[58.71.120.250 | 31-Jan-2024 08:31:05] 188-John Cruz: Logged out.
+[58.71.120.250 | 31-Jan-2024 08:31:09] 185-Admin User: Logged in.
+[120.28.224.99 | 31-Jan-2024 08:31:47] 185-Admin User: Logged in.
+[58.71.120.250 | 31-Jan-2024 08:50:59] 185-Admin User: Added holiday 1 entitled sample
+[58.71.120.250 | 31-Jan-2024 08:52:02] 185-Admin User: Delete holiday ID 87
+[49.148.240.71 | 31-Jan-2024 09:11:15] 187-Employee  User: Logged in.
+[49.148.240.71 | 31-Jan-2024 09:11:28] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 9:11
+[49.148.240.71 | 31-Jan-2024 09:11:31] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 9:11
+[49.148.240.71 | 31-Jan-2024 09:12:12] 2-Super Admin: Logged in.
+[49.148.240.71 | 31-Jan-2024 09:12:52] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:13:00] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:13:07] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:13:13] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:13:20] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:14:36] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 9:14
+[49.148.240.71 | 31-Jan-2024 09:14:40] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 9:14
+[49.148.240.71 | 31-Jan-2024 09:21:16] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:21:23] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:26:41] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 9:26
+[49.148.240.71 | 31-Jan-2024 09:26:54] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 9:26
+[49.148.240.71 | 31-Jan-2024 09:28:46] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:28:53] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:29:13] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 9:29
+[49.148.240.71 | 31-Jan-2024 09:29:17] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 9:29
+[49.148.240.71 | 31-Jan-2024 09:29:34] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:29:42] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:31:08] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 9:31
+[49.148.240.71 | 31-Jan-2024 09:31:11] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 9:31
+[49.148.240.71 | 31-Jan-2024 09:33:24] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.148.240.71 | 31-Jan-2024 09:33:31] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.145.44.59 | 31-Jan-2024 10:15:21] 2-Super Admin: Logged in.
+[49.145.44.59 | 31-Jan-2024 10:15:40] 187-Employee  User: Logged in.
+[49.145.44.59 | 31-Jan-2024 13:06:15] 2-Super Admin: Logged in.
+[49.145.44.59 | 31-Jan-2024 13:06:31] 187-Employee  User: Logged in.
+[49.145.44.59 | 31-Jan-2024 13:46:48] 2-Super Admin: Logged in.
+[49.145.44.59 | 31-Jan-2024 13:46:59] 187-Employee  User: Logged in.
+[49.145.44.59 | 31-Jan-2024 14:38:12] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 14:38
+[49.145.44.59 | 31-Jan-2024 14:38:16] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 14:38
+[49.145.44.59 | 31-Jan-2024 14:40:46] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.145.44.59 | 31-Jan-2024 14:40:52] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.145.44.59 | 31-Jan-2024 15:29:10] 2-Super Admin: Logged in.
+[49.145.44.59 | 31-Jan-2024 15:29:44] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 15:29
+[49.145.44.59 | 31-Jan-2024 15:29:49] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 15:29
+[49.145.44.59 | 31-Jan-2024 15:30:52] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.145.44.59 | 31-Jan-2024 15:30:59] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.145.44.59 | 31-Jan-2024 16:18:05] 2-Super Admin: INSERT INTO `records` ( `idd`, `checktime`, `check
+type`, `comment` ) VALUES ( 333333333, 1706655660, 4, 'tasks' ),( 333333333, 1706659200, 5, 'tasks' );
+[49.145.44.59 | 31-Jan-2024 16:18:05] 2-Super Admin: update overtime status to1
+[49.145.44.59 | 31-Jan-2024 16:18:16] 2-Super Admin: update overtime status to0
+[49.145.44.59 | 31-Jan-2024 16:22:28] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-01-31 16:22
+[49.145.44.59 | 31-Jan-2024 16:22:34] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-01-31 16:22
+[49.145.44.59 | 31-Jan-2024 16:23:10] 2-Super Admin: Log  for  User, Employee successfully Deleted
+[49.145.44.59 | 31-Jan-2024 16:23:17] 2-Super Admin: Log  for  User, Employee successfully Deleted

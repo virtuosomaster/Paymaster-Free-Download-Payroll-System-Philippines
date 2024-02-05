@@ -1,0 +1,48 @@
+[122.55.76.9 | 01-Feb-2024 00:21:00] 185-Admin User: Logged in.
+[122.55.76.9 | 01-Feb-2024 00:21:32] 185-Admin User: Logged out.
+[122.55.76.9 | 01-Feb-2024 00:21:35] 188-John Cruz: Logged in.
+[122.55.76.9 | 01-Feb-2024 16:08:32] 188-John Cruz: Logged in.
+[49.145.47.161 | 02-Feb-2024 09:42:21] 2-Super Admin: Logged in.
+[49.145.47.161 | 02-Feb-2024 09:43:36] 187-Employee  User: Logged in.
+[49.145.47.161 | 02-Feb-2024 09:44:24] 2-Super Admin: Added/Updated User Schedules
+[122.55.76.9 | 02-Feb-2024 13:50:24] 188-John Cruz: Logged in.
+[58.71.120.250 | 02-Feb-2024 13:50:29] 185-Admin User: Logged in.
+[120.28.227.67 | 02-Feb-2024 14:02:21] 185-Admin User: Logged in.
+[120.28.227.67 | 02-Feb-2024 14:04:56] 187-Employee  User: Logged in.
+[120.28.227.67 | 02-Feb-2024 14:27:54] 185-Admin User: Unset Holiday Actual Rate.
+[120.28.227.67 | 02-Feb-2024 14:28:34] 185-Admin User: Set Holiday Actual Rate.
+[120.28.227.67 | 02-Feb-2024 14:39:56] 185-Admin User: Create Schedule Morning shift
+[120.28.227.67 | 02-Feb-2024 14:41:26] 185-Admin User: Create Schedule Morning shift
+[120.28.227.67 | 02-Feb-2024 14:44:01] 185-Admin User: Create Schedule undertime AM
+[122.55.76.9 | 02-Feb-2024 14:45:12] 188-John Cruz: Logged in.
+[120.28.227.67 | 02-Feb-2024 14:49:59] 185-Admin User: Add leave for User HR 2024-01-11 - 1
+[120.28.227.67 | 02-Feb-2024 14:51:02] 185-Admin User: Update leave ID 54 status to 0
+[120.28.227.67 | 02-Feb-2024 14:51:11] 185-Admin User: Update leave ID 54 status to 1
+[120.28.227.67 | 02-Feb-2024 14:51:39] 185-Admin User: Added holiday 0 entitled test
+[49.145.47.161 | 02-Feb-2024 15:34:34] 2-Super Admin: Logged in.
+[58.71.120.250 | 02-Feb-2024 15:38:12] 188-John Cruz: Logged out.
+[58.71.120.250 | 02-Feb-2024 15:38:16] 187-Employee  User: Logged in.
+[122.55.76.9 | 02-Feb-2024 15:38:45] 187-Employee  User: Logged out.
+[120.28.227.67 | 02-Feb-2024 15:38:56] 188-John Cruz: Logged in.
+[122.55.76.9 | 02-Feb-2024 15:39:00] 188-John Cruz: Logged in.
+[120.28.227.67 | 02-Feb-2024 15:40:44] 185-Admin User: Added/Updated User Schedules
+[49.145.47.161 | 02-Feb-2024 15:41:35] 188-John Cruz: Logged in.
+[49.145.47.161 | 02-Feb-2024 15:42:51] 188-John Cruz: Logged out.
+[49.145.47.161 | 02-Feb-2024 15:43:00] 187-Employee  User: Logged in.
+[58.71.120.250 | 02-Feb-2024 15:43:39] 188-John Cruz: Logged out.
+[58.71.120.250 | 02-Feb-2024 15:43:42] 187-Employee  User: Logged in.
+[49.145.47.161 | 02-Feb-2024 15:44:01] 187-Employee  User: Logged out.
+[49.145.47.161 | 02-Feb-2024 15:44:10] 188-John Cruz: Logged in.
+[58.71.120.250 | 02-Feb-2024 15:46:40] 185-Admin User: Added Payroll Sample Array Success.
+[58.71.120.250 | 02-Feb-2024 15:46:56] 185-Admin User: Generate Payslip for Sample
+[58.71.120.250 | 02-Feb-2024 15:46:57] 185-Admin User: Generate Payslip for Sample
+[49.145.47.161 | 02-Feb-2024 15:50:23] 2-Super Admin: Added/Updated User Schedules
+[49.145.47.161 | 02-Feb-2024 15:51:25] 188-John Cruz: Add timelog for biometric ID 1001 Time In : 2024-02-02 15:51
+[49.145.47.161 | 02-Feb-2024 15:51:31] 188-John Cruz: Add timelog for biometric ID 1001 Time Out : 2024-02-02 15:51
+[49.145.47.161 | 02-Feb-2024 15:52:06] 2-Super Admin: Log  for Cruz, John successfully Deleted
+[49.145.47.161 | 02-Feb-2024 15:52:12] 2-Super Admin: Log  for Cruz, John successfully Deleted
+[122.55.76.9 | 02-Feb-2024 16:02:40] 187-Employee  User: Add timelog for biometric ID 333333333 Time In : 2024-02-02 16:02
+[122.55.76.9 | 02-Feb-2024 16:02:46] 187-Employee  User: Add timelog for biometric ID 333333333 Time Out : 2024-02-02 16:02
+[122.55.76.9 | 02-Feb-2024 16:02:49] 187-Employee  User: Logged out.
+[122.55.76.9 | 02-Feb-2024 16:02:54] 188-John Cruz: Logged in.
+[58.71.120.250 | 02-Feb-2024 16:03:06] 188-John Cruz: Logged out.
