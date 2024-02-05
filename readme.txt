@@ -1,4 +1,4 @@
-Paycheck Master v4.3.3
+Paymaster Free Download Payroll System Philippines v4.3.3
 
 ===== Change Logs =====
 * VERSION 3.4 *
