@@ -1,4 +1,14 @@
-Paymaster Free Download Payroll System Philippines v4.3.3
+Paymaster Free Download Payroll System Philippines v4.3.4
+
+How to Install Payroll Master  
+https://payrollmaster.ph/knowledgebase/user-guide-to-installing-paycheckmaster-standard/
+
+
+How to Integrate  Biometric Device in Payroll System  
+https://payrollmaster.ph/connect-to-biometric-device/
+
+
+
 
 ===== Change Logs =====
 * VERSION 3.4 *
